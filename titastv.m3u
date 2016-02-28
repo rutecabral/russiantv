@@ -1,142 +1,162 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red][I][B]titas (tv)[/B][/I][/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
+#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png", RTP 1 [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 2[/B][/I][/COLOR]
+#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png", RTP 2 [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC[/B][/I][/COLOR]
-rtmp://178.162.199.131/live playpath=sic90?id=85765&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sic90/1/650/500 conn=S:OK
+#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC [SD]
+rtmp://178.162.199.73/live playpath=sic90?id=85765&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sic90/1/650/500 conn=S:OK
 
-#EXTINF:-1,[B][COLOR yellow]SIC RADICAL[/B][/COLOR]
+#EXTINF:-1 tvg-id="SIC Radical" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png", SIC Radical
 rtmp://178.162.199.155/live playpath=sicradicalx?id=84768&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/599/399 conn=S:OK
-#EXTINF:-1,[B][COLOR yellow]SIC MULHER[/B][/COLOR]
-rtmp://178.162.199.131/live playpath=sicm02?id=85250&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399 conn=S:OK
 
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
+#EXTINF:-1,SIC MULHER
+rtmp://46.28.50.116/live playpath=sicm02?id=85250&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/650/500 conn=S:OK
+
+#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png", TVI [SD]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
+#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png", TVI [SD]
 rtmp://146.185.16.60/live playpath=tvi0x?id=24420&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/tvi0x/1/599/399 conn=S:OK
 
 
-#EXTINF:-1,[B][COLOR yellow]TVI FIC[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png", TVI Ficção [SD]
 rtmp://146.185.16.64/live playpath=tvicrl?id=24273&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/tvicrl/1/599/399 conn=S:OK
 
-#EXTINF:-1,[B][COLOR yellow]TVI REALITY[/B][/COLOR]
+#EXTINF:-1,TVI REALITY
 rtmp://37.58.52.100/live playpath=fggggfsaqa?id=243045&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://www.mipsplayer.com/embedplayer/fggggfsaqa/1/545/380 conn=S:OK
  
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="tvi_24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [SD]
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
 
-#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="rtp informaçao.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 3 [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png", RTP Açores [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
 
 
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="rtp_africa.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP ÁFRICA[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png", RTP África [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15
 
 
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="RTP Madeira.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MADEIRA[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png", RTP Madeira [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="rtp_açores.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP AÇORES[/B][/I][/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15
-
-#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="rtp_internacional.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]
+#EXTINF:-1 tvg-name="RTPi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png", RTP Internacional [SD]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="etv_pt.png" group-title="PORTUGAL",[COLOR yellow][I][B]ECONÓMICO TV[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="etv_pt.png" group-title="PORTUGAL",ECONÓMICO TV
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="Euronews.png" group-title="PORTUGAL",[COLOR yellow][I][B]EURONEWS[/B][/I][/COLOR]
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8
-
-#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="Euronews.png" group-title="PORTUGAL",[COLOR yellow][I][B]EURONEWS[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="Euronews.png" group-title="PORTUGAL",EURONEWS
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 
-#EXTINF:-1 tvg-id="tvc.pt" tvg-logo="tcv.png" group-title="PORTUGAL",[COLOR yellow][I][B]TV CABO VERDE[/B][/I][/COLOR]
+#EXTINF:-1 group title="BRASIL" tvg-logo="http://www.thelogodb.com/images/media/logo/yqpwvs1436890865.png", TV RECORD int
+rtp://239.186.64.83:10000
+
+#EXTINF:-1 group title="BRASIL" tvg-logo="http://www.thelogodb.com/images/media/logo/yqpwvs1436890865.png", TV RECORD
+rtmp://wz3.dnip.com.br/tvgazetamt/ playpath=tvgazetamt.sdp swfUrl=http://www.cxtv.com.br/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-online/tv-record
+
+#EXTINF:-1 group-title=“BRASIL” tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png", TV Globo
+swfUrl=http://www.streamcasttv.biz/embed/jwplayer/jwplayer.flash.swfGrupo_UP_e_DOWN pageUrl=http://www.streamcasttv.biz/embed/1c.php?file=lpcast3111ardq&width=468&height=360tvbobokkk
+
+#EXTINF:-1 group-title=“BRASIL” tvg-logo="http://www.thelogodb.com/images/media/logo/rvtpxp1437610838.png", SBT
+rtmp://187.18.187.5/livepkgr/ playpath=tvjangadeiro1 swfUrl=http://tribunadoceara.uol.com.br/tv-jangadeiro/wp-content/themes/2013_jangadeiro_tv/js/jwplayer/jwplayer.flash.swf live=1 timeout=10 pageUrl=http://tribunadoceara.uol.com.br/tv-jangadeiro/ao-vivo/
+#EXTINF:-1 group-title=“BRASIL” tvg-logo="http://www.thelogodb.com/images/media/logo/trqtsr1436845716.png", TV BRASIL
+http://ebcremuxlive-live.hls.adaptive.level3.net:80/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+
+#EXTINF:-1 group-title=“BRASIL” tvg-logo="Rede TV HD.png",REDE TV
+rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
+ 
+#EXTINF:-1 tvg-id="tvc.pt" tvg-logo="http://c3.quickcachr.fotos.sapo.pt/i/P1313c2ba/14950636_1qKLz.jpeg", TV CABO VERDE
 rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1
 
-#EXTINF:-1 tvg-id="TPA" tvg-logo="tpa i.png" group-title="PORTUGAL",[COLOR yellow][I][B]TPA[/B][/I][/COLOR]
+#EXTINF:0 tvg-id="TPA" tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png", TPA Internacional [SD]
 rtmp://fml.6F53.edgecastcdn.net/206F53 playpath=tpai512 swfUrl=http://www.tpai.tv/swf/jwplayer/player.swf?mag live=1 pageUrl=http://www.tpai.tv/live
 
-#EXTINF:-1,[B][COLOR yellow]A BOLA TV[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png", A BOLA TV [SD] 
 rtmp://178.162.193.26/stream playpath=abolatva?id=19711&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/embedplayer/abolatva/1/599/399 conn=S:OK
 
 
-#EXTINF:-1,[B][COLOR yellow]CM TV[/B][/COLOR] 
+#EXTINF:-1 tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CM TV [SD]
 rtmp://85.17.20.72/stream playpath=cmtvb?id=21917&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/embedplayer/cmtvb/1/599/399 conn=S:OK
 
-#EXTINF:-1,[B][COLOR yellow]PORTO CANAL[/B][/COLOR] 
-rtmp://46.28.50.116/live playpath=portocanalxx?id=84767&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/portocanalxx/1/599/399 conn=S:OK
+#EXTINF:0 tvg-id="Porto Canal" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png", Porto Canal 
+rtmp://146.185.16.58/live playpath=portocanalxx?id=84767&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500 conn=S:OK
 
-#EXTINF:-1,[B][COLOR yellow]MOTORS TV[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qyxuwt1433346085.png", MOTORS TV [SD]
 rtmp://46.28.53.120/live playpath=motorstvx?id=84752&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/motorstvx/1/599/399 conn=S:OK
 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/spurwy1433945957.png", NATIONAL GEOGRAPHIC SD
+rtmp://46.28.53.120/live playpath=natgeoax?id=84757&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/580/480 conn=S:OK
 
-#EXTINF:-1,[B][COLOR yellow]DISCOVERY[/B][/COLOR]
-rtmp://37.130.226.172/live playpath=discoveryx?id=84775&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/discoveryx/1/599/399 conn=S:OK 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png", ODISSEIA
+rtmp://178.162.199.73/live playpath=odisseiax?id=84765&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/650/500 conn=S:OK
 
-#EXTINF:-1,[B][COLOR yellow]HISTORIA[/B][/COLOR]
-rtmp://95.211.169.38/stream playpath=historiab?id=21918&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/embedplayer/historiab/1/599/399 conn=S:OK
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", CANAL HISTORIA SD
+rtmp://178.162.194.35/stream playpath=historiab?id=21918&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757  swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/embedplayer/historiab/1/650/500 conn=S:OK 
 
-#EXTINF:-1,[B][COLOR yellow]NAT GEO[/B][/COLOR]
-rtmp://5.63.149.236/live playpath=natgeoax?id=84757&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/599/399 conn=S:OK
+#EXTINF:-1,DISCOVERY
+rtmp://173.192.209.69/live playpath=discoveryx?id=84775&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/discoveryx/1/599/399 conn=S:OK
 
-#EXTINF:-1,[B][COLOR yellow]ODISSEIA[/B][/COLOR]
-rtmp://5.63.149.236/live playpath=odisseiax?id=84765&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/599/399 conn=S:OK
-
-#EXTINF:-1,[B][COLOR yellow]HOLLYWOOD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vqtrqu1436898965.png", Hollywood [SD]
 rtmp://173.192.209.69/live playpath=hollywoodx?id=84769&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/hollywoodx/1/599/399 conn=S:OK
 
-#EXTINF:-1,[B][COLOR yellow]FOX[/B][/COLOR]
-rtmp://46.28.53.30/live playpath=foxcrl?id=24274&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/foxcrl/1/599/399 conn=S:OK
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rwptru1436892145.png", FOX [SD]
+rtmp://146.185.16.60/live playpath=foxcrl?id=24274&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/foxcrl/1/650/500 conn=S:OK
 
-#EXTINF:-1,[B][COLOR yellow]FOX CRIME[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrqpsr1435103548.png", FOX Crime [SD]
 rtmp://46.28.53.120/live playpath=foxcrimex?id=84766&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/foxcrimex/1/599/399 conn=S:OK
 
-#EXTINF:-1,[B][COLOR yellow]FOX MOVIES[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png", FOX Life [SD]
+rtmp://46.165.230.29/stream playpath=foxlifea?id=19709&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/embedplayer/foxlifea/1/599/399 conn=S:OK
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxrrvv1436890227.png", FOX Movies [SD]
 rtmp://146.185.16.62/live playpath=sical?id=24913&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/sical/1/599/399 conn=S:OK
 
-#EXTINF:-1,[B][COLOR yellow]AXN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yusrru1445113463.png", AXN [SD]
 rtmp://46.28.53.142/live playpath=axn1x?id=84753&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/599/399 conn=S:OK
 
-#EXTINF:-1,[B][COLOR yellow]AXN WHITE[/B][/COLOR]
+#EXTINF:-1,AXN White 
 rtmp://178.162.199.155/live playpath=axnwhitex?id=84774&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/axnwhitex/1/599/399 conn=S:OK
 
 
 
-#EXTINF:-1,[B][COLOR yellow]SPORT TV 1 HD[/B][/COLOR] 
-rtmp://109.123.114.162/live playpath=jateesqueceste?id=25251&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/jateesqueceste/1/650/500 conn=S:OK
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png",Sport TV 1 [SD] 
+rtmp://185.2.138.228/live playpath=continua2?id=85815&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/continua2/1/599/399 conn=S:OK
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SportTV 1.png" group-title=“DESPORTO”,[COLOR yellow][I][B]SPORT TV 1  [/B][/I][/COLOR]
-rtmp://173.193.205.94/live playpath=continua?id=85781&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/continua/1/599/399 conn=S:OK
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png",Sport TV 1 [plexus]
+plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORTS
 
-#EXTINF:-1,[B][COLOR yellow]SPORT TV 2 HD[/B][/COLOR] 
-rtmp://46.28.50.124/live playpath=sp2100?id=85758&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sp2100/1/650/500 conn=S:OK
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png",Sport TV 2 [SD] 
+rtmp://173.192.209.69/live playpath=sp2100?id=85758&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sp2100/1/599/399 conn=S:OK
 
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="sporttv3.png" group-title=“DESPORTO”,[COLOR yellow][I][B]SPORT TV 3 [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png",Sport TV 2 [plexus]
+plugin://program.plexus/?mode=1&url=acestream://6053774a957d5b6066d2f04236d7d67bc9434a8e&mode=1&name=acestream&mode=1&name=SPORTS
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png",Sport TV 3 [SD]
 rtmp://173.192.209.69/live playpath=sp3100?id=85757&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sp3100/1/650/500 conn=S:OK
 
-#EXTINF:-1,[B][COLOR yellow]SPORT TV 4 HD OFF[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png",Sport TV 3 [plexus]
+plugin://program.plexus/?mode=1&url=acestream://0b5582153832ddc45e407c71f3504736b642d59d&mode=1&name=acestream&mode=1&name=SPORTS
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wywyss1436887367.png",Sport TV 4 [SD]
 http://tvip.sytes.net:8000/live/arno/v3/27.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="sport_tv_5.png" group-title=“DESPORTO”,[COLOR yellow][I][B]SPORT TV 5 OFF [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png",Sport TV 5 [SD]
 http://hyper.de1-eu.com:8000/live/saeid/saeid/637.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png",BTV 1 [SD]
+rtmp://199.195.195.4/live playpath=slbljttDZS?id=21720&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbljttDZS/1/555/435 conn=S:OK
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png",BTV 2 [SD]
+rtmp://46.28.53.34/live playpath=caralhof?id=85529&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/caralhof/1/599/399 conn=S:OK
+#EXTINF:-1,SPORTING TV
+rtmp://46.28.50.116/live playpath=sicradicalx?id=84768&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500 conn=S:OK
 
 #EXTINF:-1,[B][COLOR yellow]SPORT TV (BRA)[/B][/COLOR] 
 rtmp://62.210.89.38/liverepeat playpath=201020  swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1  pageUrl=http://direct-stream.biz/embedPlayer_.php?c=hnbrr54uu87&vw=468&vh=400
-
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png" group-title=“DESPORTO”,[COLOR yellow][I][B]BENFICA TV  [/B][/I][/COLOR]
-rtmp://199.195.195.4/live playpath=slbljttDZS?id=21720&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbljttDZS/1/555/435 conn=S:OK
-
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png" group-title=“DESPORTO”,[COLOR yellow][I][B]BENFICA TV 2[/B][/I][/COLOR]
-rtmp://46.28.48.252/live playpath=caralhob?id=24820&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/caralhob/1/650/500 conn=S:OK
-#EXTINF:-1,[B][COLOR yellow]SPORTING TV[/B][/COLOR]
-rtmp://178.162.199.76/live playpath=sportyaxza?id=21721&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/sportyaxza/1/555/430 conn=S:OK
 
 #EXTINF:-1,[COLOR yellow]EUROSPORT[/COLOR]
 rtmp://109.123.114.162/live playpath=eurosport0x?id=24421&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/eurosport0x/1/599/399 conn=S:OK
@@ -191,6 +211,9 @@ rtmp://r.livecast.cc/rl/ playpath=bob10sd swfUrl=http://livecast.cc/live/player.
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
 #EXTINF:-1 tvg-logo="KazSport.png" group-title=“DESPORTO”,[COLOR yellow][I][B]KAZSPORT (KAZ)[/B][/I][/COLOR]
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+
+#EXTINF:0,[COLOR lavenderblush]FRANCESES[/COLOR]
+http://0.0.0.0:1234
  
 #EXTINF:-1,TF1 HD
 http://wownet.ro/str/0202.m3u8|X-Forwarded-For=81.17.18.50
