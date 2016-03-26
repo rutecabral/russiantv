@@ -425,7 +425,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <expres>pk=(.*?)'</expres>
 <page>http://www.embeducaster.com/embedplayer/axn1x/1/650/500</page>
 <referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yusrru1445113463.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 </regex>
 </item>
 <item>
@@ -1066,12 +1066,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>Movistar F1</title>
 <link>http://cdn.sstream.pw/live/tvb116/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i60.tinypic.com/2cgivqq.jpg</thumbnail>
 </item>
 <item>
 <title>Movistar GP</title>
 <link>http://cdn.sstream.pw/live/tvb117/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
-<thumbnail></thumbnail>
+<thumbnail>http://comunidad.movistar.es/movistar/attachments/movistar/Movistar-TV/21/1/Logotipo_Movistar_TV_MotoGP_RGB.jpg</thumbnail>
 </item>
 <item>
 <title>CANAL+</title>
@@ -1106,11 +1106,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>AXN White</title>
 <link>http://cdn.sstream.pw/live/axnwhite_aap5cqs/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 </item>
 <item>
 <title>FOX</title>
 <link>http://cdn.sstream.pw/live/fox_alwk17k/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
 </item>
 <item>
 <title>SYFY</title>
@@ -1135,17 +1136,17 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>DISCOVERY</title>
 <link>http://cdn.sstream.pw/live/discoverydino_9dm3fgv/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
 </item>
 <item>
 <title>NAT GEO</title>
 <link>http://cdn.sstream.pw/live/national_alwka53/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/spurwy1433945957.png</thumbnail>
 </item>
 <item>
 <title>HISTORIA</title>
 <link>http://cdn.sstream.pw/live/historia_9dm8skt/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 </item>
 <item>
 <title>A & E</title>
