@@ -81,12 +81,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>MACAU TDT PT</title>
 <link>rtmp://live3.tdm.com.mo:80/tv/_definst_/ playpath=ch2.live swfUrl=http://www.tdm.com.mo/global/js/jwplayer_5.10/player.swf pageUrl=http://www.tdm.com.mo/c_broadcast/index.php?channel=ptvp token=%Zrey(nKa@#Z</link>
-<thumbnail></thumbnail>
+<thumbnail>http://china-screen-news.com/wp-content/uploads/2012/08/Macau-cable-TV.jpg</thumbnail>
 </item>
 <item>
 <title>MACAU TDT CHI</title>
 <link>rtmp://live4.tdm.com.mo:80/mytv/_definst_/ playpath=cnews.live swfUrl=http://www.tdm.com.mo/global/js/jwplayer_5.10/player.swf pageUrl=http://www.tdm.com.mo/c_broadcast/ token=%Zrey(nKa@#Z</link>
-<thumbnail></thumbnail>
+<thumbnail>http://china-screen-news.com/wp-content/uploads/2012/08/Macau-cable-TV.jpg</thumbnail>
 </item>
 <item>
 <title>A BOLA TV</title>
@@ -1031,37 +1031,37 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>C+ 0</title>
 <link>http://cdn.sstream.pw/live/tvb118/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
-<thumbnail></thumbnail>
+<thumbnail>http://sports24hour.com/wp-content/uploads/2016/02/Canal-tv-channels.png</thumbnail>
 </item>
 <item>
 <title>C+ Futbol</title>
 <link>http://cdn.sstream.pw/live/tvb112/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
-<thumbnail></thumbnail>
+<thumbnail>http://srv00.epimg.net/programacion-tv/iconos/canales/cpfut.png</thumbnail>
 </item>
 <item>
 <title>C+ Liga</title>
 <link>http://cdn.sstream.pw/live/tvb111/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal%2B_Liga.svg/150px-Canal%2B_Liga.svg.png</thumbnail>
 </item>
 <item>
 <title>C+ Liga 2</title>
 <link>http://cdn.sstream.pw/live/tvb119/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_es_liga2.jpg</thumbnail>
 </item>
 <item>
 <title>C+ Deportes</title>
 <link>http://cdn.sstream.pw/live/deportes2_ardgdvv/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Canal%2B_Deportes_2008.svg/220px-Canal%2B_Deportes_2008.svg.png</thumbnail>
 </item>
 <item>
 <title>Barca tv</title>
 <link>http://cdn.sstream.pw/live/iptv15/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php</link>
-<thumbnail></thumbnail>
+<thumbnail>http://fr.kingofsat.net/jpg/canalbarca.jpg</thumbnail>
 </item>
 <item>
 <title>Real Madrid tv</title>
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.tvtuga.com/wp-content/uploads/2013/11/real-madrid-tv.jpg</thumbnail>
 </item>
 <item>
 <title>Movistar F1</title>
@@ -1076,32 +1076,32 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>CANAL+</title>
 <link>http://cdn.sstream.pw/live/canalplushd_9wgyfa8/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
-<thumbnail></thumbnail>
+<thumbnail>http://urhd.tv/wp-content/uploads/2015/11/Canal-HD-cinema-urHDtv-FREE-ONLINE-CHANNELS-TELEVISION-LIVE-STREAMING.jpg</thumbnail>
 </item>
 <item>
 <title>CANAL+COMEDIA</title>
 <link>http://cdn.sstream.pw/live/iptv13/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/854ZMKc.png</thumbnail>
 </item>
 <item>
 <title>CANAL+ESTRENOS</title>
 <link>http://cdn.sstream.pw/live/plusestrenos_ahnxk7j/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
-<thumbnail></thumbnail>
+<thumbnail>http://blog.telecable.es/wp-content/uploads/2015/07/CANAL+-Estrenos-telecable.jpg</thumbnail>
 </item>
 <item>
 <title>CANAL+SERIES</title>
 <link>http://cdn.sstream.pw/live/plusseries_al1oyrq/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
-<thumbnail></thumbnail>
+<thumbnail>http://abcblogs.abc.es/wp-content/blogs.dir/102/files/2013/11/canal-plus-series-logo-530.jpg</thumbnail>
 </item>
 <item>
 <title>AMC</title>
 <link>http://cdn.sstream.pw/live/iptv20/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/AMC_logo_2013.png/200px-AMC_logo_2013.png</thumbnail>
 </item>
 <item>
 <title>HOLLYWOOD</title>
 <link>http://cdn.sstream.pw/live/iptv5/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg</thumbnail>
 </item>
 <item>
 <title>AXN White</title>
@@ -1116,22 +1116,22 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>SYFY</title>
 <link>http://cdn.sstream.pw/live/iptv2/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
-<thumbnail></thumbnail>
+<thumbnail>http://theident.gallery/syfy/2010/SYFY-2010-IDENT-CARNIVAL-1-4.jpg</thumbnail>
 </item>
 <item>
 <title>TNT</title>
 <link>http://cdn.sstream.pw/live/tnt_alwl3qm/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.forbesimg.com/media/lists/companies/tnt-express_416x416.jpg</thumbnail>
 </item>
 <item>
 <title>COMEDY CENTRAL</title>
 <link>http://cdn.sstream.pw/live/iptv9/playlist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
-<thumbnail></thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Comedy_Central_logo.svg/400px-Comedy_Central_logo.svg.png</thumbnail>
 </item>
 <item>
 <title>MTV</title>
 <link>http://cdn.sstream.pw/live/mtv_alwkh45/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
-<thumbnail></thumbnail>
+<thumbnail>http://idata.over-blog.com/2/42/44/41//mtv-logo.jpg</thumbnail>
 </item>
 <item>
 <title>DISCOVERY</title>
@@ -1151,17 +1151,17 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>A & E</title>
 <link>http://cdn.sstream.pw/live/iptv17/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.blogcdn.com/www.tuaw.com/media/2012/12/ande.jpg</thumbnail>
 </item>
 <item>
 <title>C+Toros</title>
 <link>http://cdn.sstream.pw/live/toros_9frbv56/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.tv14.net/images/canal-toros.png</thumbnail>
 </item>
 <item>
 <title>CAZAEPESCA</title>
 <link>http://cdn.sstream.pw/live/iptv8/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.vodafone.pt/NR/rdonlyres/DDEA8230-50DE-4825-BB7C-BE5E868A3587/0/destaque_canal_caca_pesca_449x196.jpg</thumbnail>
 </item>
 <item>
 <title>8TYUTV</title>
@@ -1216,7 +1216,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>EURONEWS</title>
 <link>http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png</thumbnail>
 </item>
 <item>
 <title>RT EN ESPAÑOL HD</title>
