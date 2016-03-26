@@ -341,11 +341,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>C+Toros</title>
 <link>http://cdn.sstream.pw/live/toros_9frbv56/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
-</item>
+<thumbnail>https://github.com/adrianoafonso/myIPTVchannels/blob/master/Logos/Caca%20e%20Pesca.png<thumbnail>
+</item> 
 <item>
 <title>Caza&pesca</title>
 <link>http://cdn.sstream.pw/live/iptv8/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php</link>
-</item>
+<thumbnail>https://github.com/adrianoafonso/myIPTVchannels/blob/master/Logos/Caca%20e%20Pesca.png<thumbnail>
+</item> 
 <item>
 <title>SIC RADICAL</title>
 <link>rtmp://$doregex[get-ip]/live playpath=sicradicalx?id=84768&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/599/399</link>
@@ -508,7 +510,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>PLAYBOY</title>
 <link>http://s2.edem.tv/iptv/M3MKGZW6NMMUGQ/527/index.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/adrianoafonso/myIPTVchannels/blob/master/Logos/Playboy.png</thumbnail>
 </item>
 <item>
 <title>[COLOR=red][B][I] DESPORTO DESPORTO [/I][/B][/COLOR]</title>
@@ -586,7 +588,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>FIGHT SPORT</title>
 <link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://csisports.tv/wp-content/themes/csi/images/view1.jpg</thumbnail>
 </item>
 <item>
 <title>Combate br</title>
