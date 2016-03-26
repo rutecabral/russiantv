@@ -574,12 +574,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>BT Sport 1</title>
-<link>http://cdn.sportlive.ws/hls/tHHa3vONLmNjFYteNz0irA/1459016716/btsport1.m3u8|Referer=http://serbiaplus.club/embedhls/btsport1sk.html</link>
+<link>rtmp://185.63.255.18:80/live playpath=wodhs1j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=wodhs1j&vw=736&vh=438 token=%Zrey(nKa@#Z</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png</thumbnail>
 </item>
 <item>
 <title>BT Sport 2</title>
-<link>http://cdn.sportlive.ws/hls/j4fDDpquTncWiSbN1OenDw/1459017277/btsport2.m3u8|Referer=http://serbiaplus.club/embedhls/btsport2sk.html</link>
+<link>rtmp://185.63.255.60:80/live playpath=dodhs2j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=dodhs2j&vw=736&vh=438 token=%Zrey(nKa@#Z</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwxvty1433360911.png</thumbnail>
 </item>
 <item>
@@ -609,7 +609,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>UFC</title>
-<link>http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/75/amlst:mainstream/demotiki75.m3u8?op_id=19&userId=0&channelId=40641&stime=1459010217&etime=1459096617&token=0ea1c8228aa16f6184dde</link>
+<link></link>
 <thumbnail>http://www.beyondhe.com.au/media/media/cache/594x334/SH0248_UFC_main.jpg</thumbnail>
 </item>
 <item>
