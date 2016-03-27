@@ -138,7 +138,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>SPORT TV1</title>
-<link>rtmp://$doregex[get-ip]/live playpath=pissudo?id=86251&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/pissudo/1/600/400</link>
+<link>rtmp://$doregex[get-ip]/live playpath=pissudo?id=86251&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/pissudo/1/650/500</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -147,7 +147,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <regex>
 <name>get-pk</name>
 <expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/pissudo/1/600/400</page>
+<page>http://www.embeducaster.com/embedplayer/pissudo/1/650/500</page>
 <referer>http://www.embeducaster.com/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>
 </regex>
