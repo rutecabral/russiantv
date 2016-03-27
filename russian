@@ -137,21 +137,22 @@ title: 'http://futebolpthd.blogspot.pt/',
 </regex>
 </item>
 <item>
+<item>
 <title>SPORT TV1</title>
-<link>rtmp://$doregex[get-ip]/live playpath=pissudo?id=86251&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/pissudo/1/650/500</link>
+<link>rtmp://$doregex[get-ip]/live/ playpath=43wea?id=25723$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
 </regex>
 <regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/pissudo/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/43wea/1/650/500</page>
+<referer>http://www.embedezcast.com</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>
-</regex>
 </item>
+<item>
 <item>
 <title>SPORT TV1 HD</title>
 <link>http://iptvbox.noip.us:9998/live/atik/atik/820.m3u8</link>
