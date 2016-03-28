@@ -155,7 +155,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <item>
 <title>SPORT TV1 HD</title>
-<link>http://iptvbox.noip.us:9998/live/atik/atik/820.m3u8</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
 </item>
 <item>
@@ -202,12 +202,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>SPORT TV4]</title>
-<link>http://iptvbox.noip.us:9998/live/atik/atik/823.m3u8</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
 </item>
 <item>
 <title>SPORT TV5</title>
-<link>http://iptvbox.noip.us:9998/live/atik/atik/824.m3u8</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
 </item>
 <item>
@@ -1353,11 +1353,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>REAL HIP HOP TV</title>
 <link>http://rhn.tulix.tv/live/Stream1/playlist.m3u8</link>
 <thumbnail>http://2dopeboyz.files.wordpress.com/2008/03/20080327-lgnd.jpg</thumbnail>
-</item>
-<item>
-<title>sportv2</title>
-<link>rtmp://199.19.95.95:443/flash playpath=22473?MTQ1OTE1OTY0Nzs3ZjhmYWUyMGMwZWFiZDIyYjIwOWMwNGIwM2M2MTgwZQ== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/YyMGNlZDUyMGU5NWY5YzNjYTY2ZTdkYw__/c3BvcnRhMjo4ODBjNDg2NDE0ODNmMTI4MjQ5Yzg4YmE5Y2E0Nzk2MjoyY2NjY2VkOD</link>
-<thumbnail></thumbnail>
 </item>
 <item>
 <title></title>
