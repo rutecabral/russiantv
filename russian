@@ -534,6 +534,22 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail></thumbnail>
 </item>
 <item>
+<title>XXX</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=regopleudo?id=25638$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/regopleudo/1/650/500
+</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://images.clipartlogo.com/files/images/59/595410/xxx-productions_t.png</thumbnail>
+</item>
+<item>
 <title>Movistar F1</title>
 <link>http://cdn.sstream.pw/live/tvb116/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
 <thumbnail>http://i60.tinypic.com/2cgivqq.jpg</thumbnail>
