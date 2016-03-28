@@ -720,8 +720,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>BIG BROTHER</title>
-<link>rtmp://server1.livestreaming.ninja/live playpath=bbb03 swfUrl=http://test.livestreaming.ninja/player2.swf live=1 pageUrl=http://test.livestreaming.ninja/embed.php?file=bbb03
-</link>
+<link>http://31.204.128.112:8081/live/bbbhd/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/7mIoj9N.jpg</thumbnail>
 </item>
 <item>
