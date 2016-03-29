@@ -510,12 +510,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>PLAYBOY</title>
-<link>http://s2.edem.tv/iptv/M3MKGZW6NMMUGQ/527/index.m3u8</link>
-<thumbnail>http://fr.kingofsat.net/jpg/playboytvfr.jpg</thumbnail>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 <item>
 <title>HOT</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=regopleudo?id=25638$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<link></link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
