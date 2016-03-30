@@ -699,14 +699,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.thelogodb.com/images/media/logo/yqpwvs1436890865.png</thumbnail>
 </item>
 <item>
-<title>GLOBO INTER</title>
-<link>http://art.nextv.ca/nextv/globo/index.m3u8?token=123</link>
+<title>GLOBO RJ</title>
+<link>http://107.182.231.88:1935/liverepeater/ch15-1/live.m3u8</link>
 <thumbnail>http://i.imgur.com/CQPOCvT.png</thumbnail>
 </item>
 <item>
-<title>TV Globo</title>
-<link>http://art.nextv.ca:80/nextv/globo/index.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yspusx1435103750.png</thumbnail>
+<title>GLOBO INTER</title>
+<link>http://art.nextv.ca/nextv/globo/index.m3u8?token=123</link>
+<thumbnail>http://i.imgur.com/CQPOCvT.png</thumbnail>
 </item>
 <item>
 <title>SBT</title>
@@ -717,6 +717,11 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>BAND HD</title>
 <link>http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/live.m3u8</link>
 <thumbnail>http://observatoriodatelevisao.com.br/wp-content/uploads/2015/11/Band-cancela-festa-de-final-de-ano-dos-funcion%C3%A1rios.jpg</thumbnail>
+</item>
+<item>
+<title>BAND NEWS</title>
+<link>http://enterplay-live.hls.adaptive.level3.net:80/bandnews/bandnews.isml/bandnews-video=1100000-audio_4=128000.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/Band-News.png</thumbnail>
 </item>
 <item>
 <title>REDE TV</title>
@@ -734,13 +739,28 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://i.imgur.com/7mIoj9N.jpg</thumbnail>
 </item>
 <item>
+<title>CINE SKY</title>
+<link>rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDE2IDI6MzQ6MTggQU0maGFzaF92YWx1ZT05UlNUckJVQnVWVWFHVEs5MHk1a0NBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/filmes.php</link>
+<thumbnail>https://macmagazine.com.br/wp-content/uploads/2011/01/12-sky_icon.png</thumbnail>
+</item>
+<item>
+<title>TELECINE PREMIUM</title>
+<link>http://107.182.231.88:1935/liverepeater/ch24-1/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png</thumbnail>
+</item>
+<item>
+<title>TELECINE PIPOCA</title>
+<link>rtmp://208.53.164.194/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/1e/TC_Pipoca.png</thumbnail>
+</item>
+<item>
 <title>ESPN BRASIL</title>
 <link>http://31.204.128.112:8081/live/espnbr/playlist.m3u8</link>
 <thumbnail>http://pacificrecords.com/Pacific_Records/prwp/wp-content/uploads/2015/06/espn-logo.jpg</thumbnail>
 </item>
 <item>
 <title>SPORTV 1</title>
-<link>rtmp://62.210.82.241/liverepeat playpath=201020   swfUrl=http://www.streamcasttv.biz/embed/jwplayer/jwplayer.flash.swf  pageUrl=http://www.streamcasttv.biz/embed/2.php?file=teves2a&width=468&height=40</link>
+<link>http://107.182.231.88:1935/liverepeater/ch05-1/playlist.m3u8</link>
 <thumbnail>https://portal4.files.wordpress.com/2015/07/sportv1.jpg</thumbnail>
 </item>
 <item>
@@ -754,13 +774,18 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SporTV_3_logo_2011.png/640px-SporTV_3_logo_2011.png</thumbnail>
 </item>
 <item>
+<title>PREMIERE SPORTS</title>
+<link>http://107.182.231.88:1935/liverepeater/ch11-1/playlist.m3u8</link>
+<thumbnail>premiere.png</thumbnail>
+</item>
+<item>
 <title>COMBATE</title>
 <link>http://107.182.231.88:1935/liverepeater/ch10-1/playlist.m3u8</link>
 <thumbnail>http://www.goltvaovivo.org/wp-content/uploads/2016/01/Canal-Combate-ao-vivo.png</thumbnail>
 </item>
 <item>
 <title>FOX SPORTS</title>
-<link>http://31.204.128.112:8081/live/foxsport/playlist.m3u8</link>
+<link>http://107.182.231.88:1935/liverepeater/ch12-1/playlist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/archive/d/dd/20160220233658!Fox_Sports_Logo.png</thumbnail>
 </item>
 <item>
