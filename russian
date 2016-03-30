@@ -1424,28 +1424,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://2dopeboyz.files.wordpress.com/2008/03/20080327-lgnd.jpg</thumbnail>
 </item>
 <item>
-<title>historia</title>
-<link>$doregex[get-rtmp] app=redirect?token=$doregex[get-tok] playpath=history  http://www.tv-msn.com/player/player.swf  live=1 pageUrl=http://tv-msn.com/history.php?file=aovivo</link>
-<regex>
-<name>get-rtmp</name>
-<expres>(rtmp:\/\/.*?\/)</expres>
-<page>http://abcast.net/assista.php?file=aovivo</page>
-<referer>http://assistatvonline.com/master/history.html</referer>
-</regex>
-<regex>
-<name>get-tok</name>
-<expres>token=(.*)"</expres>
-<page>http://tv-msn.com/history.php?file=aovivo</page>
-<referer>http://assistatvonline.com/master/history.html</referer>
-</regex><regex>
-<name>path</name>
-<expres>file: "(.*?)"</expres>
-<page>http://tv-msn.com/history.php?file=aovivo</page>
-<referer>http://assistatvonline.com/master/history.html</referer>
-</regex>  
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/2000px-HBO-Logo.svg.png</thumbnail>
-</item>
-<item>
 <title></title>
 <link></link>
 <thumbnail></thumbnail>
