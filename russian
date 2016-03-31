@@ -714,6 +714,11 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.thelogodb.com/images/media/logo/rvtpxp1437610838.png</thumbnail>
 </item>
 <item>
+<title>BAND RJ</title>
+<link>http://iphone-streaming.ustream.tv:80/uhls/13654224/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://observatoriodatelevisao.com.br/wp-content/uploads/2015/11/Band-cancela-festa-de-final-de-ano-dos-funcion%C3%A1rios.jpg</thumbnail>
+</item>
+<item>
 <title>BAND HD</title>
 <link>http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/live.m3u8</link>
 <thumbnail>http://observatoriodatelevisao.com.br/wp-content/uploads/2015/11/Band-cancela-festa-de-final-de-ano-dos-funcion%C3%A1rios.jpg</thumbnail>
@@ -734,9 +739,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.thelogodb.com/images/media/logo/trqtsr1436845716.png</thumbnail>
 </item>
 <item>
-<title>BIG BROTHER</title>
-<link>http://31.204.128.112:8081/live/bbbhd/playlist.m3u8</link>
+<title>BBB BRASIL</title>
+<link>rtmp://208.115.227.212:1935/RedeCanaisBBB/myStream</link>
 <thumbnail>http://i.imgur.com/7mIoj9N.jpg</thumbnail>
+</item>
+<item>
+<title>DISCOVERY CHANNEL</title>
+<link>http://107.182.231.88:1935/liverepeater/ch19-1/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
 </item>
 <item>
 <title>CINE SKY</title>
@@ -1107,6 +1117,11 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>C+ Deportes</title>
 <link>http://cdn.sstream.pw/live/deportes2_ardgdvv/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Canal%2B_Deportes_2008.svg/220px-Canal%2B_Deportes_2008.svg.png</thumbnail>
+</item>
+<item>
+<title>TycSPORTS 1 MEX HD</title>
+<link>http://live.vodgc.com:1935/kLive/0_a5h483eu_all.smil/stream.m3u8</link>
+<thumbnail>http://condista.com/wp-content/uploads/2015/09/tyc-300x225.jpg</thumbnail>
 </item>
 <item>
 <title>BIEN SPORTS</title>
