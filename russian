@@ -704,6 +704,16 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://i.imgur.com/CQPOCvT.png</thumbnail>
 </item>
 <item>
+<title>GLOBO MG</title>
+<link>http://50.7.66.66:8081/loadbalance/slv4/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/archive/5/5d/20130907234351!Redeglobo.png</thumbnail>
+</item>
+<item>
+<title>GLOBO SP</title>
+<link>http://107.182.231.88:1935/liverepeater/ch05-1/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/archive/5/5d/20130907234351!Redeglobo.png</thumbnail>
+</item>
+<item>
 <title>GLOBO INTER</title>
 <link>http://art.nextv.ca/nextv/globo/index.m3u8?token=123</link>
 <thumbnail>http://i.imgur.com/CQPOCvT.png</thumbnail>
