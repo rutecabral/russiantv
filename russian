@@ -1311,27 +1311,10 @@ title: 'http://futebolpthd.blogspot.pt/',
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2013/11/real-madrid-tv.jpg</thumbnail>
 </item>
-<tem>
-<title>Formula 1</title>
-<link>$doregex[url]|User-Agent=iPhone&amp;Referer=$doregex[embedurl]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:base64.b64decode("$doregex[b64url]")</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>b64url</name>
-	<expres>input type.*\n.*\n.*value="(.*?)"</expres>
-	<page>$doregex[embedurl]</page>
-	<agent>iPhone</agent>
-	<referer>http://www.vipgoal.net/</referer>
-</regex>
-<regex>
-	<name>embedurl</name>
-	<expres>src="(.*?)"</expres>
-	<page>http://www.sunhd.info/channelsa.php?file=116</page>
-	<agent>iPhone</agent>
-	<referer>http://www.vipgoal.net/</referer>
+<item>
+<title>Formula 1</title> <link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link><regex><name>get-m3u8-decoded</name><expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres><page></page></regex><regex><name>get-m3u8-encoded</name><expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres><page>$doregex[get-embed4]</page><referer>http://cinestrenostv.tv</referer><agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent></regex><regex><name>get-embed4</name><expres>iframe src="(.*?)"</expres><page>$doregex[get-embed3]</page><referer>http://cinestrenostv.tv</referer><agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent></regex><regex><name>get-embed3</name><expres>script type="text\/javascript" src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/canales/emision/formula1.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
 </regex>
 <thumbnail>http://i.imgur.com/3Z7SWB3.jpg</thumbnail>
 <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
