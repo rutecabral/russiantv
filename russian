@@ -1473,12 +1473,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>	
 <item>
 <title>VENUS</title>
-<link>http://cdn.sstream.pw/live/hustlertv_9c7o2m2/chunklist.m3u8|Referer=http://tv.verdirectotv.org/embed.php</link>
+<link></link>
 <thumbnail>http://www.bridesonthorndon.co.nz/wp/wp-content/uploads/2014/08/VENUS-LOGO-300x136.jpg</thumbnail>
 </item>
 <item>
 <title>PLAYBOY</title>
-<link>http://cdn.sstream.pw/live/playboy222_9gcnjqi/chunklist.m3u8|Referer=http://tv.verdirectotv.org/embed.php</link>
+<link>http://s2.edem.tv/iptv/M3MKGZW6NMMUGQ/527/index.m3u8</link>
 <thumbnail>http://49yzp92imhtx8radn224z7y1.wpengine.netdna-cdn.com/wp-content/uploads/2013/03/Playboy-logo.jpg</thumbnail>
 </item>
 <item>
@@ -1622,12 +1622,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 </regex>
 <thumbnail>http://i.imgur.com/fP0g5ld.jpg</thumbnail>
 <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item>
-<item>
-<title>Viajar</title>
-<thumbnail>http://i.imgur.com/XdbNaeI.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1286.m3u8</link>
 </item>
 <item>
 <title>Viajar</title>
