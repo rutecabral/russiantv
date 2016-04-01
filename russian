@@ -216,6 +216,21 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png</thumbnail>
 </item>
 <item>
+<title>BT TV1</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=benias?id=25817$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/benias/1/599/399</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png</thumbnail>
+</item>
+<item>
 <title>BENFICA TV1</title>
 <link>rtmp://$doregex[get-ip]/live/ playpath=slbueyec?id=22289$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbueyec/1/555/435 live=true</link>
 <regex>
