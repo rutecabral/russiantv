@@ -1104,29 +1104,110 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://stmedia.bolsamania.com/web/img/images_uploaded/3/f/granhermano15.jpg</thumbnail>
 </item>
 <item>
-<title>C+ 0</title>
-<link>http://cdn.sstream.pw/live/tvb118/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
-<thumbnail>http://sports24hour.com/wp-content/uploads/2016/02/Canal-tv-channels.png</thumbnail>
+<title>#0</title> 
+<link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
+<regex>
+<name>get-m3u8-decoded</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u8-encoded</name>
+<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
+<page>$doregex[get-embed4]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<regex>
+<name>get-embed4</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-embed3]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<regex>
+<name>get-embed3</name>
+<expres>script type="text\/javascript" src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/canales/emision/plus1.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>http://i.imgur.com/JvpukWA.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>	
+<item>
+<title>+ Liga/Partidazo</title>
+<link>$doregex[url]|User-Agent=iPhone&amp;Referer=$doregex[embedurl]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:base64.b64decode("$doregex[b64url]")</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>b64url</name>
+	<expres>input type.*\n.*\n.*value="(.*?)"</expres>
+	<page>$doregex[embedurl]</page>
+	<agent>iPhone</agent>
+	<referer>http://www.vipgoal.net/</referer>
+</regex>
+<regex>
+	<name>embedurl</name>
+	<expres>src="(.*?)"</expres>
+	<page>http://www.sunhd.info/channelsa.php?file=111</page>
+	<agent>iPhone</agent>
+	<referer>http://www.vipgoal.net/</referer>
+</regex>
+<thumbnail>http://i.imgur.com/G0e0mX2.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
 </item>
 <item>
-<title>C+ Futbol</title>
-<link>http://cdn.sstream.pw/live/ligarincon_a539aod/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php</link>
-<thumbnail>http://srv00.epimg.net/programacion-tv/iconos/canales/cpfut.png</thumbnail>
+<title>Canal+ Fútbol</title>
+<link>$doregex[url]|User-Agent=iPhone&amp;Referer=$doregex[embedurl]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:base64.b64decode("$doregex[b64url]")</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>b64url</name>
+	<expres>input type.*\n.*\n.*value="(.*?)"</expres>
+	<page>$doregex[embedurl]</page>
+	<agent>iPhone</agent>
+	<referer>http://www.vipgoal.net/</referer>
+</regex>
+<regex>
+	<name>embedurl</name>
+	<expres>src="(.*?)"</expres>
+	<page>http://www.sunhd.info/channelsa.php?file=112</page>
+	<agent>iPhone</agent>
+	<referer>http://www.vipgoal.net/</referer>
+</regex>
+<thumbnail>http://i739.photobucket.com/albums/xx33/catoal/canal-plus-bar.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
 </item>
 <item>
-<title>C+ Liga</title>
-<link>http://cdn.sstream.pw/live/tvb111/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal%2B_Liga.svg/150px-Canal%2B_Liga.svg.png</thumbnail>
-</item>
-<item>
-<title>C+ Liga 2</title>
-<link>http://cdn.sstream.pw/live/tvb119/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php</link>
-<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_es_liga2.jpg</thumbnail>
-</item>
-<item>
-<title>C+ Deportes</title>
-<link>http://cdn.sstream.pw/live/deportes2_ardgdvv/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Canal%2B_Deportes_2008.svg/220px-Canal%2B_Deportes_2008.svg.png</thumbnail>
+<title>Canal+ Deportes</title>
+<link>$doregex[url]|User-Agent=iPhone&amp;Referer=$doregex[embedurl]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:base64.b64decode("$doregex[b64url]")</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>b64url</name>
+	<expres>input type.*\n.*\n.*value="(.*?)"</expres>
+	<page>$doregex[embedurl]</page>
+	<agent>iPhone</agent>
+	<referer>http://www.vipgoal.net/</referer>
+</regex>
+<regex>
+	<name>embedurl</name>
+	<expres>src="(.*?)"</expres>
+	<page>http://www.sunhd.info/channelsa.php?file=114</page>
+	<agent>iPhone</agent>
+	<referer>http://www.vipgoal.net/</referer>
+</regex>
+<thumbnail>http://i.imgur.com/pEYn7X7.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart> 
 </item>
 <item>
 <title>TycSPORTS 1 MEX HD</title>
