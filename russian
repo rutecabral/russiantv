@@ -1347,7 +1347,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>El Trece HD</title>
-<link>http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8</link>
+<link>rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1</link>
 <thumbnail>http://wondermelodies.com/m/uploads/thumbnails/Canal13Hd_png_268x170_upscale_q85.jpg</thumbnail>
 </item>
 <item>
