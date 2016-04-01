@@ -217,7 +217,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>BENFICA TV1</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=slbueyfdx?id=22078$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbueyfdx/1/555/435 live=true</link>
+<link>rtmp://$doregex[get-ip]/live/ playpath=slbueyec?id=22289$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbueyec/1/555/435 live=true</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -226,7 +226,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <regex>
 <name>pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.streamifyplayer.com/embedplayer/slbueyfdx/1/555/435</page>
+<page>http://www.streamifyplayer.com/embedplayer/slbueyec/1/555/435</page>
 <referer>http://www.streamifyplayer.com</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png</thumbnail>
 </item>
