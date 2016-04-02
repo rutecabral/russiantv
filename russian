@@ -1630,6 +1630,23 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://49yzp92imhtx8radn224z7y1.wpengine.netdna-cdn.com/wp-content/uploads/2013/03/Playboy-logo.jpg</thumbnail>
 </item>
 <item>
+
+<title>HOT</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=regopleudo?id=25638$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/regopleudo/1/599/399</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://perfecto-web.pro/uploads/dev/co-hotlog.png</thumbnail>
+
+</item>
+<item>
 <title>AMC</title>
 <link></link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/AMC_logo_2013.png/200px-AMC_logo_2013.png</thumbnail>
