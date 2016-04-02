@@ -1308,7 +1308,37 @@ title: 'http://futebolpthd.blogspot.pt/',
 <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
 </regex>
 <thumbnail>http://cc-umbraco-images.s3.amazonaws.com/Europe/Spain/cero-logo3-300.jpg</thumbnail>
-</item>	
+</item>
+<item>
+<title>LIGA</title> 
+<link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
+<regex>
+<name>get-m3u8-decoded</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u8-encoded</name>
+<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
+<page>$doregex[get-embed4]</page>
+<referer>http://verdirectotv.com/tv/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<regex>
+<name>get-embed4</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-embed3]</page>
+<referer>http://verdirectotv.com/tv/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<regex>
+<name>get-embed3</name>
+<expres>script type="text\/javascript" src="(.*?)"</expres>
+<page>http://verdirectotv.com/chat/chat2.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>http://srv00.epimg.net/programacion-tv/iconos/canales/cppart.png</thumbnail>
+</item>
 <item>
 <title>+ Liga/Partidazo</title>
 <link>$doregex[url]|User-Agent=iPhone&amp;Referer=$doregex[embedurl]</link>
