@@ -165,7 +165,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <expres>pk=(.*?)'</expres>
 <page>http://www.embeducaster.com/embedplayer/pissudo/1/599/399</page>
 <referer>http://www.embeducaster.com/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>
 </regex>
 </item>
 <item>
