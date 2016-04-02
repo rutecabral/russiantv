@@ -373,12 +373,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>Canal + Toros</title>
 <link>http://cdn.sstream.pw/live/toros_9frbv56/chunklist.m3u8|Referer=http://tv.verdirectotv.org/embed.php</link>
 <thumbnail>http://pbs.twimg.com/media/B_UIzFXWwAAmv-m.jpg</thumbnail>
+<referer>http://cinestrenostv.com</referer>
 </item>
 <item>
 <title>Caza y Pesca</title> 
 <link>http://cdn.sstream.pw/live/cazaypesca_asn4yf6/chunklist.m3u8|Referer=http://www.ponlatv.com/embed.php</link>
 <thumbnail>http://3.bp.blogspot.com/-HOTGqsd4B90/VWeORz7ELLI/AAAAAAAAEDA/BuUBzhFSyU0/s320/logocaza.jpg</thumbnail>
-<referer>http://cinestrenostv.tv</referer>
+<referer>http://cinestrenostv.com</referer>
 </item>
 <item>
 <title>C+Toros</title>
