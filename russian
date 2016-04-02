@@ -371,18 +371,20 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>Canal + Toros</title>
-<link>http://cdn.sstream.pw/live/toros_9frbv56/chunklist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=103993&width=650&height=400&autostart=true&tk1=cCR8wTLkqS%2FsVhJy1YU8qf%2F%2FPHcnjj3g3B9ItsbBXoBzja6Rsh6v1ZZrQnROzpteCy7uAqCZAV8WOhObxFkJIQ%3D%3D&tk2=iQi01UTVTAb4D9aZXfp8upFqnwOXqH5tYjy%2B4SuWypA%3D&tk3=xmlbFeLBLvo%2FtNh9hHYEJwj290%2F6PFxV98A%2BIVsjDgM%3D</link>
+<link>http://cdn.sstream.pw/live/toros_9frbv56/chunklist.m3u8|Referer=http://tv.verdirectotv.org/embed.php</link>
 <thumbnail>http://pbs.twimg.com/media/B_UIzFXWwAAmv-m.jpg</thumbnail>
 </item>
 <item>
 <title>Caza y Pesca</title> 
-<link>http://cdn.sstream.pw/live/cazaypesca_asn4yf6/chunklist.m3u8|Referer=http://www.ponlatv.com/embed.php?c=105491&width=650&height=400&autostart=true&tk1=ubQmDV7vl2vFNEKgyijxKI6GJ1%2BQC5oVKY85ve0sUDuyZeRiShb02mBdTFfRKHxoptrDKBUbn4KeXU7dAy4TAA%3D%3D&tk2=iQi01UTVTAb4D9aZXfp8upFqnwOXqH5tYjy%2B4SuWypA%3D&tk3=xmlbFeLBLvo%2FtNh9hHYEJwj290%2F6PFxV98A%2BIVsjDgM%3D</link>
+<link>http://cdn.sstream.pw/live/cazaypesca_asn4yf6/chunklist.m3u8|Referer=http://www.ponlatv.com/embed.php</link>
 <thumbnail>http://3.bp.blogspot.com/-HOTGqsd4B90/VWeORz7ELLI/AAAAAAAAEDA/BuUBzhFSyU0/s320/logocaza.jpg</thumbnail>
+<referer>http://cinestrenostv.tv</referer>
 </item>
 <item>
 <title>C+Toros</title>
 <link></link>
 <thumbnail>http://www.tv14.net/images/canal-toros.png<thumbnail>
+<referer>http://cinestrenostv.com</referer>
 </item> 
 <item>
 <title>Caza&pesca</title>
