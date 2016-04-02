@@ -370,6 +370,61 @@ title: 'http://futebolpthd.blogspot.pt/',
 </regex>
 </item>
 <item>
+<title>Canal + Toros</title>
+<link>$doregex[url]|User-Agent=iPhone&amp;Referer=$doregex[embedurl]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:base64.b64decode("$doregex[b64url]")</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>b64url</name>
+	<expres>input type.*\n.*\n.*value="(.*?)"</expres>
+	<page>$doregex[embedurl]</page>
+	<agent>iPhone</agent>
+	<referer>http://verdirectotv.com/</referer>
+</regex>
+<regex>
+	<name>embedurl</name>
+	<expres>src="(.*?)"</expres>
+	<page>http://tv.verdirectotv.org/channel.php?file=103993</page>
+	<agent>iPhone</agent>
+	<referer>http://verdirectotv.com/</referer>
+</regex>
+<thumbnail>http://pbs.twimg.com/media/B_UIzFXWwAAmv-m.jpg</thumbnail>
+</item>
+<item>
+<title>Caza y Pesca</title> 
+<link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
+<regex>
+<name>get-m3u8-decoded</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u8-encoded</name>
+<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
+<page>$doregex[get-embed4]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<regex>
+<name>get-embed4</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-embed3]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<regex>
+<name>get-embed3</name>
+<expres>script type="text\/javascript" src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/canales/emision1/cazaypesca.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-HOTGqsd4B90/VWeORz7ELLI/AAAAAAAAEDA/BuUBzhFSyU0/s320/logocaza.jpg</thumbnail>
+</item>
+<item>
+<item>
 <title>C+Toros</title>
 <link></link>
 <thumbnail>http://www.tv14.net/images/canal-toros.png<thumbnail>
@@ -755,7 +810,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>BAND RJ</title>
-<link>http://iphone-streaming.ustream.tv:80/uhls/13654224/streams/live/iphone/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://observatoriodatelevisao.com.br/wp-content/uploads/2015/11/Band-cancela-festa-de-final-de-ano-dos-funcion%C3%A1rios.jpg</thumbnail>
 </item>
 <item>
@@ -765,7 +820,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>BAND NEWS</title>
-<link>http://enterplay-live.hls.adaptive.level3.net:80/bandnews/bandnews.isml/bandnews-video=1100000-audio_4=128000.m3u8</link>
+<link>http://enterplay-live.dash.adaptive.level3.net:80/bandnews/bandnews.isml/bandnews-audio_4=128000-video=1100000.m3u8</link>
 <thumbnail>http://iptv.codigolivre.net/logos/Band-News.png</thumbnail>
 </item>
 <item>
@@ -835,7 +890,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>FOX SPORTS</title>
-<link>http://107.182.231.88:1935/liverepeater/ch12-1/playlist.m3u8</link>
+<link>http://50.7.66.66:8081/loadbalance/slv7/playlist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/archive/d/dd/20160220233658!Fox_Sports_Logo.png</thumbnail>
 </item>
 <item>
