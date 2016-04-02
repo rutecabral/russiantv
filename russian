@@ -371,59 +371,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>Canal + Toros</title>
-<link>$doregex[url]|User-Agent=iPhone&amp;Referer=$doregex[embedurl]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:base64.b64decode("$doregex[b64url]")</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>b64url</name>
-	<expres>input type.*\n.*\n.*value="(.*?)"</expres>
-	<page>$doregex[embedurl]</page>
-	<agent>iPhone</agent>
-	<referer>http://verdirectotv.com/</referer>
-</regex>
-<regex>
-	<name>embedurl</name>
-	<expres>src="(.*?)"</expres>
-	<page>http://tv.verdirectotv.org/channel.php?file=103993</page>
-	<agent>iPhone</agent>
-	<referer>http://verdirectotv.com/</referer>
-</regex>
+<link>http://cdn.sstream.pw/live/toros_9frbv56/chunklist.m3u8]Referer=http://tv.verdirectotv.org/embed.php?c=103993&width=650&height=400&autostart=true&tk1=cCR8wTLkqS%2FsVhJy1YU8qf%2F%2FPHcnjj3g3B9ItsbBXoBzja6Rsh6v1ZZrQnROzpteCy7uAqCZAV8WOhObxFkJIQ%3D%3D&tk2=iQi01UTVTAb4D9aZXfp8upFqnwOXqH5tYjy%2B4SuWypA%3D&tk3=xmlbFeLBLvo%2FtNh9hHYEJwj290%2F6PFxV98A%2BIVsjDgM%3D</link>
 <thumbnail>http://pbs.twimg.com/media/B_UIzFXWwAAmv-m.jpg</thumbnail>
 </item>
 <item>
 <title>Caza y Pesca</title> 
-<link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
-<regex>
-<name>get-m3u8-decoded</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-m3u8-encoded</name>
-<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
-<page>$doregex[get-embed4]</page>
-<referer>http://cinestrenostv.tv</referer>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<regex>
-<name>get-embed4</name>
-<expres>iframe src="(.*?)"</expres>
-<page>$doregex[get-embed3]</page>
-<referer>http://cinestrenostv.tv</referer>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<regex>
-<name>get-embed3</name>
-<expres>script type="text\/javascript" src="(.*?)"</expres>
-<page>http://cinestrenostv.tv/canales/emision1/cazaypesca.html</page>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
+<link>http://cdn.sstream.pw/live/cazaypesca_asn4yf6/chunklist.m3u8]Referer=http://www.ponlatv.com/embed.php?c=105491&width=650&height=400&autostart=true&tk1=ubQmDV7vl2vFNEKgyijxKI6GJ1%2BQC5oVKY85ve0sUDuyZeRiShb02mBdTFfRKHxoptrDKBUbn4KeXU7dAy4TAA%3D%3D&tk2=iQi01UTVTAb4D9aZXfp8upFqnwOXqH5tYjy%2B4SuWypA%3D&tk3=xmlbFeLBLvo%2FtNh9hHYEJwj290%2F6PFxV98A%2BIVsjDgM%3D</link>
 <thumbnail>http://3.bp.blogspot.com/-HOTGqsd4B90/VWeORz7ELLI/AAAAAAAAEDA/BuUBzhFSyU0/s320/logocaza.jpg</thumbnail>
 </item>
-<item>
 <item>
 <title>C+Toros</title>
 <link></link>
@@ -1750,59 +1705,15 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.blogcdn.com/www.tuaw.com/media/2012/12/ande.jpg</thumbnail>
 </item>
 <item>
-<title>Canal + Toros</title>
-<link>$doregex[url]|User-Agent=iPhone&amp;Referer=$doregex[embedurl]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:base64.b64decode("$doregex[b64url]")</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>b64url</name>
-	<expres>input type.*\n.*\n.*value="(.*?)"</expres>
-	<page>$doregex[embedurl]</page>
-	<agent>iPhone</agent>
-	<referer>http://verdirectotv.com/</referer>
-</regex>
-<regex>
-	<name>embedurl</name>
-	<expres>src="(.*?)"</expres>
-	<page>http://tv.verdirectotv.org/channel.php?file=103993</page>
-	<agent>iPhone</agent>
-	<referer>http://verdirectotv.com/</referer>
-</regex>
-<thumbnail>http://pbs.twimg.com/media/B_UIzFXWwAAmv-m.jpg</thumbnail>
-</item>
-<item>
 <title>Caza y Pesca</title> 
-<link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
-<regex>
-<name>get-m3u8-decoded</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-m3u8-encoded</name>
-<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
-<page>$doregex[get-embed4]</page>
-<referer>http://cinestrenostv.tv</referer>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<regex>
-<name>get-embed4</name>
-<expres>iframe src="(.*?)"</expres>
-<page>$doregex[get-embed3]</page>
-<referer>http://cinestrenostv.tv</referer>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<regex>
-<name>get-embed3</name>
-<expres>script type="text\/javascript" src="(.*?)"</expres>
-<page>http://cinestrenostv.tv/canales/emision1/cazaypesca.html</page>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
+<link>http://cdn.sstream.pw/live/cazaypesca_asn4yf6/chunklist.m3u8]Referer=http://www.ponlatv.com/embed.php?c=105491&width=650&height=400&autostart=true&tk1=ubQmDV7vl2vFNEKgyijxKI6GJ1%2BQC5oVKY85ve0sUDuyZeRiShb02mBdTFfRKHxoptrDKBUbn4KeXU7dAy4TAA%3D%3D&tk2=iQi01UTVTAb4D9aZXfp8upFqnwOXqH5tYjy%2B4SuWypA%3D&tk3=xmlbFeLBLvo%2FtNh9hHYEJwj290%2F6PFxV98A%2BIVsjDgM%3D</link>
 <thumbnail>http://3.bp.blogspot.com/-HOTGqsd4B90/VWeORz7ELLI/AAAAAAAAEDA/BuUBzhFSyU0/s320/logocaza.jpg</thumbnail>
 </item>
+<item>
+<title>C+Toros</title>
+<link></link>
+<thumbnail>http://www.tv14.net/images/canal-toros.png<thumbnail>
+</item> 
 <item>
 <title>Constriur TV</title>
 <link>http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u8</link>
