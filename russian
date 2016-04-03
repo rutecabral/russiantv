@@ -1507,7 +1507,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <regex>
 <name>get-embed3</name>
 <expres>script type="text\/javascript" src="(.*?)"</expres>
-<page>http://cinestrenostv.tv/canales/emision1/plusaccion.html</page>
+<page>http://cinestrenostv.tv/canales/nacionales/plus-accion.php</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
 </regex>
 <thumbnail>http://1.bp.blogspot.com/-bLgiaGm7oLw/U0HKCcBpuPI/AAAAAAAAAMo/E515Vsl_ZWc/s1600/Canal++accion+en+vivo+online+por+ww.televisiontvonline.com.png</thumbnail>
