@@ -13,7 +13,12 @@
 </item>
 <item>
 <title>SIC</title>
-<link>rtmp://$doregex[get-ip]/stream playpath=SIC813747234?id=23687$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<link>http://c.securestreaming.xyz:8000/live/sichjdebiUW6.m3u8?t=eeecae2c6eb8daf374a76cb5e64973ec&e=1459725404</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png</thumbnail>
+</item>
+<item>
+<title>SIC</title>
+<link></link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -615,7 +620,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>Sky Sports 3</title>
-<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs</link>
+<link>http://144.76.3.83/sky_sports5gb.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vtusxx1433965268.png</thumbnail>
 </item>
 <item>
@@ -652,6 +657,11 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>Fox Sport 2 us</title>
 <link>rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/archive/d/dd/20160220233658!Fox_Sports_Logo.png</thumbnail>
+</item>
+<item>
+<title>Fox Sports 506 HD</title>
+<link>http://motorsport.hopto.org:8080/</link>
+<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/fox-sports-5-colour.png</thumbnail>
 </item>
 <item>
 <title>SPORTS USA</title>
