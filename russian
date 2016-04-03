@@ -1075,37 +1075,11 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>Gran Hermano</title> 
-<link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
-<regex>
-<name>get-m3u8-decoded</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-m3u8-encoded</name>
-<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
-<page>$doregex[get-embed4]</page>
-<referer>http://cinestrenostv.tv</referer>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<regex>
-<name>get-embed4</name>
-<expres>iframe src="(.*?)"</expres>
-<page>$doregex[get-embed3]</page>
-<referer>http://cinestrenostv.tv</referer>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<regex>
-<name>get-embed3</name>
-<expres>script type="text\/javascript" src="(.*?)"</expres>
-<page>http://cinestrenostv.tv/canales/emision/gh650.html</page>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
+<link>http://cdn.sstream.pw/live/gh16hd_a085bf2/chunklist.m3u8|Referer=http://www.ponlatv.com/embed.php</link>
 <thumbnail>http://stmedia.bolsamania.com/web/img/images_uploaded/3/f/granhermano15.jpg</thumbnail>
 </item>		
 <item>
 <title>Atreseries</title>
-<ink>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8?sd=10&rebase=on</link>
 <link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
 <thumbnail>http://www.vertele.com/files/2015/12/atres-series-VEINTE-2-285x206.jpg</thumbnail>
 </item>
@@ -1126,62 +1100,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>Cuatro</title> 
-<link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
-<regex>
-<name>get-m3u8-decoded</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-m3u8-encoded</name>
-<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
-<page>$doregex[get-embed4]</page>
-<referer>http://verdirectotv.com/tv/</referer>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<regex>
-<name>get-embed4</name>
-<expres>iframe src="(.*?)"</expres>
-<page>$doregex[get-embed3]</page>
-<referer>http://verdirectotv.com/tv/</referer>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<regex>
-<name>get-embed3</name>
-<expres>script type="text\/javascript" src="(.*?)"</expres>
-<page>http://verdirectotv.com/tv/nacionales2/cuatro.html</page>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
+<link></link>
 <thumbnail>http://tv.orange.es/UpImages/2261/cuatro_tv_d374e78ca002c9c06451b5d57.jpg</thumbnail>
 </item>
 <item>
 <title>Telecinco</title> 
-<link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
-<regex>
-<name>get-m3u8-decoded</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-m3u8-encoded</name>
-<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
-<page>$doregex[get-embed4]</page>
-<referer>http://verdirectotv.com/tv/</referer>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<regex>
-<name>get-embed4</name>
-<expres>iframe src="(.*?)"</expres>
-<page>$doregex[get-embed3]</page>
-<referer>http://verdirectotv.com/tv/</referer>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<regex>
-<name>get-embed3</name>
-<expres>script type="text\/javascript" src="(.*?)"</expres>
-<page>http://verdirectotv.com/tv/nacionales2/telecinco.html</page>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
+<link></link>
 <thumbnail>http://www.que.es/archivos/201010/3436376w-640x640x80.jpg</thumbnail>
 </item>
 <item>
@@ -1240,11 +1164,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.fixmedia.org/static/sources/intereconomia.com.jpg</thumbnail>
 </item>
 <item>
-<title>+ Liga</title>
-<link>https://video01-fra.streamup.com/app/tugoleada06s-stream_aac/playlist.m3u8</link>
-<thumbnail>http://srv00.epimg.net/programacion-tv/iconos/canales/cppart.png</thumbnail>
-</item>
-<item>
 <title>Canal+ Fútbol</title>
 <link>http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png</thumbnail>
@@ -1266,32 +1185,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>barça TV</title> 
-<link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
-<regex>
-<name>get-m3u8-decoded</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-m3u8-encoded</name>
-<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
-<page>$doregex[get-embed4]</page>
-<referer>http://cinestrenostv.tv</referer>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<regex>
-<name>get-embed4</name>
-<expres>iframe src="(.*?)"</expres>
-<page>$doregex[get-embed3]</page>
-<referer>http://cinestrenostv.tv</referer>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<regex>
-<name>get-embed3</name>
-<expres>script type="text\/javascript" src="(.*?)"</expres>
-<page>http://cinestrenostv.tv/canales/nacionales/plus-toros.html</page>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
+<link></link>
 <thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/12/Bar%C3%A7a-TV.jpg</thumbnail>
 </item>	
 <item>
@@ -1340,44 +1234,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://tvxat.info/wp-content/uploads/2015/10/AXN_white-2-460x252.jpg</thumbnail>
 </item>
 <item>
-<title>AXN</title> <link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link><regex><name>get-m3u8-decoded</name><expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres><page></page></regex><regex><name>get-m3u8-encoded</name><expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres><page>$doregex[get-embed4]</page><referer>http://cinestrenostv.tv</referer><agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent></regex><regex><name>get-embed4</name><expres>iframe src="(.*?)"</expres><page>$doregex[get-embed3]</page><referer>http://cinestrenostv.tv</referer><agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent></regex><regex><name>get-embed3</name><expres>script type="text\/javascript" src="(.*?)"</expres>
-<page>http://cinestrenostv.tv/canales/emision1/axn.html</page>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<thumbnail>http://tvxat.info/wp-content/uploads/2015/10/AXN_white-2-460x252.jpg</thumbnail>
-</item>
-<item>
-<title>AXN WHITE</title> <link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link><regex><name>get-m3u8-decoded</name><expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres><page></page></regex><regex><name>get-m3u8-encoded</name><expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres><page>$doregex[get-embed4]</page><referer>http://cinestrenostv.tv</referer><agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent></regex><regex><name>get-embed4</name><expres>iframe src="(.*?)"</expres><page>$doregex[get-embed3]</page><referer>http://cinestrenostv.tv</referer><agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent></regex><regex><name>get-embed3</name><expres>script type="text\/javascript" src="(.*?)"</expres>
-<page>http://cinestrenostv.tv/canales/emision1/axnwhite.html</page>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<thumbnail>http://infocul.pt/wp-content/uploads/2016/02/AXN_White_final_logo_GENERAL_3D_GLASSY_X_1_v3.jpg</thumbnail>
-</item>
-<item>
-<title>TNT</title> <link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link><regex><name>get-m3u8-decoded</name><expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres><page></page></regex><regex><name>get-m3u8-encoded</name><expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres><page>$doregex[get-embed4]</page><referer>http://cinestrenostv.tv</referer><agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent></regex><regex><name>get-embed4</name><expres>iframe src="(.*?)"</expres><page>$doregex[get-embed3]</page><referer>http://cinestrenostv.tv</referer><agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent></regex><regex><name>get-embed3</name><expres>script type="text\/javascript" src="(.*?)"</expres>
-<page>http://cinestrenostv.tv/canales/emision/tnt.html</page>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<thumbnail>http://tvenvivoporinternetgratis.esy.es/images/tnt-express-logo.jpg</thumbnail>
-</item>
-<item>
-<title>FOX</title> <link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link><regex><name>get-m3u8-decoded</name><expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres><page></page></regex><regex><name>get-m3u8-encoded</name><expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres><page>$doregex[get-embed4]</page><referer>http://cinestrenostv.tv</referer><agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent></regex><regex><name>get-embed4</name><expres>iframe src="(.*?)"</expres><page>$doregex[get-embed3]</page><referer>http://cinestrenostv.tv</referer><agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent></regex><regex><name>get-embed3</name><expres>script type="text\/javascript" src="(.*?)"</expres>
-<page>http://cinestrenostv.tv/canales/emision/fox.html</page>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rwptru1436892145.png</thumbnail>
-</item>
-<item>
-<title>SYFY</title>
-<link></link>
-<thumbnail>http://theident.gallery/syfy/2010/SYFY-2010-IDENT-CARNIVAL-1-4.jpg</thumbnail>
-</item>
-<item>
-<title>COMEDY CENTRAL</title>
-<link></link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Comedy_Central_logo.svg/400px-Comedy_Central_logo.svg.png</thumbnail>
-</item>
-<item>
 <title>MTV</title>
 <link></link>
 <thumbnail>http://idata.over-blog.com/2/42/44/41//mtv-logo.jpg</thumbnail>
@@ -1389,22 +1245,22 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>HISTORIA</title>
-<link>http://cdn.sstream.pw/live/historia_9dm8skt/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1294.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 </item>
 <item>
-<title>A & E</title>
-<link>http://cdn.sstream.pw/live/iptv17/chunklist.m3u8|Referer=http://www.dinostream.pw/embed.php?c=105231&width=650&height=400&autostart=true&tk1=%2FLcqNBRKZUQehV8u9e3U%2FiPTyV5PWEn9Qm50Iy6KJcOkjIAAS6TrkM0iv6felMKx6DYZWZRZDSSadtB9VLH1nQ%3D%3D&tk2=cs3Wwx%2FnCX4nHqKsq5MLnWfQXO3UzoRAHMUCywsgSoE%3D&tk3=WUY%2BGiEEaik60xPnktJMsxPfcR%2Bdn57%2FRJM03UfOlWY%3D</link>
-<thumbnail>http://www.blogcdn.com/www.tuaw.com/media/2012/12/ande.jpg</thumbnail>
+<title>VIAJAR</title>
+<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1286.m3u8</link>
+<thumbnail>http://i.imgur.com/XdbNaeI.jpg</thumbnail>
 </item>
 <item>
 <title>Canal + Toros</title>
-<link>http://cdn.sstream.pw/live/toros_9frbv56/chunklist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=103993&width=650&height=400&autostart=true&tk1=cCR8wTLkqS%2FsVhJy1YU8qf%2F%2FPHcnjj3g3B9ItsbBXoBzja6Rsh6v1ZZrQnROzpteCy7uAqCZAV8WOhObxFkJIQ%3D%3D&tk2=iQi01UTVTAb4D9aZXfp8upFqnwOXqH5tYjy%2B4SuWypA%3D&tk3=xmlbFeLBLvo%2FtNh9hHYEJwj290%2F6PFxV98A%2BIVsjDgM%3D</link>
+<link></link>
 <thumbnail>http://pbs.twimg.com/media/B_UIzFXWwAAmv-m.jpg</thumbnail>
 </item>
 <item>
 <title>Caza y Pesca</title> 
-<link>http://cdn.sstream.pw/live/cazaypesca_asn4yf6/chunklist.m3u8|Referer=http://www.ponlatv.com/embed.php?c=105491&width=650&height=400&autostart=true&tk1=ubQmDV7vl2vFNEKgyijxKI6GJ1%2BQC5oVKY85ve0sUDuyZeRiShb02mBdTFfRKHxoptrDKBUbn4KeXU7dAy4TAA%3D%3D&tk2=iQi01UTVTAb4D9aZXfp8upFqnwOXqH5tYjy%2B4SuWypA%3D&tk3=xmlbFeLBLvo%2FtNh9hHYEJwj290%2F6PFxV98A%2BIVsjDgM%3D</link>
+<link></link>
 <thumbnail>http://3.bp.blogspot.com/-HOTGqsd4B90/VWeORz7ELLI/AAAAAAAAEDA/BuUBzhFSyU0/s320/logocaza.jpg</thumbnail>
 </item>
 <item>
