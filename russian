@@ -13,12 +13,12 @@
 </item>
 <item>
 <title>Sic</title>
-<link>http://c.securestreaming.xyz:8000/live/sichjdebiUW6.m3u8?t=eeecae2c6eb8daf374a76cb5e64973ec&e=1459725404</link>
+<link>http://c.securestreaming.xyz:8000/live/sichjdebiUW6.m3u8?t=eeecae2c6eb8daf374a76cb5e64973ec&e=1459725404 conn=S:OK</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png</thumbnail>
 </item>
 <item>
 <title>SIC</title>
-<link></link>
+<link>rtmp://$doregex[get-ip]/stream playpath=SIC813747234?id=20766$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
