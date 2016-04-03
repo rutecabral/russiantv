@@ -1428,7 +1428,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <regex>
 <name>get-embed3</name>
 <expres>script type="text\/javascript" src="(.*?)"</expres>
-<page>http://cinestrenostv.tv/canales/emision1/barcatv.html</page>
+<page>http://cinestrenostv.tv/canales/nacionales/plus-toros.html</page>
 <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
 </regex>
 <thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/12/Bar%C3%A7a-TV.jpg</thumbnail>
