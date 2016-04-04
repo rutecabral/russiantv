@@ -621,14 +621,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.acordacidade.com.br/fotos/p/69628-3.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR=red][B][I] DESPORTO DESPORTO [/I][/B][/COLOR]</title>
+<title>[COLOR=blue][B][I] DESPORTO DESPORTO DESPORTO DESPORTO [/I][/B][/COLOR]</title>
 <link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <channel>
-<name>[COLOR red]  [COLOR red][B][I]CANAIS DESPORTO INTERNACIONAIS[/I][/B][/COLOR][COLOR red] (ittvbalda)[/COLOR] </name>
+<name>[COLOR red]  [COLOR red][B][I]CANAIS DESPORTO INTERNACIONAIS[/I][/B][/COLOR][COLOR red](ittvbalda)[/COLOR] </name>
 <thumbnail>http://s4.postimg.org/wuksubsq5/images.jpg</thumbnail>
 <fanart>http://s17.postimg.org/52675g9xr/CANAIS_DESPORTO_EUROPEU.jpg</fanart>
 </item>
@@ -808,7 +808,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png</thumbnail>
 </item>
 <item>
-<title>[COLOR=red][B][I] BRASIL BRASIL [/I][/B][/COLOR]</title>
+<title>[COLOR=blue][B][I] BRASIL BRASIL BRASIL BRASIL [/I][/B][/COLOR]</title>
 <link>rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1</link>
 <thumbnail></thumbnail>
 </item>
@@ -992,163 +992,9 @@ title: 'http://futebolpthd.blogspot.pt/',
 <link>http://srvvenus.canaldoboi.com.br:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8</link>
 <thumbnail>http://www.sba1.com/wp-content/uploads/2013/04/7-canais-canaldoboi.jpg</thumbnail>
 </item>
+
 <item>
-<title>[COLOR=red][B][I] FRANCA FRANCA [/I][/B][/COLOR]</title>
-<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RTS 2 MOTO GP AQUI</title>
-<link>http://204.107.27.196/live/3914.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d32b2bbb3d309bc3260dbce8958198f4b7352d30bef06ba32aac644e1996b443628b2f22c0414ca1d8b63fb7cd5625cf30cbb99843e17e9e177933687f9c4a2f3be2d824ef8d4ce5016672647789b3a41716f3cec6b4c2f38f83f847caa32b53ea91d1130fa8dc0c7a6ecc9dbafbd94c97186ab1642fbc6181</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Tv 5 Monde</title>
-<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8</link>
-<thumbnail>http://image1.tvdigital.de/files/station_logos/260.png</thumbnail>
-</item>
-<item>
-<title>BFM TV</title>
-<link>http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8</link>
-<thumbnail>https://pbs.twimg.com/profile_images/671319509052035073/p4YoQ3IN.png</thumbnail>
-</item>
-<item>
-<title>BFM Business</title>
-<link>http://bfmlive-i.akamaihd.net/hls/live/218341/876450612001/bfmbusiness/04.m3u8</link>
-<thumbnail>http://www.crowdfundingimmo.fr/blog/wp-content/uploads/2015/10/BFM.jpg</thumbnail>
-</item>
-<item>
-<title>France 24</title>
-<link>http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr</link>
-<thumbnail>http://img.20mn.fr/iOt_OX_LRniOQOd2dQmQVw/2048x1536-fit_logo-france-24.jpg</thumbnail>
-</item>
-<item>
-<title>EUROSPORT 1 FR</title>
-<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/eurosport1.png</thumbnail>
-</item>
-<item>
-<title>EUROSPORT 2</title>
-<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/eurosport2.png</thumbnail>
-</item>
-<item>
-<title>EuroNews</title>
-<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png</thumbnail>
-</item>
-<item>
-<title>RMC Découverte</title>
-<link>http://streaming-hub.com/stream/rmc.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png</thumbnail>
-</item>
-<item>
-<title>6Ter HD</title>
-<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8</link>
-<thumbnail>http://img.groupem6.fr/05062760-photo-6ter.jpg</thumbnail>
-</item>
-<item>
-<title>i-Télé</title>
-<link>http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8</link>
-<thumbnail>http://www.geoffroydidier.net/wp-content/uploads/2013/03/Untitled-1.jpg</thumbnail>
-</item>
-<item>
-<title>M6</title>
-<link>http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8</link>
-<thumbnail>https://www.cantemo.com/images/case-studies/m6/m6_logo_small.jpg</thumbnail>
-</item>
-<item>
-<title>Alsace 20</title>
-<link>http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/chunklist_w242426453_b1536000.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/fr/archive/6/67/20130126130920!Alsace_20_logo_2013.png</thumbnail>
-</item>
-<item>
-<title>La Chaine Normandie</title>
-<link>http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8</link>
-<thumbnail>http://www.judoclubgrandrouen.fr/wp-content/uploads/2014/05/Image-19-569x269.png</thumbnail>
-</item>
-<item>
-<title>W9</title>
-<link>https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_1256.m3u8</link>
-<thumbnail>http://www.jeremstar.fr/wp-content/uploads/news/2014-07/1733_-130243_0_0.jpg</thumbnail>
-</item>
-<item>
-<title>Gong</title>
-<link>http://ec.playmedia.fr:1935/gong-base/live/playlist.m3u8</link>
-<thumbnail>http://idata.over-blog.com/3/94/96/52/GONG.jpg</thumbnail>
-</item>
-<item>
-<title>TF1 HD</title>
-<link>http://wownet.ro/str/0202.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0</link>
-<thumbnail>http://img.clubic.com/04780052-photo-logo-mytf1-sans-reflet.jpg</thumbnail>
-</item>
-<item>
-<title>La Tele</title>
-<link>http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8</link>
-<thumbnail>http://whyopencomputing.ch/wp-content/uploads/2014/05/la_tele_logo.png</thumbnail>
-</item>
-<item>
-<title>TV Rennes</title>
-<link>http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes35mob.smil/playlist.m3u8</link>
-<thumbnail>http://bowlingpromotioncup.e-monsite.com/medias/images/tv-rennes-web.png</thumbnail>
-</item>
-<item>
-<title>OM5 TV</title>
-<link>http://ec.playmedia.fr/om5-tv/live/playlist.m3u8</link>
-<thumbnail>http://www.mondialtv.fr/wp-content/uploads/logo-om5tv.png</thumbnail>
-</item>
-<item>
-<title>Weo HD</title>
-<link>http://str81.creacast.com:80/weo/high/playlist.m3u8</link>
-<thumbnail>http://img.over-blog-kiwi.com/0/66/76/15/20160229/ob_f755ac_640px-logoweorvb-4e79c29.jpg</thumbnail>
-</item>
-<item>
-<title>Mirabelle TV</title>
-<link>http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8</link>
-<thumbnail>http://www.mirabelle.tv/design/all/logo.png</thumbnail>
-</item>
-<item>
-<title>Vosges Télévision</title>
-<link>http://live.vosgestelevision.tv/live/vosgestv/ngrp:vosgestv_all/pls.m3u8</link>
-<thumbnail>http://www.scot-vosges-centrales.fr/images/page/upload/d6c211ef87bc450cfcd46662411e9b8b.jpg</thumbnail>
-</item>
-<item>
-<title>Tébéo</title>
-<link></link>
-<thumbnail>http://www.quimper-volley.com/elite/wp-content/uploads/2013/02/tebeo-tv-rennes-ty-tele-640x360.jpg</thumbnail>
-</item>
-<item>
-<title>TVPI Bayonne</title>
-<link>http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/playlist.m3u8</link>
-<thumbnail>http://www.tvpi.fr/wp-content/themes/tvpi/images/logo-tvpi.jpg</thumbnail>
-</item>
-<item>
-<title>Enorme TV </title>
-<link>http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/fr/8/86/Logo_Enorme_TV.png</thumbnail>
-</item>
-<item>
-<title>Nancy Web</title>
-<link>http://rtmp.infomaniak.ch/livecast/nancy-webtv/playlist.m3u8</link>
-<thumbnail>http://www.wiiz.tv/wp-content/uploads/2016/03/a3a4e454427a4162187de03e62cfcfbf_400x400.png</thumbnail>
-</item>
-<item>
-<title>World Fashion Channel</title>
-<link>http://btv-net.mediacdn.ru/TVB7/wfhdeu/track_0_3000/playlist.m3u8</link>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6AlSGcMR9g1JcTQKQ5c5tnIb3AxGu-gsIJQCPuamQZd410c5Q.png</thumbnail>
-</item>
-<item>
-<title>NRJ TV</title>
-<link>http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8</link>
-<thumbnail>http://ringier.ch/sites/default/files/etv_logo_rgb_red_gr.jpg</thumbnail>
-</item>
-<item>
-<title>M6 Music Club</title>
-<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6AlSGcMR9g1JcTQKQ5c5tnIb3AxGu-gsIJQCPuamQZd410c5Q.png</thumbnail>
-</item>
-<item>
-<title>[COLOR=red][B][I] SPAIN SPAIN [/I][/B][/COLOR]</title>
+<title>[COLOR=blue][B][I] SPAIN SPAIN SPAIN SPAIN SPAIN SPAIN [/I][/B][/COLOR]</title>
 <link>http://api.iptv.ink/pl.m3u8?ch=91170153</link>
 <thumbnail></thumbnail>
 </item>
@@ -1214,6 +1060,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <link></link>
 <thumbnail>http://tv.orange.es/UpImages/2261/cuatro_tv_d374e78ca002c9c06451b5d57.jpg</thumbnail>
 </item>
+
 <item>
  <title>LA CUATRO</title>
 <link>$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
@@ -1244,11 +1091,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://tv.orange.es/UpImages/2261/cuatro_tv_d374e78ca002c9c06451b5d57.jpg</thumbnail>
 <fanart>http://tv.orange.es/UpImages/2261/cuatro_tv_d374e78ca002c9c06451b5d57.jpg</fanart> 
 </item>
+
 <item>
 <title>Telecinco</title> 
 <link></link>
 <thumbnail>http://www.que.es/archivos/201010/3436376w-640x640x80.jpg</thumbnail>
 </item>
+
 <item>
 <title>TELECINCO</title>
 <link>$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
@@ -1279,6 +1128,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.leonoticias.com/adjuntos/fichero_104495_20140415.jpg</thumbnail>
 <fanart>http://www.leonoticias.com/adjuntos/fichero_104495_20140415.jpg</fanart>
 </item>
+
 <item>
 <title>LA SEXTA</title>
 <link>http://api.iptv.ink/pl.m3u8?ch=88365689</link>
@@ -2099,8 +1949,165 @@ Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
 <link>http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8</link>
 <thumbnail>http://www.tvyespectaculos.com/wp-content/uploads/2011/02/Proyecto.jpg</thumbnail>
 </item>
+
 <item>
-<title>[COLOR=red][B][I] MUSIC MUSIC [/I][/B][/COLOR]</title>
+<title>[COLOR=blue][B][I] FRANCA FRANCA FRANCA FRANCA [/I][/B][/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RTS 2 MOTO GP AQUI</title>
+<link>http://204.107.27.196/live/3914.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d32b2bbb3d309bc3260dbce8958198f4b7352d30bef06ba32aac644e1996b443628b2f22c0414ca1d8b63fb7cd5625cf30cbb99843e17e9e177933687f9c4a2f3be2d824ef8d4ce5016672647789b3a41716f3cec6b4c2f38f83f847caa32b53ea91d1130fa8dc0c7a6ecc9dbafbd94c97186ab1642fbc6181</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Tv 5 Monde</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8</link>
+<thumbnail>http://image1.tvdigital.de/files/station_logos/260.png</thumbnail>
+</item>
+<item>
+<title>BFM TV</title>
+<link>http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/671319509052035073/p4YoQ3IN.png</thumbnail>
+</item>
+<item>
+<title>BFM Business</title>
+<link>http://bfmlive-i.akamaihd.net/hls/live/218341/876450612001/bfmbusiness/04.m3u8</link>
+<thumbnail>http://www.crowdfundingimmo.fr/blog/wp-content/uploads/2015/10/BFM.jpg</thumbnail>
+</item>
+<item>
+<title>France 24</title>
+<link>http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr</link>
+<thumbnail>http://img.20mn.fr/iOt_OX_LRniOQOd2dQmQVw/2048x1536-fit_logo-france-24.jpg</thumbnail>
+</item>
+<item>
+<title>EUROSPORT 1 FR</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/eurosport1.png</thumbnail>
+</item>
+<item>
+<title>EUROSPORT 2</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/eurosport2.png</thumbnail>
+</item>
+<item>
+<title>EuroNews</title>
+<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png</thumbnail>
+</item>
+<item>
+<title>RMC Découverte</title>
+<link>http://streaming-hub.com/stream/rmc.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png</thumbnail>
+</item>
+<item>
+<title>6Ter HD</title>
+<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8</link>
+<thumbnail>http://img.groupem6.fr/05062760-photo-6ter.jpg</thumbnail>
+</item>
+<item>
+<title>i-Télé</title>
+<link>http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8</link>
+<thumbnail>http://www.geoffroydidier.net/wp-content/uploads/2013/03/Untitled-1.jpg</thumbnail>
+</item>
+<item>
+<title>M6</title>
+<link>http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8</link>
+<thumbnail>https://www.cantemo.com/images/case-studies/m6/m6_logo_small.jpg</thumbnail>
+</item>
+<item>
+<title>Alsace 20</title>
+<link>http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/chunklist_w242426453_b1536000.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/archive/6/67/20130126130920!Alsace_20_logo_2013.png</thumbnail>
+</item>
+<item>
+<title>La Chaine Normandie</title>
+<link>http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8</link>
+<thumbnail>http://www.judoclubgrandrouen.fr/wp-content/uploads/2014/05/Image-19-569x269.png</thumbnail>
+</item>
+<item>
+<title>W9</title>
+<link>https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_1256.m3u8</link>
+<thumbnail>http://www.jeremstar.fr/wp-content/uploads/news/2014-07/1733_-130243_0_0.jpg</thumbnail>
+</item>
+<item>
+<title>Gong</title>
+<link>http://ec.playmedia.fr:1935/gong-base/live/playlist.m3u8</link>
+<thumbnail>http://idata.over-blog.com/3/94/96/52/GONG.jpg</thumbnail>
+</item>
+<item>
+<title>TF1 HD</title>
+<link>http://wownet.ro/str/0202.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0</link>
+<thumbnail>http://img.clubic.com/04780052-photo-logo-mytf1-sans-reflet.jpg</thumbnail>
+</item>
+<item>
+<title>La Tele</title>
+<link>http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8</link>
+<thumbnail>http://whyopencomputing.ch/wp-content/uploads/2014/05/la_tele_logo.png</thumbnail>
+</item>
+<item>
+<title>TV Rennes</title>
+<link>http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes35mob.smil/playlist.m3u8</link>
+<thumbnail>http://bowlingpromotioncup.e-monsite.com/medias/images/tv-rennes-web.png</thumbnail>
+</item>
+<item>
+<title>OM5 TV</title>
+<link>http://ec.playmedia.fr/om5-tv/live/playlist.m3u8</link>
+<thumbnail>http://www.mondialtv.fr/wp-content/uploads/logo-om5tv.png</thumbnail>
+</item>
+<item>
+<title>Weo HD</title>
+<link>http://str81.creacast.com:80/weo/high/playlist.m3u8</link>
+<thumbnail>http://img.over-blog-kiwi.com/0/66/76/15/20160229/ob_f755ac_640px-logoweorvb-4e79c29.jpg</thumbnail>
+</item>
+<item>
+<title>Mirabelle TV</title>
+<link>http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8</link>
+<thumbnail>http://www.mirabelle.tv/design/all/logo.png</thumbnail>
+</item>
+<item>
+<title>Vosges Télévision</title>
+<link>http://live.vosgestelevision.tv/live/vosgestv/ngrp:vosgestv_all/pls.m3u8</link>
+<thumbnail>http://www.scot-vosges-centrales.fr/images/page/upload/d6c211ef87bc450cfcd46662411e9b8b.jpg</thumbnail>
+</item>
+<item>
+<title>Tébéo</title>
+<link></link>
+<thumbnail>http://www.quimper-volley.com/elite/wp-content/uploads/2013/02/tebeo-tv-rennes-ty-tele-640x360.jpg</thumbnail>
+</item>
+<item>
+<title>TVPI Bayonne</title>
+<link>http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/playlist.m3u8</link>
+<thumbnail>http://www.tvpi.fr/wp-content/themes/tvpi/images/logo-tvpi.jpg</thumbnail>
+</item>
+<item>
+<title>Enorme TV </title>
+<link>http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/8/86/Logo_Enorme_TV.png</thumbnail>
+</item>
+<item>
+<title>Nancy Web</title>
+<link>http://rtmp.infomaniak.ch/livecast/nancy-webtv/playlist.m3u8</link>
+<thumbnail>http://www.wiiz.tv/wp-content/uploads/2016/03/a3a4e454427a4162187de03e62cfcfbf_400x400.png</thumbnail>
+</item>
+<item>
+<title>World Fashion Channel</title>
+<link>http://btv-net.mediacdn.ru/TVB7/wfhdeu/track_0_3000/playlist.m3u8</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6AlSGcMR9g1JcTQKQ5c5tnIb3AxGu-gsIJQCPuamQZd410c5Q.png</thumbnail>
+</item>
+<item>
+<title>NRJ TV</title>
+<link>http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8</link>
+<thumbnail>http://ringier.ch/sites/default/files/etv_logo_rgb_red_gr.jpg</thumbnail>
+</item>
+<item>
+<title>M6 Music Club</title>
+<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6AlSGcMR9g1JcTQKQ5c5tnIb3AxGu-gsIJQCPuamQZd410c5Q.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue][B][I] MUSIC MUSIC MUSIC MUSIC MUSIC [/I][/B][/COLOR]</title>
 <link>http://wownet.ro/str/0065.m3u8|X-Forwarded-For=81.17.18.50</link>
 <thumbnail></thumbnail>
 </item>
