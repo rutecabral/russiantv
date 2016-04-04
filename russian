@@ -139,7 +139,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <item>
 <title>SPORT TV1</title>
-<link></link>
+<link>rtmp://$doregex[get-ip]/live playpath=carau?id=25878&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embedezcast.com/embedplayer/carau/1/599/399</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -148,13 +148,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 <regex>
 <name>pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.embedezcast.com/embedplayer/43wea/1/650/500</page>
+<page>http://www.embedezcast.com/embedplayer/carau/1/599/399</page>
 <referer>http://www.embedezcast.com</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>
 </item>
+
 <item>
 <title>SPORT TV1</title>
-<link>rtmp://$doregex[get-ip]/live playpath=pissudo?id=86251&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/pissudo/1/599/399</link>
+<link></link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -173,6 +174,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
 </item>
+
 <item>
 <title>SPORT TV 2</title>
 <link></link>
