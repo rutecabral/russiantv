@@ -180,7 +180,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>SPORT TV 2</title>
-<link>rtmp://$doregex[get-ip]/live playpath=sp2101?id=85935&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sp2101/1/599/399</link>
+<link></link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -193,6 +193,21 @@ title: 'http://futebolpthd.blogspot.pt/',
 <referer>http://www.embeducaster.com/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
 </regex>
+</item>
+<item>
+<title>SPORT TV2</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=barca3?id=25854$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/barca3/1/650/500</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
 </item>
 <item>  
 <title>SPORT TV2 HD</title>                      
