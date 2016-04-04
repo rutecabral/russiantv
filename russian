@@ -138,8 +138,15 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
+<title>[COLOR beige][B][I]  SPORT TV 1 [/I][/B][/COLOR] [COLOR green](SPORTS BALDA)[/COLOR]</title>
+<sportsdevil>http://www.desportonline.net/index.php?canal=sporttv</sportsdevil>
+<referer>http://escast.tv/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>
+</item>
+
+<item>
 <title>SPORT TV1</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=carau?id=25878$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<linkrtmp://$doregex[get-ip]/live/ playpath=carau?id=25878$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
