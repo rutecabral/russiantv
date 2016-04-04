@@ -169,13 +169,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 </regex>
 </item>
 <item>
-<title>SPORT TV1 HD</title>
+<title>SPORT TV1 HD arenavision</title>
 <link>plugin://program.plexus/?url=c2d07af0ac5b2ec1f600e03cc6c4e834d64095cf&amp;mode=1&amp;name=sporttv1</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
 </item>
 <item>
 <title>SPORT TV1 HD</title>
-<link>http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/676.ts</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
 </item>
 <item>
