@@ -139,7 +139,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <item>
 <title>SPORT TV1</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=carau?id=25878$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10
+<link>rtmp://$doregex[get-ip]/live/ playpath=carau?id=25878$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -152,7 +152,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <referer>http://www.embedezcast.com</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>
 </item>
-rtmp://146.185.16.60/live<playpath>carau?id=25878&pk=6a257a54f136272bc9a6f648bb9ff635b96b9b57723e7f35b64242d26927946b <swfUrl>http://www.embedezcast.com/static/scripts/fplayer.swf <pageUrl>http://www.embedezcast.com/embedplayer/carau/1/599/399
 
 <item>
 <title>SPORT TV1</title>
