@@ -321,6 +321,38 @@ title: 'http://futebolpthd.blogspot.pt/',
 <link>http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/8i73Fnl.jpg</thumbnail>
 </item>
+
+<item>
+ <title>CAZA Y PESCA</title>
+<link>$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-m3u864</name>
+<expres>id=".{5}" value="(.*?)"</expres>
+<page>$doregex[get-pageUrl]</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-pageUrl</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-src]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36</agent>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<regex>
+<name>get-src</name>
+<expres>javascript" src="(.*?)"\W</expres>
+<page>http://cinestrenostv.tv/canales/emision1/cazaypesca.html</page>
+<referer>http://cinestrenostv.tv/</referer>
+</regex>
+<thumbnail>http://www.contalentotv.com/wp-content/uploads/2013/08/l_caza_y_pesca.png</thumbnail>
+<fanart>http://www.contalentotv.com/wp-content/uploads/2013/08/l_caza_y_pesca.png</fanart>
+</item>
+
 <item>
 <title>DISCOVERY</title>
 <link>rtmp://$doregex[get-ip]/live playpath=discoveryx?id=84775&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</link>
