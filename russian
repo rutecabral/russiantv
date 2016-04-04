@@ -136,7 +136,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png</thumbnail>
 </regex>
 </item>
-<item>
+
 <item>
 <title>SPORT TV1</title>
 <link>rtmp://$doregex[get-ip]/live/ playpath=carau?id=25878$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
