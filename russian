@@ -170,10 +170,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>SPORT TV1 HD</title>
-<link></link>
+<link>plugin://program.plexus/?url=fadff5fca7b05e7b1bfb9643ddebdf1c6dbb97d6&amp;mode=1&amp;name=sporttv1</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
 </item>
-
+<item>
+<title>SPORT TV1 HD</title>
+<link>http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/676.ts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
+</item>
 <item>
 <title>SPORT TV 2</title>
 <link></link>
