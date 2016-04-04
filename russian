@@ -137,7 +137,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 </regex>
 </item>
 <item>
-
 <item>
 <title>SPORT TV1</title>
 <link>rtmp://$doregex[get-ip]/live/ playpath=carau?id=25878$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
@@ -153,7 +152,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <referer>http://www.embedezcast.com</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png</thumbnail>
 </item>
-
 <item>
 <title>SPORT TV1</title>
 <link></link>
