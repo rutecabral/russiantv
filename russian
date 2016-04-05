@@ -377,7 +377,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>A BOLA TV</title>
-<link>rtmp://$doregex[get-ip]/live playpath=abolatvg?id=85984&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/abolatvg/1/650/500</link>
+<linkrtmp://$doregex[get-ip]/live playpath=abolatvg?id=85984&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/abolatvg/1/650/500</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -386,11 +386,29 @@ title: 'http://futebolpthd.blogspot.pt/',
 <regex>
 <name>get-pk</name>
 <expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/abolatvg/1/650/500</page>
+<page>http://www.liveflashplayer.net/embedplayer/tomala/1/650/500</page>
 <referer>http://www.embeducaster.com/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </regex>
 </item>
+
+<item>
+<title>A BOLATV</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=tomala?id=25154$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/cmtvb/1/650/500</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
+</regex>
+</item>
+
 <item>
 <title>CMTV</title>
 <link>rtmp://$doregex[get-ip]/stream playpath=cmtvb?id=21917$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
