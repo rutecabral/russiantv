@@ -1491,7 +1491,7 @@ Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
 
 <item>
  <title>CANAL+ DCINE</title>
-<link>$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent:  Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</link>
+<link>$doregex[get-m3u8]|Referer=http://api.peer5.com/jwplayer6/assets/flashls.provider.swf&amp;User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</link>
 <regex>
 <name>get-m3u8</name>
 <expres>$pyFunction:base64.b64decode('$doregex[get-m3u864]')</expres>
@@ -1507,13 +1507,13 @@ Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
 <name>get-pageUrl</name>
 <expres>iframe src="(.*?)"</expres>
 <page>$doregex[get-src]</page>
-<agent> Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
 <referer>http://cinestrenostv.tv/</referer>
 </regex>
 <regex>
 <name>get-src</name>
 <expres>javascript" src="(.*?)"\W</expres>
-<page>http://cinestrenostv.tv/canales/nacionales/plus-dcine.html</page>
+<page>http://cinestrenostv.tv/canales/emision1/plusdcinen.html</page>
 <referer>http://cinestrenostv.tv/</referer>
 </regex>
 <thumbnail>http://zonafly.com/imagenestv/canal+dcine.png</thumbnail>
