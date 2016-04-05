@@ -8,6 +8,13 @@
 </item>
 
 <item>
+<title>TELECINE PIPOCA</title>
+<sportsdevil>http://tv-msn.com/pipoca.html</sportsdevil>
+<referer>http://tv-msn.com/</referer>
+<thumbnail>http://blogtelevisual.com/wp-content/uploads/2010/11/identidade_telecine_2010_22.jpg</thumbnail>
+</item>
+
+<item>
 <title>RTP 2</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png</thumbnail>
