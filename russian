@@ -374,32 +374,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png</thumbnail>
 </regex>
 </item>
-<item>
-<title>Canal + Toros</title>
-<link></link>
-<thumbnail>http://pbs.twimg.com/media/B_UIzFXWwAAmv-m.jpg</thumbnail>
-</item>
-<item>
-<title>Caza y Pesca</title> 
-<link></link>
-<thumbnail>http://3.bp.blogspot.com/-HOTGqsd4B90/VWeORz7ELLI/AAAAAAAAEDA/BuUBzhFSyU0/s320/logocaza.jpg</thumbnail>
-</item>
-<item>
-<title>C+Toros</title>
-<link></link>
-<thumbnail>http://www.tv14.net/images/canal-toros.png<thumbnail>
-</item> 
-<item>
-<title>Caza&pesca</title>
-<link></link>
-<thumbnail>http://www.vodafone.pt/NR/rdonlyres/DDEA8230-50DE-4825-BB7C-BE5E868A3587/0/destaque_canal_caca_pesca_449x196.jpg<thumbnail>
-</item> 
-
-<item>
-<title>[COLOR=blue][B][I] DESPORTO DESPORTO DESPORTO DESPORTO [/I][/B][/COLOR]</title>
-<link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>A BOLA TV</title>
@@ -451,7 +425,34 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
-<title>[COLOR beige][B][I]  SPORT TV 1 [/I][/B][/COLOR] [COLOR green](SPORTS BALDA)[/COLOR]</title>
+<title>Canal + Toros</title>
+<link></link>
+<thumbnail>http://pbs.twimg.com/media/B_UIzFXWwAAmv-m.jpg</thumbnail>
+</item>
+<item>
+<title>Caza y Pesca</title> 
+<link></link>
+<thumbnail>http://3.bp.blogspot.com/-HOTGqsd4B90/VWeORz7ELLI/AAAAAAAAEDA/BuUBzhFSyU0/s320/logocaza.jpg</thumbnail>
+</item>
+<item>
+<title>C+Toros</title>
+<link></link>
+<thumbnail>http://www.tv14.net/images/canal-toros.png<thumbnail>
+</item> 
+<item>
+<title>Caza&pesca</title>
+<link></link>
+<thumbnail>http://www.vodafone.pt/NR/rdonlyres/DDEA8230-50DE-4825-BB7C-BE5E868A3587/0/destaque_canal_caca_pesca_449x196.jpg<thumbnail>
+</item> 
+
+<item>
+<title>[COLOR=blue][B][I] DESPORTO DESPORTO DESPORTO DESPORTO [/I][/B][/COLOR]</title>
+<link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SPORT TV 1</title>
 <sportsdevil>http://www.desportonline.net/index.php?canal=sporttv</sportsdevil>
 <referer>http://escast.tv/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>
