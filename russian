@@ -7,18 +7,10 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
 </item>
 
-<item>
-<title>TELECINE PIPOCA1</title>
-<sportsdevil>http://tv-msn.com/pipoca.html</sportsdevil>
-<referer>http://jwplayer.net/</referer>
-<thumbnail>http://blogtelevisual.com/wp-content/uploads/2010/11/identidade_telecine_2010_22.jpg</thumbnail>
-</item>
-
-<item>
-<title>TELECINE PIPOCA12</title>
-<sportsdevil>http://tv-msn.com/pipoca.html</sportsdevil>
-<referer>http://abcast.net/</referer>
-<thumbnail>http://blogtelevisual.com/wp-content/uploads/2010/11/identidade_telecine_2010_22.jpg</thumbnail>
+<item>  
+<title>RTP 1</title>
+<link>rtmp://31.204.151.253/live?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMTYgMTA6NDQ6MDcgUE0maGFzaF92YWx1ZT1UYTI4dElTM2ExVGl4WVl3cDBlWEFRPT0mdmFsaWRtaW51dGVzPTIwMA== playpath=master18 swfUrl=http://tv-msn.com/player.swf live=1 pageUrl=http://tv-msn.com/mestre.php token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
 </item>
 
 <item>
