@@ -386,10 +386,17 @@ title: 'http://futebolpthd.blogspot.pt/',
 <regex>
 <name>get-pk</name>
 <expres>pk=(.*?)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/tomala/1/650/500</page>
+<page></page>
 <referer>http://www.embeducaster.com/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </regex>
+</item>
+
+<item>
+<title>A BOLA TV</title>
+<sportsdevil>http://www.estadiofutebol.com/embed.php?c=abolatv</sportsdevil>
+<referer>http://escast.tv/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </item>
 
 <item>
@@ -403,7 +410,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <regex>
 <name>pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/cmtvb/1/650/500</page>
+<page>http://www.liveflashplayer.net/embedplayer/tomala/1/650/500</page>
 <referer>http://www.liveflashplayer.net</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </regex>
@@ -424,6 +431,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <referer>http://www.liveflashplayer.net</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>
 </regex>
+
 </item>
 <item>
 <title>PORTO CANAL</title>
