@@ -586,13 +586,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>SPORT TV1 HD on jogo benfica plexus arenavision7</title>
-<link>plugin://program.plexus/?url=146360a96ded7ee80b022975ae282b4de7ac4a2d&amp;mode=1&amp;name=sporttv1</link>
+<linkplugin://program.plexus/?url=146360a96ded7ee80b022975ae282b4de7ac4a2d&amp;mode=1&amp;name=sporttv1</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
 </item>
 
 <item>
 <title>SPORT TV1 HD on jogo benfica plexus arenavision8</title>
-<link>plugin://program.plexus/?url=7c8baa40602425f718d95cbb84626efcc41573b6d&amp;mode=1&amp;name=sporttv1</link>
+<linkplugin://program.plexus/?url=7c8baa40602425f718d95cbb84626efcc41573b6d&amp;mode=1&amp;name=sporttv1</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
 </item>
 
