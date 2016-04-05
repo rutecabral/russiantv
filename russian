@@ -7,12 +7,6 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
 </item>
 
-<item>  
-<title>RTP 1</title>
-<link>rtmp://31.204.151.253:80/live?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMTYgMTA6NDQ6MDcgUE0maGFzaF92YWx1ZT1UYTI4dElTM2ExVGl4WVl3cDBlWEFRPT0mdmFsaWRtaW51dGVzPTIwMA== playpath=master18 swfUrl=http://tv-msn.com/player.swf live=1 pageUrl=http://tv-msn.com/mestre.php token=%Zrey(nKa@#Z</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
-</item>
-
 <item>
 <title>RTP 2</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15</link>
