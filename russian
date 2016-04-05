@@ -125,7 +125,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>SIC MULHER</title>
-<link>rtmp://$doregex[get-ip]/live playpath=sicm02?id=84770&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399</link>
+<sportsdevil>http://www.estadiofutebol.com/embed.php?c=sicmulher</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
+</item>
+
+<item>
+<title>SIC MULHER</title>
+<linkrtmp://$doregex[get-ip]/live playpath=sicm02?id=84770&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -176,7 +183,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>AXN</title>
-<link>rtmp://$doregex[get-ip]/live playpath=axn1x?id=84753&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/500</link>
+<sportsdevil>http://www.estadiofutebol.com/embed.php?c=axn</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yusrru1445113463.png</thumbnail>
+</item>
+
+<item>
+<title>AXN</title>
+<linkrtmp://$doregex[get-ip]/live playpath=axn1x?id=84753&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/500</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -193,7 +207,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>AXN WHITE</title>
-<link>rtmp://$doregex[get-ip]/live playpath=axnwhitex?id=77969&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axnwhitex/1/650/500</link>
+<sportsdevil>http://www.estadiofutebol.com/embed.php?c=axnwhite</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://s20.postimg.org/qcn42rn0d/AXN_White.png</thumbnail>
+</item>
+
+<item>
+<title>AXN WHITE</title>
+<linkrtmp://$doregex[get-ip]/live playpath=axnwhitex?id=77969&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axnwhitex/1/650/500</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -375,7 +396,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>NAT GEO</title>
-<link>rtmp://$doregex[get-ip]/live playpath=natgeoax?id=84757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</link>
+<sportsdevil>http://www.estadiofutebol.com/embed.php?c=nationalgeographic</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/spurwy1433945957.png</thumbnail>
+</item>
+
+<item>
+<title>NAT GEO</title>
+<linkrtmp://$doregex[get-ip]/live playpath=natgeoax?id=84757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -392,7 +420,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>ODISSEIA</title>
-<link>rtmp://$doregex[get-ip]/live playpath=odisseiax?id=84765&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/599/399</link>
+<sportsdevil>http://www.estadiofutebol.com/embed.php?c=odisseia</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png</thumbnail>
+</item>
+
+<item>
+<title>ODISSEIA</title>
+<linkrtmp://$doregex[get-ip]/live playpath=odisseiax?id=84765&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/599/399</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
