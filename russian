@@ -9,7 +9,7 @@
 
 <item>  
 <title>RTP 1</title>
-<link>rtmp://31.204.151.253/live?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMTYgMTA6NDQ6MDcgUE0maGFzaF92YWx1ZT1UYTI4dElTM2ExVGl4WVl3cDBlWEFRPT0mdmFsaWRtaW51dGVzPTIwMA== playpath=master18 swfUrl=http://tv-msn.com/player.swf live=1 pageUrl=http://tv-msn.com/mestre.php token=%Zrey(nKa@#Z</link>
+<link>rtmp://31.204.151.253:80/live?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMTYgMTA6NDQ6MDcgUE0maGFzaF92YWx1ZT1UYTI4dElTM2ExVGl4WVl3cDBlWEFRPT0mdmFsaWRtaW51dGVzPTIwMA== playpath=master18 swfUrl=http://tv-msn.com/player.swf live=1 pageUrl=http://tv-msn.com/mestre.php token=%Zrey(nKa@#Z</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
 </item>
 
