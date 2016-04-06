@@ -101,14 +101,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>SIC RADICAL</title>
-<sportsdevil>http://www.estadiofutebol.com/embed.php?c=sicradical</sportsdevil>
+<sportsdevilhttp://www.estadiofutebol.com/embed.php?c=sicradical</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png</thumbnail>
 </item>
 
 <item>
 <title>SIC RADICAL</title>
-<linkrtmp://$doregex[get-ip]/live playpath=sicradicalx?id=84768&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</link>
+<link>rtmp://$doregex[get-ip]/live playpath=sicradicalx?id=84768&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -122,6 +122,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png</thumbnail>
 </regex>
 </item>
+
 
 <item>
 <title>SIC MULHER</title>
