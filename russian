@@ -1503,7 +1503,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
-<title>BEIN SPORTS Ñ (ESP)</title>
+<title>BEIN SPORTS Ñ</title>
 <link>http://ak-cred-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8?hdnts=$doregex[tok]</link>
 <regex>
 <name>tok</name>
@@ -1517,38 +1517,38 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 </item>
 <item>                        
-<title>[COLOR][B][I]MOVISTAR F1 (ESP) [/I][/B][/COLOR] [COLOR red](ACESTREAM PLEXUS)[/COLOR]</title>
+<title>MOVISTAR F1 [COLOR red](ACESTREAM PLEXUS)[/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/11642.acelive&amp;mode=1&amp;name=Test</link>
 <fanart>http://static3.mascoche.net/competicion/files/2012/10/horarios-formula-1-corea-2012.jpg</fanart>
 <thumbnail>http://costaverdemar.files.wordpress.com/2012/11/logo-formula-1.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR][B][I]MOVISTAR MOTO GP (ESP) [/I][/B][/COLOR] [COLOR red](ACESTREAM PLEXUS)[/COLOR]</title>
+<title>MOVISTAR MOTO GP [COLOR red](ACESTREAM PLEXUS)[/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/WVE0N1NyYXF4RjhxejhHclUrbkdnMnBES1JWcVlsLzlDM1R1aUllVmdkOHF0dWFKTlFLV1pidG9jdlJBYW83NGd6VFJTM1Ruc01QTm1sUzNYQXFlUVE9PQ/12227.acelive&amp;mode=1&amp;name=Test</link>
 <thumbnail>http://c8.alamy.com/comp/AR2KE0/sete-gibernau-spain-movistar-honda-2005-polini-australian-grand-prix-AR2KE0.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR][B][I]CANAL+LIGA (ESP) [/I][/B][/COLOR] [COLOR red](ACESTREAM PLEXUS)[/COLOR]</title>
+<title>CANAL+LIGA [/COLOR] [COLOR red](ACESTREAM PLEXUS)[/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/9387.acelive&amp;mode=1&amp;name=Test</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxpxsq1435144103.png/medium</thumbnail>
 </item>
 <item>
-<title>[COLOR][B][I]TELEDEPORTE (ESP) [/I][/B][/COLOR] [COLOR red](ACESTREAM PLEXUS)[/COLOR]</title>
+<title>TELEDEPORTE [COLOR red](ACESTREAM PLEXUS)[/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/YjZ5cTNmS2RMRFhsQStuNkRFQ2p4ZzJER2NmcVp2NkhKZG5oc0lXakxkK3JVc0k4NjkxOVBnVi9uZVZJeEZkbnROblkwd0VPOXhrUTlzUHMvcnJ2Y0E9PQ/11139.acelive&amp;mode=1&amp;name=Test</link>
 <thumbnail>http://files.santisman.es/system_preview_detail_200002448-55c2756d8b/1338818745568.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR][B][I]CANAL+FUTBOL (ESP) [/I][/B][/COLOR] [COLOR red](ACESTREAM PLEXUS)[/COLOR]</title>
+<title>CANAL+FUTBOL [COLOR red](ACESTREAM PLEXUS)[/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/NDhQclRLaWJkTlVqOUJUUnBmak1aMCtGUHpVM2VqUWx5dHNnemYwNXEweUJrZVQwTzNjTG9zVHk5UFpaUkNWa2F2MHIvY0FmaDBRVWdmendoektRcGc9PQ/13405.acelive&amp;mode=1&amp;name=canal+</link> 
 <thumbnail>http://2.bp.blogspot.com/-misBPz0-jCk/UNUZEnV_uLI/AAAAAAAAAGA/EODo3qZx8uQ/h120/canal+%252B+futbol+hd.png</thumbnail>
 </item>
 <item>  
-<title>[COLOR][B][I]CANAL+DEPORTES (ESP) [/I][/B][/COLOR] [COLOR red](ACESTREAM PLEXUS)[/COLOR]</title>
+<title>CANAL+DEPORTES [COLOR red](ACESTREAM PLEXUS)[/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/WVE0N1NyYXF4RjhxejhHclUrbkdnMnBES1JWcVlsLzlDM1R1aUllVmdkOHF0dWFKTlFLV1pidG9jdlJBYW83NGd6VFJTM1Ruc01QTm1sUzNYQXFlUVE9PQ/13230.acelive&amp;mode=1&amp;name=canal+</link> 
 <thumbnail>http://www.thelogodb.com/images/media/logo/svtrtx1433355701.png/medium</thumbnail>
 </item>
 <item>   
-<title>[COLOR][B][I]CANAL+DEPORTES 2 (ESP) [/I][/B][/COLOR] [COLOR red](ACESTREAM PLEXUS)[/COLOR]</title>
+<title>CANAL+DEPORTES 2 [COLOR red](ACESTREAM PLEXUS)[/COLOR]</title>
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/WVE0N1NyYXF4RjhxejhHclUrbkdnMnBES1JWcVlsLzlDM1R1aUllVmdkOHF0dWFKTlFLV1pidG9jdlJBYW83NGd6VFJTM1Ruc01QTm1sUzNYQXFlUVE9PQ/13231.acelive&amp;mode=1&amp;name=canal+</link> 
 <thumbnail>http://2.bp.blogspot.com/-ziVJ31fND74/UP_6WME8G0I/AAAAAAAAAc8/wBOzFs-DeVY/s320/canal+%252B+deportes+2+hd.png</thumbnail>
 </item>
