@@ -545,9 +545,16 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail></thumbnail>
 </item>
 
+<item> 
+<title>SPORT TV1</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxmovies.pnghttps://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv1.png</thumbnail>
+</item>
+
 <item>
 <title>SPORT TV 1</title>
-<sportsdevil>http://www.estadiofutebol.com/embed.php?c=sporttv</sportsdevil>
+<sportsdevilhttp://www.estadiofutebol.com/embed.php?c=sporttv</sportsdevil>
 <referer>http://escast.tv/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>
 </item>
