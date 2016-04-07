@@ -681,7 +681,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>SPORT TV5</title>
-<link>http://iptvbox.noip.us:9998/live/atik/atik/824.m3u8</link>
+<linkhttp://iptvbox.noip.us:9998/live/atik/atik/824.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
+</item>
+
+<item> 
+<title>SPORT TV 5</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv4-2</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
 </item>
 
@@ -723,14 +730,22 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png</thumbnail>
 </item>
 
+<item> 
+<title>BENFICA TV2</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=benficatv-2</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png</thumbnail>
+</item>
+
 <item>
 <title>BENFICA TV2 HD</title>
 <link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png</thumbnail>
 </item>
+
 <item>
 <title>BENFICA TV2</title>
-<link>rtmp://$doregex[get-ip]/live playPath=benfas?id=86051&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/benfas/1/650/500</link>
+<linkrtmp://$doregex[get-ip]/live playPath=benfas?id=86051&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/benfas/1/650/500</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
