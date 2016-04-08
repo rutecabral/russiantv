@@ -2179,16 +2179,23 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://2dopeboyz.files.wordpress.com/2008/03/20080327-lgnd.jpg</thumbnail>
 </item>
 
+<channel>
+<name>ADULT</name>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+<fanart>http://bitcoingarden.tk/wp-content/uploads/2014/07/warning_adult_content_01.jpg</fanart>
+</subitem>
+</item>
+
 <item>
 <parentalblock>false</parentalblock>
-<title>teste</title>
+<title>CHECK SETTINGS TO ACTIVATE</title>
 <link>ignorame</link>
 <thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
 </item>
 
 <item>
 <parentalblock>true</parentalblock>
-<title>HOT PT</title>
+<title>[COLOR blue] [I]HOT PT[/I] [/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live/ playpath=regopleudo?id=25638$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/regopleudo/1/599/399 live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
@@ -2206,8 +2213,99 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <parentalblock>true</parentalblock>
-<title>PLAYBOY</title>
+<title>[COLOR blue] [I]PLAYBOY[/I] [/COLOR]</title>
 <link>http://5.152.199.130/iptv/TWKABPT539/527/index.m3u8</link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR blue] [I]PASSION[/I] [/COLOR]</title>
+<link>http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8</link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR blue] [I]RUSSIAN NIGHTS[/I] [/COLOR]</title>
+<link></link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR blue] [I]FREE X TV [/I] [/COLOR]</title>
+<link>http://37.235.191.23:81/udp/225.50.70.8:1234</link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR blue] [I]PINK EROTIC 2[/I] [/COLOR]</title>
+<link></link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR blue] [I]PINK EROTIC 3[/I] [/COLOR]</title>
+<link></link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR blue] [I]PINK EROTIC 4[/I] [/COLOR]</title>
+<link></link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR blue] [I]BRAZZERS EUROPE[/I] [/COLOR]</title>
+<link></link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR blue] [I]BRAZZERS[/I] [/COLOR] HARDCORE</title>
+<link></link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR blue] [I]BRAZZERS[/I] [/COLOR] SOFTCORE</title>
+<link>http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers</link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR blue] [I]LATINAS[/I] [/COLOR]</title>
+<link>http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8</link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR blue] [I]SPICE TV[/I] [/COLOR]</title>
+<link>rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499</link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR blue] [I]STORM BABES[/I] [/COLOR]</title>
+<link>http://playback.d2see.com:1935/wavemachine-live01/mp4:playboytv_channel2/playlist.m3u8</link>
+<thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
+</item>
+
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR blue] [I] [/I] [/COLOR]</title>
+<link></link>
 <thumbnail>http://www.alexmusic.net/tele/tvshots/0604/private.jpg</thumbnail>
 </item>
 
