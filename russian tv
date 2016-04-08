@@ -547,7 +547,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>SPORTV 1</title>
-<sportsdevil>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
+<sportsdevilhttp://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
 </item>
@@ -557,13 +557,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <sportsdevilhttp://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
 <referer>http://www.sporttvsonline.com</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxmovies.pnghttps://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv1.png</thumbnail>
-</item>
-
-<item>
-<title>SPORT TV 1</title>
-<sportsdevilhttp://www.estadiofutebol.com/embed.php?c=sporttv</sportsdevil>
-<referer>http://escast.tv/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>
 </item>
 
 <item>
@@ -601,7 +594,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>SPORT TV1 HD on jogo benfica plexus arenavision7</title>
-<linkplugin://program.plexus/?url=146360a96ded7ee80b022975ae282b4de7ac4a2d&amp;mode=1&amp;name=sporttv1</link>
+<link>http://163.ip-51-255-36.eu:8000/live/free/free/769.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
 </item>
 
@@ -616,6 +609,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 <sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv2</sportsdevil>
 <referer>http://www.sporttvsonline.com</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV2 HD on jogo benfica plexus arenavision7</title>
+<link>http://163.ip-51-255-36.eu:8000/live/free/free/733.ts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>              
 </item>
 
 <item>
@@ -678,6 +677,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>SPORT TV3 HD [B][COLOR red]Plexus[/COLOR][/B]</title>                      
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10482.acelive&amp;mode=1&amp;name=SPORTTV3</link>                                
 <thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV2 HD on jogo benfica plexus arenavision7</title>
+<link>http://163.ip-51-255-36.eu:8000/live/free/free/734.ts</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>              
 </item>
 
 <item>
