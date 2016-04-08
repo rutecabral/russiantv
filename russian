@@ -545,9 +545,16 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>SPORTV 1</title>
+<sportsdevil>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
+<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+</item>
+
 <item> 
 <title>SPORT TV1</title>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
+<sportsdevilhttp://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
 <referer>http://www.sporttvsonline.com</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxmovies.pnghttps://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv1.png</thumbnail>
 </item>
