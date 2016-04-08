@@ -523,21 +523,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 <link></link>
 <thumbnail>http://pbs.twimg.com/media/B_UIzFXWwAAmv-m.jpg</thumbnail>
 </item>
+
 <item>
 <title>Caza y Pesca</title> 
 <link></link>
 <thumbnail>http://3.bp.blogspot.com/-HOTGqsd4B90/VWeORz7ELLI/AAAAAAAAEDA/BuUBzhFSyU0/s320/logocaza.jpg</thumbnail>
 </item>
-<item>
-<title>C+Toros</title>
-<link></link>
-<thumbnail>http://www.tv14.net/images/canal-toros.png<thumbnail>
-</item> 
-<item>
-<title>Caza&pesca</title>
-<link></link>
-<thumbnail>http://www.vodafone.pt/NR/rdonlyres/DDEA8230-50DE-4825-BB7C-BE5E868A3587/0/destaque_canal_caca_pesca_449x196.jpg<thumbnail>
-</item> 
 
 <item>
 <title>[COLOR=blue][B][I] DESPORTO DESPORTO DESPORTO DESPORTO [/I][/B][/COLOR]</title>
@@ -593,12 +584,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 
 <item>
-<title>SPORT TV1 HD</title>
-<link>http://163.ip-51-255-36.eu:8000/live/free/free/769.ts</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
-</item>
-
-<item>
 <title>SPORT TV1 HD on jogo benfica plexus arenavision8</title>
 <linkplugin://program.plexus/?url=7c8baa40602425f718d95cbb84626efcc41573b6d&amp;mode=1&amp;name=sporttv1</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
@@ -650,12 +635,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
 </item>
 
-<item>  
-<title>SPORT TV2 HD [B][COLOR red]Plexus[/COLOR][/B]</title>                      
-<link>plugin://program.plexus/?mode=1&url=acestream://6053774a957d5b6066d2f04236d7d67bc9434a8e&name=SportTV2</link>                                
-<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
-</item>
-
 <item>
 <title>SPORT TV3</title>
 <link>rtmp://$doregex[get-ip]/live playpath=sp3100?id=85757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sp3100/1/599/399</link>
@@ -677,12 +656,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>SPORT TV3 HD [B][COLOR red]Plexus[/COLOR][/B]</title>                      
 <link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10482.acelive&amp;mode=1&amp;name=SPORTTV3</link>                                
 <thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
-</item>
-
-<item>
-<title>SPORT TV2 HD on jogo benfica plexus arenavision7</title>
-<link></link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>              
 </item>
 
 <item>
