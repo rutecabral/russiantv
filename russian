@@ -645,8 +645,8 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>  
-<title>SPORT TV2 HD</title>                      
-<link></link>                                
+<title>SPORT TV2 HD [B][COLOR red]Plexus[/COLOR][/B]</title>                      
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10481.acelive&mode=1&name=SportTV2</link>                                
 <thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
 </item>
 
@@ -668,14 +668,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>  
-<title>SPORT TV3 HD</title>                      
-<link></link>                                
+<title>SPORT TV3 HD [B][COLOR red]Plexus[/COLOR][/B]</title>                      
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10482.acelive&amp;mode=1&amp;name=SPORTTV3</link>                                
 <thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
 </item>
 
 <item>
 <title>SPORT TV4</title>
-<link>http://iptvbox.noip.us:9998/live/atik/atik/823.m3u8</link>
+<linkhttp://iptvbox.noip.us:9998/live/atik/atik/823.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
 </item>
 
@@ -687,7 +687,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item> 
 <title>SPORT TV5</title>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv5</sportsdevil>
+<sportsdevilhttp://www.sporttvsonline.com/index.php?canal=sporttv5</sportsdevil>
 <referer>http://www.sporttvsonline.com/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
 </item>
