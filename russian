@@ -518,12 +518,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
-<title>jogo aqui acd bef e sporting maritimo</title>
-<link>rtmp://93.120.27.242:443/liveedge/ playpath=CH7q2m swfUrl=http://www.micast.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.micast.tv/iframe.php?ch=CH7q2m<</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
-</item>
-
-<item>
 <title>SPORTV 1</title>
 <sportsdevilhttp://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
@@ -572,13 +566,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>SPORT TV1 HD on jogo benfica e do sporting  plexus arenavision9</title>
-<link>plugin://program.plexus/?url=62623d8609e3d9e19ed08e3a4b018d8603e16ae5&amp;mode=1&amp;name=sporttv1</link>
+<linkplugin://program.plexus/?url=62623d8609e3d9e19ed08e3a4b018d8603e16ae5&amp;mode=1&amp;name=sporttv1</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
 </item>
 
 <item>
 <title>SPORT TV1 HD on jogo benfica e do sporting plexus arenavision10</title>
-<link>plugin://program.plexus/?url=c2d07af0ac5b2ec1f600e03cc6c4e834d64095cf&amp;mode=1&amp;name=sporttv1</link>
+<linkplugin://program.plexus/?url=c2d07af0ac5b2ec1f600e03cc6c4e834d64095cf&amp;mode=1&amp;name=sporttv1</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
 </item>
 
