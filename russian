@@ -802,7 +802,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>Eurosport 1 HD</title>
-<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
+<link></link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/eurosport1.png</thumbnail>
 </item>
 
@@ -814,7 +814,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>MOTORSTV</title>
-<link>rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedo.php?live=motors&vw=620&vh=490 token=%Zrey(nKa@#Z</link>
+<link></link>
 <thumbnail>https://www.motorstv.com/sites/default/files/logo_motorstv_simple_0.png</thumbnail>
 </item>
 
@@ -850,7 +850,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>Sky Sports f1</title>
-<link>http://50.97.49.87:1935/apqq2/vskysf1lsh/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
 </item>
 
@@ -904,20 +904,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
-<title>NBC SPORT USA</title>
-<title>NBC SPORTS</title>
-<link>$doregex[getSTREAM]|User-Agent=iPhone</link>
-<regex>
-<name>getSTREAM</name>
-<expres>file:.*(http.*?)[",']</expres>
-<page>http://lqgq.biggestplayer.me/streamcr.php?id=234777&width=620&height=460</page>
-<referer>http://theactionlive.com/livegamecrnope.php?id=inbcssn&width=620&height=490&stretching=</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vxvtup1434505598.png/medium</thumbnail>
-</regex>
-</item>
-
-<item>
 <title>FIGHT SPORT</title>
 <link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
 <thumbnail>http://csisports.tv/wp-content/themes/csi/images/view1.jpg</thumbnail>
@@ -955,7 +941,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>FIGHTER CHANNEL</title>
-<link>http://87.248.160.8/edge/smil:boet/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://fightchannel.hr/repozitorij/fc-logo.jpg</thumbnail>
 </item>
 
@@ -967,22 +953,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>NBC Golf Channel</title>
-<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/svqtwt1433452768.png</thumbnail>
 </item>
 
 <item> 
 <title>NBA TV USA</title>
-<link>$doregex[getM3U8]</link>
-<regex>
-<name>getM3U8</name>
-<expres>file: "(.*?)"</expres>
-<page>http://lqgq.biggestplayer.me/streamcr.php?id=224676&amp;width=620&amp;height=460</page>
-<referer>http://theactionlive.com/livegamecrnope.php?id=nbatv&width=620&height=490&stretching=</referer>
-<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A</agent>
-<cookieJar></cookieJar>
-<thumbnail>http://www.thelogodb.com/images/media/logo/xutptv1433429127.png/medium</thumbnail>
-</regex>
+<link></link>
 </item> 
 
 <item>
@@ -1047,19 +1024,19 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>GLOBO RJ</title>
-<link>http://107.182.231.88:1935/liverepeater/ch15-1/live.m3u8</link>
+<link></link>
 <thumbnail>http://i.imgur.com/CQPOCvT.png</thumbnail>
 </item>
 
 <item>
 <title>GLOBO MG</title>
-<link>http://50.7.66.66:8081/loadbalance/slv4/playlist.m3u8</link>
+<link></link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/archive/5/5d/20130907234351!Redeglobo.png</thumbnail>
 </item>
 
 <item>
 <title>GLOBO SP</title>
-<link>http://107.182.231.88:1935/liverepeater/ch05-1/playlist.m3u8</link>
+<link></link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/archive/5/5d/20130907234351!Redeglobo.png</thumbnail>
 </item>
 
@@ -1089,7 +1066,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>BAND NEWS</title>
-<link>http://enterplay-live.dash.adaptive.level3.net:80/bandnews/bandnews.isml/bandnews-audio_4=128000-video=1100000.m3u8</link>
+<link></link>
 <thumbnail>http://iptv.codigolivre.net/logos/Band-News.png</thumbnail>
 </item>
 
@@ -1107,25 +1084,25 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>BBB BRASIL</title>
-<link>rtmp://208.115.227.212:1935/RedeCanaisBBB/myStream</link>
+<link></link>
 <thumbnail>http://i.imgur.com/7mIoj9N.jpg</thumbnail>
 </item>
 
 <item>
 <title>DISCOVERY CHANNEL</title>
-<link>http://107.182.231.88:1935/liverepeater/ch19-1/playlist.m3u8</link>
+<link></link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
 </item>
 
 <item>
 <title>CINE SKY</title>
-<link>rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDE2IDI6MzQ6MTggQU0maGFzaF92YWx1ZT05UlNUckJVQnVWVWFHVEs5MHk1a0NBPT0mdmFsaWRtaW51dGVzPTU=/ playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/filmes.php</link>
+<link></link>
 <thumbnail>https://macmagazine.com.br/wp-content/uploads/2011/01/12-sky_icon.png</thumbnail>
 </item>
 
 <item>
 <title>TELECINE PREMIUM</title>
-<link>http://107.182.231.88:1935/liverepeater/ch24-1/playlist.m3u8</link>
+<link></link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png</thumbnail>
 </item>
 
@@ -1137,37 +1114,37 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>ESPN BRASIL</title>
-<link>http://31.204.128.112:8081/live/espnbr/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://pacificrecords.com/Pacific_Records/prwp/wp-content/uploads/2015/06/espn-logo.jpg</thumbnail>
 </item>
 
 <item>
 <title>SPORTV 1</title>
-<link>http://107.182.231.88:1935/liverepeater/ch05-1/playlist.m3u8</link>
+<link></link>
 <thumbnail>https://portal4.files.wordpress.com/2015/07/sportv1.jpg</thumbnail>
 </item>
 
 <item>
 <title>SPORTV 2</title>
-<link>http://31.204.128.112:8081/live/sportv2/playlist.m3u8</link>
+<link></link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/SporTV_2_logo_2011.png/640px-SporTV_2_logo_2011.png</thumbnail>
 </item>
 
 <item>
 <title>SPORTV 3</title>
-<link>http://107.182.231.88:1935/liverepeater/ch07-1/playlist.m3u8</link>
+<link></link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SporTV_3_logo_2011.png/640px-SporTV_3_logo_2011.png</thumbnail>
 </item>
 
 <item>
 <title>PREMIERE SPORTS</title>
-<link>http://107.182.231.88:1935/liverepeater/ch11-1/playlist.m3u8</link>
+<link></link>
 <thumbnail>premiere.png</thumbnail>
 </item>
 
 <item>
 <title>COMBATE</title>
-<link>http://107.182.231.88:1935/liverepeater/ch10-1/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://www.goltvaovivo.org/wp-content/uploads/2016/01/Canal-Combate-ao-vivo.png</thumbnail>
 </item>
 
@@ -1221,7 +1198,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>CARTOON NETWORK</title>
-<link>http://31.204.128.112:8081/live/cartoon/playlist.m3u8</link>
+<link></link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png</thumbnail>
 </item>
 
@@ -1239,7 +1216,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>TV PONTA NEGRA NEWS</title>
-<link>http://184.172.23.109:1935/live/tvmix02/tvmix02/live.m3u8</link>
+<link></link>
 <thumbnail>http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/TV_Ponta_Negra_Natal_ao_Vivo_Online_e_Gr%C3%A1tis.jpg</thumbnail>
 </item>
 
@@ -1755,13 +1732,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>DISCOVERY</title>
-<link>http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8</link>
+<link></link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
 </item>
 
 <item>
 <title>HISTORIA</title>
-<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1294.m3u8</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 </item>
 
@@ -1798,7 +1775,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>VIAJAR</title>
-<link>http://xtream.iptv-streamer.com:8000/live/aa/aa/1286.m3u8</link>
+<link></link>
 <thumbnail>http://i.imgur.com/XdbNaeI.jpg</thumbnail>
 </item>
 
