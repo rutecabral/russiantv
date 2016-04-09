@@ -511,6 +511,8 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail></thumbnail>
 </item>
 
+
+
 <item>
 <title>SPORTV 1</title>
 <sportsdevilhttp://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
@@ -559,8 +561,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 
 <item>
-<title>SPORT TV1 HD on jogo benfica plexus arenavision8</title>
-<linkplugin://program.plexus/?url=7c8baa40602425f718d95cbb84626efcc41573b6d&amp;mode=1&amp;name=sporttv1</link>
+<title>SPORT TV1 HD on jogo benfica plexus arenavision9</title>
+<link>plugin://program.plexus/?url=62623d8609e3d9e19ed08e3a4b018d8603e16ae5&amp;mode=1&amp;name=sporttv1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
+</item>
+
+<item>
+<title>SPORT TV1 HD on jogo benfica plexus arenavision10</title>
+<link>plugin://program.plexus/?url=c2d07af0ac5b2ec1f600e03cc6c4e834d64095cf&amp;mode=1&amp;name=sporttv1</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
 </item>
 
