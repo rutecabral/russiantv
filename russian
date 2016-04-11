@@ -1825,6 +1825,363 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
+<title>[COLOR=blue][B][I] ITALY ITALY ITALY ITALY  [/I][/B][/COLOR]</title>
+<link>http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/index_1200_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>   	                                
+<title>RAI 1</title>                  
+<link>http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/index_1200_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qrqrps1433426634.png/medium</thumbnail>
+</item> 
+
+<item> 
+<title>RAI 2</title>                  
+<link>http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/index_1200_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vxurqt1434463049.png/medium</thumbnail>
+</item>  
+
+<item> 
+<title>RAI 3</title>                    
+<link>http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/index_1200_av-p.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xxwxry1434463066.png/medium</thumbnail>
+</item>
+
+<item> 
+<title>RAI 4</title>                  
+<link>http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vpsups1434463075.png/medium</thumbnail>
+</item> 
+
+<item> 
+<title>RAI 5</title>                  
+<link>http://stream12.rai.it/live/rai5.smil/master.m3u8|X-Forwarded-For=2.112.0.1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qrspts1434463087.png/medium</thumbnail>
+</item>  
+
+<item>
+<title>RAI 5</title>                  
+<link>mmsh://212.162.68.162/rai5</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qrspts1434463087.png/medium</thumbnail>
+</item> 
+
+<item> 
+<title>RAI SPORT 1</title>                  
+<link>http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1</link>
+<thumbnail>http://www.stream2watch.com/images/thumbs/raisport1%20live%20stream.gif</thumbnail>
+</item>
+
+<item> 
+<title>RAI SPORT 2</title>                  
+<link>http://httpstream1.rai.it/Italy/raisport2.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1</link>
+<thumbnail>http://www.stream2watch.com/images/thumbs/raisport1%20live%20stream.gif</thumbnail>
+</item> 
+
+<item>
+<title>SPORTITALIA</title>                  
+<link>http://spi.hystream.com:1935/spilive/spistream_360/livestream.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xtttss1444399330.png/medium</thumbnail>
+</item>  
+
+<item> 
+<title>RAI MOVIE</title>                  
+<link>http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwrtsp1434463709.png/medium</thumbnail>
+</item>  
+ 
+<item> 
+<title>RAI PREMIUM</title>                  
+<link>http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvpl8dNzJ1gt3fA119K2hO3bWewN-2f5MQ_jCZwrYksrWns_S-g</thumbnail>
+</item>  
+
+<item
+<title>ITALIA 1</title>                  
+<link>rtmp://$doregex[ip]/live playpath=Apch1?id=54164$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/Apch1/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/Apch1/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uwsqus1434464264.png/medium</thumbnail>
+</item>  
+ 
+<item>
+<title>ITALIA 2</title>                  
+<link>rtmp://$doregex[ip]/live playpath=Apch2?id=54165$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/Apch2/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/Apch2/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/trvvrs1434464319.png/medium</thumbnail>
+</item> 
+
+<item>
+<title>RAI NEWS 24</title>                  
+<link>http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yruqxs1434616108.png/medium</thumbnail>
+</item>  
+
+<item>
+<title>EURONEWS</title>                  
+<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/19-live.m3u8</link> 
+<thumbnail>http://static.euronews.com/media/default-img-textv2.gif</thumbnail>
+</item>  
+
+<item>
+<title>EXTRA</title>                  
+<link></link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vruups1434615494.png/medium</thumbnail>
+</item> 
+
+<item>
+<title>EXTRA 1</title>                  
+<link></link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vruups1434615494.png/medium</thumbnail>
+</item> 
+
+<item> 
+<title>RAI GULP</title>                  
+<link>http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/twsupw1434463637.png/medium</thumbnail>
+</item>  
+ 
+<item> 
+<title>RAI SCUOLA</title>                  
+<link>mmsh://212.162.68.163:80/rai_scuola</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vxuqsq1434616120.png/medium</thumbnail>
+</item>  
+
+<item> 
+<title>RAI STORIA</title>                  
+<link>mmsh://212.162.68.163/rai_storia</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rrptqp1434616172.png/medium</thumbnail>
+</item> 
+
+<item> 
+<title>RAI YOYO</title>                  
+<link>http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ryqwqq1434464030.png/medium</thumbnail>
+</item> 
+
+ <item>
+<title>RETE 4</title>                  
+<link>rtmp://$doregex[ip]/live playpath=ApCh4?id=54174$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/ApCh4/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/ApCh4/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uuyqws1434464980.png/medium</thumbnail>
+</item>  
+
+<item>
+<title>GF</title>                  
+<link></link>
+<thumbnail>http://static.televisionando.it/televisionando/fotogallery/979X0/158151/il-logo-del-grande-fratello-14.jpg</thumbnail>
+</item> 
+ 
+<item>
+<title>CANALE 5</title>                  
+<link>rtmp://$doregex[ip]/live playpath=Apch5?id=54166$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/Apch5/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/Apch5/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex> 
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwurwq1444046067.png/medium</thumbnail>
+</item> 
+
+<item>
+<title>LA 3</title>                  
+<link>http://h3ghdchan101-i.akamaihd.net/hls/live/217153/Virtual_Channel101/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a4/La3_logo.png</thumbnail>
+</item>  
+
+<item>
+<title>LA 7</title>                  
+<link>http://la7live-lh.akamaihd.net/i/test_1@143593/index_1_av-b.m3u8|X-Forwarded-For=2.112.0.1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vrtxqv1434615327.png</thumbnail>
+</item>  
+
+<item>
+<title>ALICE</title>                  
+<link>http://live02.italiasmart.tv/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8</link>
+<thumbnail>http://alice.tv/wp-content/uploads/sites/13/2013/12/logo-alice.jpg</thumbnail>
+</item>
+
+<item
+<title>MARCOPOLO</title>                  
+<link>http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8</link>
+<thumbnail>http://www.digital-sat.it/files-admin/Simone/marcopolo-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>DMAX</title>                  
+<link>rtmp://$doregex[ip]/live playpath=dmaxps?id=54171$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/dmaxps/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/dmaxps/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/twtqsy1433428194.png/medium</thumbnail>
+</item>  
+
+<item>
+<title>TOP CRIME</title>                  
+<link>rtmp://$doregex[ip]/live playpath=ApCh6?id=id=53899$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/ApCh6/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/ApCh6/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wwypyr1434465695.png/medium</thumbnail>
+</item>  
+
+<item>
+<title>FOCUS</title>                  
+<link>rtmp://$doregex[ip]/live playpath=AdFocus?id=54168$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/AdFocus/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/AdFocus/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uwsrsv1457358169.png/medium</thumbnail>
+</item> 
+
+<item>
+<title>GIALLO</title>                  
+<link>rtmp://$doregex[ip]/live playpath=ApGiallo?id=54173$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/ApGiallo/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/ApGiallo/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wtxurr1457358545.png/medium</thumbnail>
+</item>
+
+<item>
+<title>REAL TIME</title>                  
+<link>rtmp://$doregex[ip]/live playpath=ApRealTime?id=54172$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/ApRealTime/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/ApRealTime/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/tuywtw1457536768.png/medium</thumbnail>
+</item>  
+
+<item>
+<title>K2</title>                  
+<link>rtmp://$doregex[ip]/live playpath=TAkappadue?id=55236$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf swfVfy=1 live=1 timeout=13 pageUrl=http://www.janjuaplayer.com/embedplayer/TAkappadue/3/620/380</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/TAkappadue/3/620/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/tvuptx1433489528.png/medium</thumbnail>
+</item>  
+
+<item>
+<title>TV MODA</title>                  
+<link></link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaq2vIwDa5nZNbxEmXWAeJNPsoa5JQpCNxvjVOPHzmwH9pHTV_</thumbnail>
+</item>  
+
+<item>
+<title>TELE TICINO</title>                  
+<link>http://rtmp.infomaniak.ch/livecast/teleticinolive/anis_sat.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/it/2/20/Logo_TeleTicino.png</thumbnail>
+</item>  
+ 
+
+<item>
+<title>SKY TG24</title>                  
+<link>http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream5/streamPlaylist.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ytttpy1434465390.png/medium</thumbnail>
+</item> 
+
+<item>
+<title>VIDEOLINA</title>                  
+<link>http://178.33.229.111:1935/live/Videolina/livestream.m3u8</link>
+<thumbnail>http://www.artreport.it/wordpress/wp-content/uploads/2014/05/videolina.jpg</thumbnail>
+</item> 
+
+<item> 
+<title>RADIO CAPITAL TIVU</title>                  
+<link>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wuppvq1434466880.png/medium</thumbnail>
+</item>  
+
+<item> 
+<title>RADIO ITALIA TV</title>                  
+<link>http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x576_av-p.m3u8</link>
+<thumbnail>http://www.radiospeaker.it/images/blog/radio-italia-logo_landscape_300x1000.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR=blue][B][I] FRANCA FRANCA FRANCA FRANCA [/I][/B][/COLOR]</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8</link>
 <thumbnail></thumbnail>
