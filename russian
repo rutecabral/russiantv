@@ -607,12 +607,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 </regex>
 </item>
 
-<item>   
-<title>SPORT TV2 [COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>                      
-<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10481.acelive&amp;mode=1&amp;name=Sport TV 2</link>                                
-<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
-</item>
-
 <item>
 <title>SPORT TV2 opcao 2</title>
 <link>rtmp://$doregex[get-ip]/live/ playpath=spill?id=26031$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
@@ -627,6 +621,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 <page>http://www.embedezcast.com/embedplayer/spill/1/599/399</page>
 <referer>http://www.embedezcast.com</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
+</item>
+
+<item>   
+<title>SPORT TV2 [COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>                      
+<link>plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10481.acelive&amp;mode=1&amp;name=Sport TV 2</link>                                
+<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 
 <item>
