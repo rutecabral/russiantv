@@ -156,7 +156,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>TVI FICCAO</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=tvicrl?id=24273$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<link>rtmp://$doregex[get-ip]/live/ playpath=tvificcaob?id=26061$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -165,11 +165,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 <regex>
 <name>pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.embedezcast.com/embedplayer/tvicrl/1/599/399
+<page>http://www.embedezcast.com/embedplayer/tvificcaob/1/599/399
 </page>
 <referer>http://www.embedezcast.com</referer>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png</thumbnail>
 </item>
+
 
 <item>
 <title>HOLLYWOOD</title>
@@ -484,7 +485,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 <item>
 <title>PORTO CANAL</title>
-<link>rtmp://$doregex[get-ip]/live playpath=portocanalxx?id=84767&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500</link>
+<link>rtmp://$doregex[get-ip]/live playpath=portocanalv?id=86583&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalv/1/599/399</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -493,11 +494,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 <regex>
 <name>get-pk</name>
 <expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500</page>
+<page>http://www.embeducaster.com/embedplayer/portocanalv/1/599/399</page>
 <referer>http://www.embeducaster.com/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png</thumbnail>
 </regex>
 </item>
+
+rtmp://173.192.209.69/live<playpath>portocanalv?id=86583&pk=6a257a54f136272bc9a6f648bb9ff635b96b9b57723e7f35b64242d26927946b <swfUrl>http://www.embeducaster.com/static/scripts/fplayer.swf <pageUrl>http://www.embeducaster.com/embedplayer/portocanalv/1/599/399
+
 
 <item>
 <title>Canal + Toros</title>
@@ -613,8 +617,8 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
-<title>SPORT TV2</title>
-<linkrtmp://$doregex[get-ip]/live/ playpath=barca3?id=25854$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<title>SPORT TV2 opcao 2</title>
+<linkrtmp>://$doregex[get-ip]/live/ playpath=spill?id=26031$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -623,10 +627,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 <regex>
 <name>pk</name>
 <expres>ea=(.*)'</expres>
-<page>http://www.embedezcast.com/embedplayer/barca3/1/650/500</page>
+<page>http://www.embedezcast.com/embedplayer/spill/1/599/399</page>
 <referer>http://www.embedezcast.com</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
 </item>
+
+rtmp://46.28.53.30/live<playpath>spill?id=26031&pk=6a257a54f136272bc9a6f648bb9ff635b96b9b57723e7f35b64242d26927946b <swfUrl>http://www.embedezcast.com/static/scripts/fplayer.swf <pageUrl>http://www.embedezcast.com/embedplayer/spill/1/599/399
+
 
 <item>
 <title>SPORT TV3</title>
@@ -659,7 +666,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item> 
 <title>SPORT TV 5</title>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv5</sportsdevil>
+<sportsdevilhttp://www.sporttvsonline.com/index.php?canal=sporttv5</sportsdevil>
 <referer>http://www.sporttvsonline.com</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
 </item>
