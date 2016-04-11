@@ -1605,7 +1605,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>Hot</title>
-<linkrtmp://$doregex[get-ip]/live playpath=porcas?id=86529&&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/porcas/1/599/399</link>
+<link>rtmp://$doregex[get-ip]/live playpath=porcas?id=86529&&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/porcas/1/599/399</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
