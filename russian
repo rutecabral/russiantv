@@ -615,7 +615,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>SPORT TV2 opcao 2</title>
-<linkrtmp>://$doregex[get-ip]/live/ playpath=spill?id=26031$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<link>rtmp://$doregex[get-ip]/live/ playpath=spill?id=26031$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -628,9 +628,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <referer>http://www.embedezcast.com</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
 </item>
-
-rtmp://46.28.53.30/live<playpath>spill?id=26031&pk=6a257a54f136272bc9a6f648bb9ff635b96b9b57723e7f35b64242d26927946b <swfUrl>http://www.embedezcast.com/static/scripts/fplayer.swf <pageUrl>http://www.embedezcast.com/embedplayer/spill/1/599/399
-
 
 <item>
 <title>SPORT TV3</title>
