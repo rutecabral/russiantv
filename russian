@@ -799,7 +799,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>MOTORS TV</title>
-<link>rtmp://$doregex[get-ip]/live playpath=motorstvx?id=83213&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=</link>
+<linkrtmp://$doregex[get-ip]/live playpath=motorstvx?id=83213&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
