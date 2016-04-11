@@ -500,9 +500,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 </regex>
 </item>
 
-rtmp://173.192.209.69/live<playpath>portocanalv?id=86583&pk=6a257a54f136272bc9a6f648bb9ff635b96b9b57723e7f35b64242d26927946b <swfUrl>http://www.embeducaster.com/static/scripts/fplayer.swf <pageUrl>http://www.embeducaster.com/embedplayer/portocanalv/1/599/399
-
-
 <item>
 <title>Canal + Toros</title>
 <link></link>
