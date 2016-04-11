@@ -39,7 +39,7 @@
 <item>
 <title>RTP INTERNACIONAL</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15</link>
-<thumbnail>rtp_internacional.png</thumbnail>
+<thumbnail>http://www.tvsa.co.za/blogimages/toptv_rtp_logo_large.jpg</thumbnail>
 </item>
 
 <item>
