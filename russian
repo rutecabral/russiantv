@@ -1035,33 +1035,38 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
-<title>Sky Sports 1</title>
-<link>http://50.97.49.87:1935/apqq22/skysports1lsh/playlist.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/tyqypy1433965234.png</thumbnail>
+<title>SKY SPORTS 1</title>
+<sportsdevil>http://ibrod.tv/skysports1.html</sportsdevil>
+<referer>http://ibrod.tv/skysports1.html</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Sports 2</title>
-<link>http://50.97.49.87:1935/apqq22/skysports2lsh/playlist.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qtwryv1433965251.png</thumbnail>
+<title>SKY SPORTS 2</title>
+<sportsdevil>http://ibrod.tv/skysports2.html</sportsdevil>
+<referer>http://ibrod.tv/skysports2.html</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-2-Logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Sports 3</title>
-<link>http://50.97.49.87:1935/apqq22/skysports3lsh/playlist.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vtusxx1433965268.png</thumbnail>
+<title>SKY SPORTS 3</title>
+<sportsdevil>http://ibrod.tv/skysports3.html</sportsdevil>
+<referer>http://ibrod.tv/skysports3.html</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Sports 4</title>
-<link>http://50.97.49.87:1935/apqq22/skysports4lsh/playlist.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vwqrvq1433965284.png</thumbnail>
+<title>SKY SPORTS 4</title>
+<sportsdevil>http://ibrod.tv/skysports4.html</sportsdevil>
+<referer>http://ibrod.tv/skysports4.html</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Sports 5</title>
-<link>http://50.97.49.87:1935/apqq22/skysports5lsh/playlist.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/ruuwux1433965299.png</thumbnail>
+<title>SKY SPORTS 5</title>
+<sportsdevil>http://ibrod.tv/skysports5.html</sportsdevil>
+<referer>http://ibrod.tv/skysports5.html</referer>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
 </item>
 
 <item>
@@ -1071,21 +1076,17 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
-<title>BT Sport 1</title>
-<link>http://50.97.49.87:1935/apqq22/btsports1lsh58/playlist.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png</thumbnail>
+<title>BT SPORT 1</title>
+<sportsdevil>http://ibrod.tv/btsports1.html</sportsdevil>
+<referer>http://ibrod.tv/btsports1.html</referer>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png</thumbnail>
 </item>
 
 <item>
-<title>BT Sport 1</title>
-<linkrtmp://185.63.255.18:80/live playpath=wodhs1j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=wodhs1j&vw=736&vh=438 token=%Zrey(nKa@#Z</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 2</title>
-<link>http://50.97.49.87:1935/apqq22/btsports2lsh/playlist.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vwxvty1433360911.png</thumbnail>
+<title>BT SPORT 2</title>
+<sportsdevil>http://ibrod.tv/btsports2.html</sportsdevil>
+<referer>http://ibrod.tv/btsports2.html</referer>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
 </item>
 
 <item>
