@@ -699,9 +699,20 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail></thumbnail>
 </item>
 
+<item> 
+<title>SPORT TV 1</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<sportsdevil>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
+<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</item>
+
 <item>
 <title>SPORTV 1</title>
-<sportsdevilhttp://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
+<sportsdevil>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
 </item>
@@ -731,7 +742,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>SPORT TV 1 opcao 2</title>
-<link>rtmp://$doregex[get-ip]/live playpath=bronx?id=86557&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/bronx/1/599/399</link>
+<linkrtmp://$doregex[get-ip]/live playpath=bronx?id=86557&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/bronx/1/599/399</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
