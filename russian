@@ -1737,6 +1737,167 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
+<title>Bein</title>
+<link>$doregex[getVipRacing]</link>
+            <regex>
+            <name>getVipRacing</name>
+            <expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/bein-es/frame')</expres>
+            <page></page>
+            </regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yyvqrw1437963549.png/medium</thumbnail>
+<fanart>http://www.thelogodb.com/images/media/logo/yyvqrw1437963549.png/medium</fanart>
+</item>
+
+
+ <item>
+<title>+ Liga/Partidazo</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
+<fanart>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</fanart>
+</item>
+
+<tem>
+<title>+ Liga/Partidazos</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+
+<regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls-code]')</expres>
+    <page></page>
+</regex>
+
+<regex>
+<name>get-hls-code</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests
+ import re
+ import base64
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
+
+ embed2 = 'http://verdirectotv.com/tv/deportes2/plusliga.html'
+ source2 = requests.get(embed2, headers=headers)
+ embed3 = re.findall('script type="text\/javascript" src="(.*?)"', source2.text)[0]
+ headers2 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'http://verdirectotv.com/'}
+ source3= requests.get(embed3, headers = headers2)
+ embed4 = re.findall('iframe src="(.*?)"', source3.text)[0]
+ source4= requests.get(embed4, headers = headers2)
+ m3u8_encoded = re.findall('input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"', source4.text)[0]
+ m3u8= base64.b64decode(m3u8_encoded)
+
+
+ return m3u8 + '|Referer=http://www.playerhd2.pw/jwplayer6/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
+<fanart>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</fanart>
+</item>
+
+<tem>
+<title>+ Liga 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
+
+<regex>
+    <name>encodedurl</name>
+    <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls-code]')</expres>
+    <page></page>
+</regex>
+
+
+<regex>
+<name>get-hls-code</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests
+ import re
+ import base64
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
+ page ='http://www.foot-live.info/stream/ch119.php'
+ source = requests.get(page, headers=headers)
+ embed1 = re.findall('src="(.*?)"', source.text)[0]
+ source1 = requests.get(embed1, headers=headers)
+ embed2 = re.findall('src="(.*?)"', source1.text)[0]
+ source2 = requests.get(embed2, headers=headers)
+ embed3 = re.findall('script type="text\/javascript" src="(.*?)"', source2.text)[0]
+ headers2 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'http://www.hdmyt.info/'}
+ source3= requests.post(embed3, headers = headers2)
+ embed4 = re.findall('iframe src="(.*?)"', source3.text)[0]
+ source4= requests.post(embed4, headers = headers2)
+ m3u8_encoded = re.findall('input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"', source4.text)[0]
+ m3u8= base64.b64decode(m3u8_encoded)
+
+
+ return m3u8 + '|Referer=http://www.playerhd2.pw/jwplayer6/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://www.iptvlinksss.com/wp-content/uploads/2015/11/8b8ca1d66bf686faa9cb7aa859cfaff5.jpeg</thumbnail>
+<fanart>http://www.iptvlinksss.com/wp-content/uploads/2015/11/8b8ca1d66bf686faa9cb7aa859cfaff5.jpeg</fanart>
+</item>
+ 
+ 
+<item>
+<title>Canal+ Deportes</title>
+<link>rtmp://nl.iguide.to/iguide playpath=wr8owvmlrah0aga swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=600&height=450&channel=33157&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
+<thumbnail>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</thumbnail>
+<fanart>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</fanart>
+</item>
+ 
+<item>
+<title>Canal+ Deportes 2</title>
+<sportsdevil>http://www.lacasadeltikitaka.futbol/elitegol/canal1.php</sportsdevil>
+<referer>http://www.lacasadeltikitaka.futbol</referer>
+<thumbnail>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</thumbnail>
+<fanart>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</fanart>
+</item>
+ 
+<item>
+<title>Canal+ Futbol</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png</fanart>
+</item>
+
+<item>
 <title>BEIN SPORTS Ñ</title>
 <link>http://ak-cred-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8?hdnts=$doregex[tok]</link>
 <regex>
