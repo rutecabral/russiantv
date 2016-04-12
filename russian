@@ -1021,49 +1021,61 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>Sky Sports 1</title>
-<link>rtmp://185.63.255.60:80/live playpath=swqhs1a swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=swqhs1a&vw=736&vh=438 token=%Zrey(nKa@#Z</link>
+<linkrtmp://185.63.255.60:80/live playpath=swqhs1a swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=swqhs1a&vw=736&vh=438 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/tyqypy1433965234.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 1</title>
+<link>http://50.97.49.87:1935/apqq22/skysports1lsh/playlist.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/tyqypy1433965234.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 2</title>
-<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted</link>
+<link>http://50.97.49.87:1935/apqq22/skysports2lsh/playlist.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qtwryv1433965251.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 3</title>
-<link>http://144.76.3.83/sky_sports5gb.m3u8</link>
+<link>http://50.97.49.87:1935/apqq22/skysports3lsh/playlist.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vtusxx1433965268.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 4</title>
-<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv24_f84rdmkk</link>
+<link>http://50.97.49.87:1935/apqq22/skysports4lsh/playlist.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwqrvq1433965284.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 5</title>
-<link>rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv25_wt250ssk</link>
+<link>http://50.97.49.87:1935/apqq22/skysports5lsh/playlist.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ruuwux1433965299.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports f1</title>
-<link></link>
+<link>http://50.97.49.87:1935/apqq22/vskysf1lsh/playlist.m3u8</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>BT Sport 1</title>
+<link>http://50.97.49.87:1935/apqq22/btsports1lsh58/playlist.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png</thumbnail>
+</item>
+
+<item>
+<titleBT Sport 1</title>
 <link>rtmp://185.63.255.18:80/live playpath=wodhs1j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=wodhs1j&vw=736&vh=438 token=%Zrey(nKa@#Z</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ruprqp1433360902.png</thumbnail>
 </item>
 
 <item>
 <title>BT Sport 2</title>
-<link>rtmp://185.63.255.60:80/live playpath=dodhs2j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=dodhs2j&vw=736&vh=438 token=%Zrey(nKa@#Z</link>
+<link>http://50.97.49.87:1935/apqq22/btsports2lsh/playlist.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vwxvty1433360911.png</thumbnail>
 </item>
 
