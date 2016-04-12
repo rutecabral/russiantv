@@ -797,17 +797,18 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
 </item>
 
+<item>
+<title>SPORT TV2 HD</title>
+<link>http://www.sporttvsonline.com/index.php?canal=sporttv2-2</link>
+<referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>              
+</item>
+
 <item> 
 <title>SPORT TV 2</title>
 <sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv2</sportsdevil>
 <referer>http://www.sporttvsonline.com</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
-</item>
-
-<item>
-<title>SPORT TV2 HD</title>
-<link></link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>              
 </item>
 
 <item>
@@ -829,7 +830,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>SPORT TV2 opcao 2</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=spill?id=26031$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<linkrtmp://$doregex[get-ip]/live/ playpath=spill?id=26031$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
