@@ -720,6 +720,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>SPORTV 1</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+</item>
+
 <item> 
 <title>SPORT TV 1</title>
 <sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
@@ -735,6 +742,8 @@ title: 'http://futebolpthd.blogspot.pt/',
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
 </item>
+
+
 
 <item> 
 <title>SPORT TV1</title>
