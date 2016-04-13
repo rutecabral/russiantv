@@ -155,41 +155,31 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
-<title>TVIREALITY</title>
-<linkhttp://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.mipsplayer.com/embedplayer/loveontopsas/1/545/380</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent>
-<referer>http://www.mips.tv</referer>
-<thumbnail>http://dioguinho.pt/wp-content/uploads/2015/09/23n452345345.jpg</thumbnail>
-</item>
-
-<item>
 <title>TVI REALITY</title>
-<sportsdevil>http://antena.mytvfree2.me/rurality2.php</sportsdevil>
+<sportsdevilhttp://antena.mytvfree2.me/rurality2.php</sportsdevil>
 <referer>http://ucaster.eu/</referer>
-<thumbnail>http://dioguinho.pt/wp-content/uploads/2015/09/23n452345345.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvir.png</thumbnail>
 </item>
 
 <item>
 <title>TVI REALITY</title>
-<sportsdevilhttp://tvalgas.com/index.php/tv-portuguesa/canais-tvi/tvi-reality/tvi-reality-1</sportsdevil>
+<sportsdevilhttp://tvalgas.com/index.php/component/content/article/2-uncategorised/143-a-quinta-live</sportsdevil>
 <referer>http://mips.tv/</referer>
-<thumbnail>http://dioguinho.pt/wp-content/uploads/2015/09/23n452345345.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvir.png</thumbnail>
+</item>
+
+<item>
+<title>TVI REALITY</title>
+<sportsdevil>http://tvalgas.com/index.php/component/content/article/2-uncategorised/152-tvi-reality-live</sportsdevil>
+<referer>http://mips.tv/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvir.png</thumbnail>
 </item>
 
 <item>
 <title>TVI REALITY</title>
 <sportsdevilhttp://www.tv-motards.com/quinta-das-celebridades-tvi-24-h</sportsdevil>
 <referer>http://www.tv-motards.com/</referer>
-<thumbnail>http://dioguinho.pt/wp-content/uploads/2015/09/23n452345345.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvir.png</thumbnail>
 </item>
 
 <item>
