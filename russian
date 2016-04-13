@@ -158,33 +158,33 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>TVI REALITY</title>
 <sportsdevilhttp://antena.mytvfree2.me/rurality2.php</sportsdevil>
 <referer>http://ucaster.eu/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvir.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png</thumbnail>
 </item>
 
 <item>
 <title>TVI REALITY</title>
 <sportsdevilhttp://tvalgas.com/index.php/component/content/article/2-uncategorised/143-a-quinta-live</sportsdevil>
 <referer>http://mips.tv/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvir.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png</thumbnail>
 </item>
 
 <item>
 <title>TVI REALITY</title>
 <sportsdevil>http://tvalgas.com/index.php/component/content/article/2-uncategorised/152-tvi-reality-live</sportsdevil>
 <referer>http://mips.tv/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvir.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png</thumbnail>
 </item>
 
 <item>
 <title>TVI REALITY</title>
-<sportsdevilhttp://www.tv-motards.com/quinta-das-celebridades-tvi-24-h</sportsdevil>
+<sportsdevil>http://www.tv-motards.com/quinta-das-celebridades-tvi-24-h</sportsdevil>
 <referer>http://www.tv-motards.com/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvir.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png</thumbnail>
 </item>
 
 <item>
 <title>TVI FICCAO</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=tvificcaob?id=26061$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<linkrtmp://$doregex[get-ip]/live/ playpath=tvificcaob?id=26061$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
