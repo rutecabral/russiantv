@@ -156,7 +156,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>TVIREALITY</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
+<linkhttp://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
 <expres>redirect=(.*)</expres>
@@ -173,7 +173,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>TVI REALITY</title>
-<sportsdevilhttp://antena.mytvfree2.me/rurality2.php</sportsdevil>
+<sportsdevil>http://antena.mytvfree2.me/rurality2.php</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://dioguinho.pt/wp-content/uploads/2015/09/23n452345345.jpg</thumbnail>
 </item>
