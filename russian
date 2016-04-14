@@ -2923,15 +2923,81 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>RTS 2 MOTO GP AQUI</title>
-<link>http://live-1192.gv2.edge.filmon.com/live/3914.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeadc04c8a2465d85dc49a7934d27c391fa01dd564b7710f1ed09b4a9415ac625beb96edf6edede615e835118175147bba55be9d800649dc5f6e0f85ed4dc6c513fed6ba7108122a211aa3a7e8795f636fcccd254a3c4a5c83b69f68e7a5f52d76691817a442cd450a50fb905ebb19e50522fad384b21c46c7d71482cb122ba8281c98fdcf1a0b222bef18766a90f9c5f2</link>
+<title>FRANCE 0</title>
+<sportsdevil>http://www.filmon.com/channel/france-0</sportsdevil>
+<referer>http://www.filmon.com/channel/france-0</referer>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Tv 5 Monde</title>
-<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8</link>
-<thumbnail>http://image1.tvdigital.de/files/station_logos/260.png</thumbnail>
+<title>FRANCE 2</title>
+<sportsdevil>http://www.filmon.com/channel/france-2</sportsdevil>
+<referer>http://www.filmon.com/channel/france-2</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FRANCE 3</title>
+<sportsdevil>http://www.filmon.com/channel/france-3-alpes</sportsdevil>
+<referer>http://www.filmon.com/channel/france-3-alpes</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FRANCE 5</title>
+<sportsdevil>http://www.filmon.com/channel/france-5</sportsdevil>
+<referer>http://www.filmon.com/channel/france-5</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TF1 HD</title>
+<link>http://wownet.ro/str/0202.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0</link>
+<thumbnail>http://img.clubic.com/04780052-photo-logo-mytf1-sans-reflet.jpg</thumbnail>
+</item>
+
+<item>
+<title>RTS UN</title>
+<sportsdevil>http://www.filmon.com/channel/rts-un</sportsdevil>
+<referer>http://www.filmon.com/channel/rts-un</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>RTS DEUX</title>
+<sportsdevil>http://www.filmon.com/channel/rts-deux</sportsdevil>
+<referer>http://www.filmon.com/channel/rts-deux</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>M6</title>
+<link>http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8</link>
+<thumbnail>https://www.cantemo.com/images/case-studies/m6/m6_logo_small.jpg</thumbnail>
+</item>
+
+<item>
+<title>W9</title>
+<link>https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_1256.m3u8</link>
+<thumbnail>http://www.jeremstar.fr/wp-content/uploads/news/2014-07/1733_-130243_0_0.jpg</thumbnail>
+</item>
+
+<item>
+<title>6Ter HD</title>
+<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8</link>
+<thumbnail>http://img.groupem6.fr/05062760-photo-6ter.jpg</thumbnail>
+</item>
+
+<item>
+<title>Weo HD</title>
+<link>http://str81.creacast.com:80/weo/high/playlist.m3u8</link>
+<thumbnail>http://img.over-blog-kiwi.com/0/66/76/15/20160229/ob_f755ac_640px-logoweorvb-4e79c29.jpg</thumbnail>
+</item>
+
+<item>  
+<title>ARTE</title>
+<link>http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -2947,9 +3013,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>Tv 5 Monde</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8</link>
+<thumbnail>http://image1.tvdigital.de/files/station_logos/260.png</thumbnail>
+</item>
+
+<item>
 <title>France 24</title>
 <link>http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr</link>
 <thumbnail>http://img.20mn.fr/iOt_OX_LRniOQOd2dQmQVw/2048x1536-fit_logo-france-24.jpg</thumbnail>
+</item>
+
+<item>
+<title>EuroNews</title>
+<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png</thumbnail>
 </item>
 
 <item>
@@ -2965,33 +3043,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>EuroNews</title>
-<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png</thumbnail>
-</item>
-
-<item>
 <title>RMC Découverte</title>
 <link>http://streaming-hub.com/stream/rmc.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png</thumbnail>
 </item>
 
 <item>
-<title>6Ter HD</title>
-<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8</link>
-<thumbnail>http://img.groupem6.fr/05062760-photo-6ter.jpg</thumbnail>
-</item>
-
-<item>
 <title>i-Télé</title>
 <link>http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8</link>
 <thumbnail>http://www.geoffroydidier.net/wp-content/uploads/2013/03/Untitled-1.jpg</thumbnail>
-</item>
-
-<item>
-<title>M6</title>
-<link>http://phls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls/m6_hls_1256.m3u8</link>
-<thumbnail>https://www.cantemo.com/images/case-studies/m6/m6_logo_small.jpg</thumbnail>
 </item>
 
 <item>
@@ -3007,21 +3067,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>W9</title>
-<link>https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_1256.m3u8</link>
-<thumbnail>http://www.jeremstar.fr/wp-content/uploads/news/2014-07/1733_-130243_0_0.jpg</thumbnail>
-</item>
-
-<item>
 <title>Gong</title>
 <link>http://ec.playmedia.fr:1935/gong-base/live/playlist.m3u8</link>
 <thumbnail>http://idata.over-blog.com/3/94/96/52/GONG.jpg</thumbnail>
-</item>
-
-<item>
-<title>TF1 HD</title>
-<link>http://wownet.ro/str/0202.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0</link>
-<thumbnail>http://img.clubic.com/04780052-photo-logo-mytf1-sans-reflet.jpg</thumbnail>
 </item>
 
 <item>
@@ -3040,12 +3088,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>OM5 TV</title>
 <link>http://ec.playmedia.fr/om5-tv/live/playlist.m3u8</link>
 <thumbnail>http://www.mondialtv.fr/wp-content/uploads/logo-om5tv.png</thumbnail>
-</item>
-
-<item>
-<title>Weo HD</title>
-<link>http://str81.creacast.com:80/weo/high/playlist.m3u8</link>
-<thumbnail>http://img.over-blog-kiwi.com/0/66/76/15/20160229/ob_f755ac_640px-logoweorvb-4e79c29.jpg</thumbnail>
 </item>
 
 <item>
