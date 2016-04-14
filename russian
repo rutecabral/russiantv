@@ -1153,19 +1153,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
-<title>BEIN SPORTS Ñ (ESP)</title>
-<link>http://ak-cred-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8?hdnts=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>"token":"(.*?)"</expres>
-<page>https://api.fubo.tv/public/edgeauth/token</page>
-<referer>https://www.fubo.tv</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yyvqrw1437963549.png/medium</thumbnail> 
-</regex>
-</item>
-<item>
-
-<item>
 <title>SPORTS USA</title>
 <link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
 <thumbnail>http://www1.pictures.zimbio.com/gi/USA+Sports+Pictures+Week+October+26+2009+8KkVJq3frinl.jpg</thumbnail>
@@ -1187,12 +1174,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>POKER CENTRAL</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8</link>
 <thumbnail>http://pnimg.net/w/articles/0/552/e23afbabd3.png</thumbnail>
-</item>
-
-<item>
-<title>DXTV SPORTS</title>
-<link>http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8</link>
-<thumbnail>http://www.iptvlinksss.com/wp-content/uploads/2015/09/DXTV.jpg</thumbnail>
 </item>
 
 <item>
@@ -1308,6 +1289,25 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</thumbnail>
 <fanart>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</fanart>
 </item>
+
+<item>
+<title>DXTV SPORTS (ESP)</title>
+<link>http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8</link>
+<thumbnail>http://www.iptvlinksss.com/wp-content/uploads/2015/09/DXTV.jpg</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS Ñ (ESP)</title>
+<link>http://ak-cred-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8?hdnts=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>"token":"(.*?)"</expres>
+<page>https://api.fubo.tv/public/edgeauth/token</page>
+<referer>https://www.fubo.tv</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yyvqrw1437963549.png/medium</thumbnail> 
+</regex>
+</item>
+<item>
 
 <item>
  <title>BEIN SPORT 1</title>
