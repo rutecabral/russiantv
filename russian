@@ -1872,6 +1872,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
+<title>Filmes 24 Horas Online</title>
+<link>rtmp://206.190.132.244/tvamigos playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?texto  pageUrl=http://carolineoliveira.com.br</link>
+ <thumbnail>http://www.cineset.com.br/wp-content/uploads/2015/06/Jack-Bauer-750x350-100x70.jpg</thumbnail>
+</regex>
+<item>
+
+<item>
 <title>TELECINE PIPOCA</title>
 <link>rtmp://208.53.164.194/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/1e/TC_Pipoca.png</thumbnail>
@@ -2041,7 +2048,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>Telecinco</title> 
-<link></link>
+<link>http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-p.m3u8</link>
 <thumbnail>http://www.que.es/archivos/201010/3436376w-640x640x80.jpg</thumbnail>
 </item>
 
@@ -2199,6 +2206,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>FDF</title>
 <link></link>
 <thumbnail>http://static.blogs.sudinfo.be/media/45/fdf_vct_cmyk_presse_350.jpg</thumbnail> 
+</item>
+
+<item>
+ <title>CANAL+ #0</title>
+<link>rtmp://nl.iguide.to/iguide playpath=6ztb3u18p5s68ll  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/0_M%2B.svg/120px-0_M%2B.svg.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-WI0xmTCAYXo/Vmq981HwcyI/AAAAAAAA54w/gia5EQ54HaY/s1600/1.jpg</fanart>
 </item>
 
 <item>
