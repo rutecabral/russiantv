@@ -989,11 +989,17 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
-<title>[COLOR red] [COLOR red]DESPORTO EM DIRECTO COM GUIA DE JOGOS CLICA AQUI PINCHA PLEXUS[/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://s4.postimg.org/wuksubsq5/images.jpg</thumbnail>
-<fanart>http://s17.postimg.org/52675g9xr/CANAIS_DESPORTO_EUROPEU.jpg</fanart>
-<externallink>http://pastebin.com/raw/C38YCKi1</externallink>
+<title>[COLOR red][B][I]CLICA AQUI PARA VER DESPORTO EM DIRECTO HD[/I][/B][/COLOR] [COLOR yellow] ( PLEXUS)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
+<thumbnail>http://www.rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B][I]CLICA AQUI PARA VER DESPORTO EM DIRECTO HD[/I][/B][/COLOR] [COLOR yellow] (P2P PLEXUS)[/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.p2p-streams/?mode=401&amp;name=[B][COLOR red]Agenda/Schedule[/COLOR]&amp;parser=arenavision&amp;parserfunction=arenavision_schedule&amp;url=http://www.arenavision.in/agenda</jsonrpc>
+<thumbnail>http://www.rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg</thumbnail>
 </item>
 
 <item>
