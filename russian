@@ -727,25 +727,23 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>SPORT TV 1</title>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
-</item>
-
 <item> 
 <title>SPORT TV 1</title>
 <sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
-<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
 <item>
-<title>SPORTV 1</title>
-<sportsdevilhttp://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
+<title>SPORT TV 1</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV 1</title>
+<sportsdevil>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
 </item>
@@ -754,7 +752,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item> 
 <title>SPORT TV1</title>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
+<sportsdevilhttp://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
 <referer>http://www.sporttvsonline.com</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxmovies.pnghttps://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv1.png</thumbnail>
 </item>
@@ -802,13 +800,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>SPORT TV1 HD on jogo benfica e do sporting plexus arenavision10</title>
 <linkplugin://program.plexus/?url=c2d07af0ac5b2ec1f600e03cc6c4e834d64095cf&amp;mode=1&amp;name=sporttv1</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
-</item>
-
-<item>
-<title>SPORT TV2 HD</title>
-<link>http://www.sporttvsonline.com/index.php?canal=sporttv2-2</link>
-<referer>http://www.sporttvsonline.com</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>              
 </item>
 
 <item> 
