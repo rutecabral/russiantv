@@ -2595,6 +2595,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title> Almavision</title>
 <thumbnail>http://puu.sh/mKFxp/8639394676.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src3/1fyrj.m3u8</link>
+</item>
 <item>
 <title> Amazing Music</title>
 <thumbnail>http://puu.sh/nsWca/48c59ef1e1.png</thumbnail>
@@ -2616,11 +2617,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://live.tvplayerlatino.com/lista_remota/src1/bEKOK.m3u8</link>
 </item>
 <item>
-<title> Anime 24H</title>
-<thumbnail>http://puu.sh/nB4zt/5473696c1c.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/jne6K.m3u8</link>
-</item>
-<item>
 <title> Antena Latina</title>
 <thumbnail>http://puu.sh/nvqJO/067511efb9.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src3/78ZGA.m3u8</link>
@@ -2629,11 +2625,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title> Aparecida Brasil</title>
 <thumbnail>http://puu.sh/o8Yna/45ca11a996.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src3/apabr.m3u8</link>
-</item>
-<item>
-<title> Arica TV</title>
-<thumbnail>http://puu.sh/nvrN5/1fb2b222d3.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/j0puq.m3u8</link>
 </item>
 <item>
 <title> AXN HD</title>
@@ -2713,11 +2704,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://live.tvplayerlatino.com/lista_remota/src1/u3H8s.m3u8</link>
 </item>
 <item>
-<title> C5N</title>
-<thumbnail>http://puu.sh/nC0Dx/8e54908299.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src4/DVrO9.m3u8</link>
-</item>
-<item>
 <title> CableOndaSports</title>
 <thumbnail>http://puu.sh/nB5kG/8a14e41f5a.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src3/btw6a.m3u8</link>
@@ -2758,21 +2744,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://live.tvplayerlatino.com/lista_remota/src4/5ojYq.m3u8</link>
 </item>
 <item>
-<title> Canal de las Estrellas</title>
-<thumbnail>http://puu.sh/mwdZH/663a3e814f.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/ver/jWWnC.m3u8</link>
-</item>
-<item>
-<title> Canal i</title>
-<thumbnail>http://puu.sh/nvrrV/7792a6c55e.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src4/BT7xV.m3u8</link>
-</item>
-<item>
-<title> Canal Liga+</title>
-<thumbnail>http://puu.sh/obmth/d17aba2c00.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src4/cliga.m3u8</link>
-</item>
-<item>
 <title> Canal Once</title>
 <thumbnail>http://puu.sh/mb2AM/887927ece3.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src3/mnAwE.m3u8</link>
@@ -2786,11 +2757,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title> Capital 21 CDMX</title>
 <thumbnail>http://puu.sh/nB47o/1193f4ab34.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src3/OQy7P.m3u8</link>
-</item>
-<item>
-<title> Capital TV</title>
-<thumbnail>http://puu.sh/nu14h/bc7f29dd9b.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/YrMVO.m3u8</link>
 </item>
 <item>
 <title> Cartoon Network</title>
@@ -2808,11 +2774,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://live.tvplayerlatino.com/lista_remota/src3/5hgci.m3u8</link>
 </item>
 <item>
-<title> CDN Sportmax</title>
-<thumbnail>http://puu.sh/nu1Z9/cfd308d7b6.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/ZTqLE.m3u8</link>
-</item>
-<item>
 <title> Cinecanal</title>
 <thumbnail>http://puu.sh/mb54r/7d55ba9b4b.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src1/l7882.m3u8</link>
@@ -2821,16 +2782,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title> Cinecanal+</title>
 <thumbnail>http://puu.sh/mb4Xh/5cddb7e24a.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src1/XwyF3.m3u8</link>
-</item>
-<item>
-<title> Cinema Dinamita</title>
-<thumbnail>http://puu.sh/mLXzQ/b10e01f157.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/CiV3v.m3u8</link>
-</item>
-<item>
-<title> Cinemax</title>
-<thumbnail>http://puu.sh/msHUH/ff7610e985.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src1/k8MBl.m3u8</link>
 </item>
 <item>
 <title> Colosal TV</title>
@@ -2857,11 +2808,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>http://puu.sh/morLg/12c13c5e1c.png</thumbnail>
 </item>
 <link>http://live.tvplayerlatino.com/lista_remota/src3/dJL0k.m3u8</link>
-<item>
-<title> DirectTV Sports</title>
-<thumbnail>http://puu.sh/nvXth/4031f19cf5.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/65UkB.m3u8</link>
-</item>
 <item>
 <title> Discovery Channel</title>
 <thumbnail>http://puu.sh/mwdJK/56778a2cd7.png</thumbnail>
@@ -2937,11 +2883,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://live.tvplayerlatino.com/lista_remota/src3/efktv.m3u8</link>
 </item>
 <item>
-<title> El 13 Argentina</title>
-<thumbnail>http://puu.sh/nvrsi/e45af55c18.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src4/0BzSM.m3u8</link>
-</item>
-<item>
 <title> El Gourmet</title>
 <thumbnail>http://puu.sh/mB9sC/7f84152b4b.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src1/WrdYp.m3u8</link>
@@ -2955,11 +2896,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title> Enlace TV</title>
 <thumbnail>http://puu.sh/mKFtG/9926077bd4.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src3/ApQIv.m3u8</link>
-</item>
-<item>
-<title> ESNE</title>
-<thumbnail>http://puu.sh/mKFj0/7ea13279b8.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/UDbAr.m3u8</link>
 </item>
 <item>
 <title> Esperanza TV</title>
@@ -2997,16 +2933,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://live.tvplayerlatino.com/lista_remota/src3/eurnw.m3u8</link>
 </item>
 <item>
-<title> Eurosport</title>
-<thumbnail>http://puu.sh/mbHgb/7d8bedf60f.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src4/H3aqq.m3u8</link>
-</item>
-<item>
-<title> Eurosport 2</title>
-<thumbnail>http://puu.sh/mbHiL/103f904674.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src4/cCOQo.m3u8</link>
-</item>
-<item>
 <title> EWTN</title>
 <thumbnail>http://puu.sh/mwe48/0f14e712dd.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src3/MSQ3c.m3u8</link>
@@ -3020,11 +2946,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title> Fashion TV</title>
 <thumbnail>http://puu.sh/mVSLS/97643a87ce.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src1/nHCx8.m3u8</link>
-</item>
-<item>
-<title> Film Zone HD</title>
-<thumbnail>http://puu.sh/mbG2w/8a16d4b59b.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/8VRfG.m3u8</link>
 </item>
 <item>
 <title> Foro TV HD</title>
@@ -3087,11 +3008,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://live.tvplayerlatino.com/lista_remota/src1/PEhC4.m3u8</link>
 </item>
 <item>
-<title> Gala TV</title>
-<thumbnail>http://puu.sh/mw4Uk/65b3f604c7.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src1/K1kPK.m3u8</link>
-</item>
-<item>
 <title> Garage TV</title>
 <thumbnail>http://puu.sh/mB9id/079a770640.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src1/24Ufd.m3u8</link>
@@ -3115,16 +3031,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title> Golden HD</title>
 <thumbnail>http://puu.sh/mw4XE/6a57b1ac9a.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src1/PLMti.m3u8</link>
-</item>
-<item>
-<title> HBO</title>
-<thumbnail>http://puu.sh/mbLOY/25fd3c0724.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/YStPQ.m3u8</link>
-</item>
-<item>
-<title> Heart TV</title>
-<thumbnail>http://puu.sh/nB5xX/247b3cc965.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/bFP81.m3u8</link>
 </item>
 <item>
 <title> History Channel</title>
@@ -3172,16 +3078,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://live.tvplayerlatino.com/lista_remota/src3/QIVBw.m3u8</link>
 </item>
 <item>
-<title> Maria Vision</title>
-<thumbnail>http://puu.sh/mwdVY/fdb8373747.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/aslZK.m3u8</link>
-</item>
-<item>
-<title> Max Prime</title>
-<thumbnail>http://puu.sh/mbMc2/7317d4746c.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/iBdQU.m3u8</link>
-</item>
-<item>
 <title> Más chic</title>
 <thumbnail>http://puu.sh/mP20o/154ed6c1a3.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src1/BPzH6.m3u8</link>
@@ -3195,11 +3091,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title> Miami TV</title>
 <thumbnail>http://puu.sh/nvrR5/1bb233b647.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src3/Omy9l.m3u8</link>
-</item>
-<item>
-<title> Milenio</title>
-<thumbnail>http://puu.sh/mwdSw/26eea6807c.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/iKaSr.m3u8</link>
 </item>
 <item>
 <title> MTV</title>
@@ -3217,11 +3108,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://live.tvplayerlatino.com/lista_remota/src1/aEyNb.m3u8</link>
 </item>
 <item>
-<title> Multimedios</title>
-<thumbnail>http://puu.sh/mB993/e7befece5a.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/QXgr8.m3u8</link>
-</item>
-<item>
 <title> Nat Geo</title>
 <thumbnail>http://puu.sh/msJjE/f96602e474.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src1/BiEi0.m3u8</link>
@@ -3230,11 +3116,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title> Nat Geo Wild</title>
 <thumbnail>http://puu.sh/mb2Rd/9c56f73248.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src1/i80zc.m3u8</link>
-</item>
-<item>
-<title> NFL</title>
-<thumbnail>http://puu.sh/nsXRU/67cee608f8.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/RJRqx.m3u8</link>
 </item>
 <item>
 <title> Nick HD</title>
@@ -3262,11 +3143,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://live.tvplayerlatino.com/lista_remota/src3/iNyim.m3u8</link>
 </item>
 <item>
-<title> Partidazo</title>
-<thumbnail>http://puu.sh/nxkIJ/22337cbf58.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/DHS80.m3u8</link>
-</item>
-<item>
 <title> Proyecto 40</title>
 <thumbnail>http://puu.sh/nB4iL/8d8077e258.PNG</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src3/eUS0q.m3u8</link>
@@ -3275,11 +3151,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title> PX TV</title>
 <thumbnail>http://puu.sh/mVT4M/a54f2b8fcb.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src1/SQxal.m3u8</link>
-</item>
-<item>
-<title> RBC</title>
-<thumbnail>http://puu.sh/nvqIW/f126e1767d.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/Xs8vK.m3u8</link>
 </item>
 <item>
 <title> RCN</title>
@@ -3362,11 +3233,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://live.tvplayerlatino.com/lista_remota/src1/7x3AE.m3u8</link>
 </item>
 <item>
-<title> TDN</title>
-<thumbnail>http://puu.sh/mbLur/cf2e6a6f87.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src2/m1u4Q.m3u8</link>
-</item>
-<item>
 <title> Tele Antillas</title>
 <thumbnail>http://puu.sh/nvqJt/2bbddcfe2d.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src3/cHQiw.m3u8</link>
@@ -3422,11 +3288,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://live.tvplayerlatino.com/lista_remota/src3/1ph8N.m3u8</link>
 </item>
 <item>
-<title> Telexitos</title>
-<thumbnail>http://puu.sh/moPOa/e6dc87182f.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/GTy79.m3u8</link>
-</item>
-<item>
 <title> Telpin Tv</title>
 <thumbnail>http://puu.sh/nC0Re/ee57b9e394.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src3/opBVx.m3u8</link>
@@ -3450,11 +3311,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title> Tlnovelas</title>
 <thumbnail>http://puu.sh/mbLfh/5d97ba6f89.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src1/3iDkr.m3u8</link>
-</item>
-<item>
-<title> TN Canal</title>
-<thumbnail>http://puu.sh/nvrtc/1387c3c004.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src4/r1lZ8.m3u8</link>
 </item>
 <item>
 <title> TNT</title>
@@ -3487,11 +3343,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://live.tvplayerlatino.com/lista_remota/src1/hz2QF.m3u8</link>
 </item>
 <item>
-<title> TRT</title>
-<thumbnail>http://puu.sh/nvrtY/d94dbb6ccd.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src4/lW8DD.m3u8</link>
-</item>
-<item>
 <title> TruTV</title>
 <thumbnail>http://puu.sh/mw5r2/486241bb2e.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src1/5pBpi.m3u8</link>
@@ -3505,11 +3356,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title> TVE</title>
 <thumbnail>http://puu.sh/mVTf6/f3116d0280.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src1/nGBpw.m3u8</link>
-</item>
-<item>
-<title> TVN</title>
-<thumbnail>http://puu.sh/nvrur/ef232e1ab5.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/gLtpo.m3u8</link>
 </item>
 <item>
 <title> TVO Canal 23</title>
@@ -3552,21 +3398,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://live.tvplayerlatino.com/lista_remota/src3/tsoHI.m3u8</link>
 </item>
 <item>
-<title> Univision</title>
-<thumbnail>http://puu.sh/mbLcu/7ea24f7b73.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/ZWmhM.m3u8</link>
-</item>
-<item>
-<title> Univision TDN</title>
-<thumbnail>http://puu.sh/mbLw0/cf67511fa3.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/q6Tfo.m3u8</link>
-</item>
-<item>
-<title> Vale TV</title>
-<thumbnail>http://puu.sh/nvrwb/338b2694eb.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src4/qsMrs.m3u8</link>
-</item>
-<item>
 <title> Vevo TV</title>
 <thumbnail>http://puu.sh/mNQYY/e69eff5a99.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src3/TnzyN.m3u8</link>
@@ -3590,11 +3421,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title> WOBI</title>
 <thumbnail>http://puu.sh/mVSP4/eb8b0a0e90.png</thumbnail>
 <link>http://live.tvplayerlatino.com/lista_remota/src1/pcvbD.m3u8</link>
-</item>
-<item>
-<title> WWE Network</title>
-<thumbnail>http://puu.sh/o7JP7/12f96e58c8.png</thumbnail>
-<link>http://live.tvplayerlatino.com/lista_remota/src3/wwetv.m3u8</link>
 </item>
 
 <item>
