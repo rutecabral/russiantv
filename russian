@@ -133,7 +133,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>SIC MULHER</title>
 <sportsdevil>http://www.estadiofutebol.com/embed.php?c=sicmulher</sportsdevil>
-<referer>http://ucaster.eu/</referer>
+<referer>http://www.estadiofutebol.com</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
 </item>
 
@@ -156,7 +156,23 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>TVI REALITY</title>
-<sportsdevilhttp://antena.mytvfree2.me/rurality2.php</sportsdevil>
+<link>rtmp://$doregex[get-ip]/live/ playpath=TviReality2?id=22428$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/TviReality2/1/545/440 live=true</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.streamifypublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.streamifyplayer.com/embedplayer/TviReality2/1/545/440</page>
+<referer>http://www.streamifyplayer.com</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png</thumbnail>
+</item>
+
+<item>
+<title>TVI REALITY</title>
+<sportsdevil>http://antena.mytvfree2.me/rurality2.php</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png</thumbnail>
 </item>
@@ -171,7 +187,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>TVI REALITY</title>
 <sportsdevil>http://tvalgas.com/index.php/component/content/article/2-uncategorised/152-tvi-reality-live</sportsdevil>
-<referer>http://mips.tv/</referer>
+<referer>http://tvalgas.com</referer>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png</thumbnail>
 </item>
 
