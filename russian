@@ -811,6 +811,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>SPORT TV 2</title>
+<sportsdevil>http://www.estadiofutebol.com/embed.php?c=sporttv2</sportsdevil>
+<referer>http://ezcast.tv/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV 2</title>
 <link></link>
 <regex>
 <name>get-ip</name>
@@ -850,7 +857,21 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>SPORT TV3</title>
-<link>rtmp://$doregex[get-ip]/live playpath=sp3100?id=85757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sp3100/1/599/399</link>
+<sportsdevil>http://www.estadiofutebol.com/embed.php?c=sporttv3</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
+</item>
+
+<item> 
+<title>SPORT TV 2</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv3</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV3</title>
+<linkrtmp://$doregex[get-ip]/live playpath=sp3100?id=85757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sp3100/1/599/399</link>
 <regex>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -881,6 +902,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>SPORT TV 5</title>
 <sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv4</sportsdevil>
 <referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV 5</title>
+<sportsdevil>http://www.estadiofutebol.com/embed.php?c=sporttv5</sportsdevil>
+<referer>http://www.estadiofutebol.com</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
 </item>
 
