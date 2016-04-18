@@ -559,7 +559,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>[COLOR=blue][B][I] DESENHOS ANIMADOS PARA A PEQUENADA 24/7 [/I][/B][/COLOR]</title>
 <link>rtmp://208.53.180.178/ctv playpath=bob  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/bobesponja.php</link>
-<thumbnail></thumbnail>
+<thumbnail>http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados.jpg</thumbnail>
 </item>
 
 <item>
@@ -740,7 +740,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>[COLOR=blue][B][I] DESPORTO DESPORTO DESPORTO DESPORTO [/I][/B][/COLOR]</title>
 <link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/World_Map_FINA.svg/400px-World_Map_FINA.svg.png</thumbnail>
 </item>
 
 <item> 
@@ -1179,7 +1179,11 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>SKY BUNDESLIGA</title>
 <sportsdevil>http://www.shadow-net.me/channels/Sky-Bundesliga-1.html</sportsdevil>
 <referer>http://www.shadow-net.me/channels/Sky-Bundesliga-1.html</referer>
-<sportsdevil>http://mamahd.com/watch-sky-bundesliga-1-live-stream-1.html</sportsdevil>
+</item>
+
+<item>
+<title>SKY BUNDESLIGA</title>
+<sportsdevilhttp://mamahd.com/watch-sky-bundesliga-1-live-stream-1.html</sportsdevil>
 <referer>http://mamahd.com</referer>
 <thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
 </item>
@@ -1249,6 +1253,30 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www1.pictures.zimbio.com/gi/USA+Sports+Pictures+Week+October+26+2009+8KkVJq3frinl.jpg</thumbnail>
 </item>
 
+<title>TSN 1</title>
+<link>rtmp://185.63.255.18:80/live playpath=ts1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ts1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.nwtel.ca/media/channel-logos/tsn1_0.jpg</thumbnail>
+</item>
+
+<item>
+<title>TSN 2</title>
+<link>rtmp://185.63.255.60:80/live playpath=tsnx2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=tsnx2&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.nwtel.ca/media/channel-logos/tsn2_0.jpg</thumbnail>
+</item>
+
+<item>
+<title>TSN 3</title>
+<link>$doregex[m3u8]|Referer=http://shadow.go.ro/shadownet/channels/usa/player/tsn3.php&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36</link>
+<regex>
+<name>m3u8</name>
+<expres>src.*(http.*m3u8.*?)[',"]\W</expres>
+<page>http://shadow.go.ro/shadownet/channels/usa/player/tsn3.php</page>
+<referer>http://www.sdw-net.co/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ssxtux1433380256.png/medium</thumbnail>
+</item>
+
 <item>
 <title>FIGHT SPORT</title>
 <link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
@@ -1293,8 +1321,26 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>NBC Golf Channel</title>
-<link></link>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/svqtwt1433452768.png</thumbnail>
+</item>
+
+<item>
+<title>SPORTSNET ONE</title>
+<link>rtmp://185.63.255.18:80/live playpath=sprt1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprt1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png</thumbnail>
+</item>
+
+<item>
+<title>SPORTSNET ONTARIO</title>
+<link>rtmp://185.63.255.60:80/live playpath=ontrio swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedu.php?live=ontrio&vw=620&vh=490 token=%Zrey(nKa@#Z timeout=13</link>
+<thumbnail>http://metalkettle.co/logos/logos1/Sportsnet%20Ontario.png</thumbnail>
+</item>
+
+<item>
+<title>SPORTSNET WORLD</title>
+<link>rtmp://185.63.255.18:80/live playpath=sprtnetworld swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprtnetworld&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Sportsnet_World_HD_logo.PNG/800px-Sportsnet_World_HD_logo.PNG</thumbnail>
 </item>
 
 <item> 
@@ -1309,7 +1355,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
-<title>WWE NXT/title>
+<title>WWE NXT>/title>
 <sportsdevil>http://sports4u.tv/channel/wwe-network-live-streaming/</sportsdevil>
 <referer>http://sports4u.tv/channel/wwe-network-live-streaming/</referer>
 <thumbnail>https://blog-blogmediainc.netdna-ssl.com/upload/SportsBlogcom/10770645/0430996001457630369_filepicker.png</thumbnail>
@@ -1857,7 +1903,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>[COLOR=blue][B][I] BRASIL BRASIL BRASIL BRASIL [/I][/B][/COLOR]</title>
 <link>rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1</link>
-<thumbnail></thumbnail>
+<thumbnail>http://memeburn.com/wp-content/uploads/brazil-e1328192831309.jpg</thumbnail>
 </item>
 
 <item>
@@ -2000,6 +2046,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
+<title>PREMIER SPORTS</title>
+<sportsdevil>http://ibrod.tv/premier.html</sportsdevil>
+<referer>http://ibrod.tv/premier.html</referer>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/premier_sports.png </thumbnail>
+</item>
+
+<item>
 <title>COMBATE</title>
 <link></link>
 <thumbnail>http://www.goltvaovivo.org/wp-content/uploads/2016/01/Canal-Combate-ao-vivo.png</thumbnail>
@@ -2086,7 +2139,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <item>
 <title>[COLOR=blue][B][I] SPAIN SPAIN SPAIN SPAIN SPAIN SPAIN [/I][/B][/COLOR]</title>
 <link>http://api.iptv.ink/pl.m3u8?ch=91170153</link>
-<thumbnail></thumbnail>
+<thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
 </item>
 <item>
 
@@ -2684,7 +2737,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR=blue][B][I] ITALY ITALY ITALY ITALY  [/I][/B][/COLOR]</title>
 <link>http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/index_1200_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail></thumbnail>
+<thumbnail>http://onedayinitaly.com/wp-content/uploads/2014/05/italian-flag.jpg</thumbnail>
 </item>
 
 <item>   	                                
@@ -3036,7 +3089,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR=blue][B][I] FRANCA FRANCA FRANCA FRANCA [/I][/B][/COLOR]</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.pieniadz.pl/archiwum/geografia/flagi_godla_itp/francja_flaga_1.jpg</thumbnail>
 </item>
 
 <item>
@@ -3259,6 +3312,306 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>M6 Music Club</title>
 <link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6AlSGcMR9g1JcTQKQ5c5tnIb3AxGu-gsIJQCPuamQZd410c5Q.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue][B][I] UK TV UK TV UK TV UK TV [/I][/B][/COLOR]</title>
+<link>http://www.filmon.com/channel/bbc-one</link>
+<thumbnail>http://traditionalmarket.co.uk/wp-content/uploads/2015/02/uk-flag.jpg</thumbnail>
+</item>
+
+<title>BBC ONE</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-one</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-one</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC TWO</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-two</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-two</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC THREE</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-three</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-three</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC FOUR</title>
+<sportsdevil>http://www.filmon.com/channel/cbeebiesbbc-four</sportsdevil>
+<referer>http://www.filmon.com/channel/cbeebiesbbc-four</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC 1 NORTHERN IRELAND</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-1-north-ireland</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-1-north-ireland</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC 1 SCOTLAND</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-1-scotland</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-1-scotland</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC 1 WALES</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-1-wales</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-1-wales</referer>
+<thumbnail></thumbnail>
+</item>
+<item>
+
+<item>
+<title>BBC NEWS</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-news</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-news</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC PARLIAMENT</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-parliament</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-parliament</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BBC MUSIC MAGAZINE</title>
+<sportsdevil>http://www.filmon.com/channel/bbc-music-magazine</sportsdevil>
+<referer>http://www.filmon.com/channel/bbc-music-magazine</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>REALITY TV</title>
+<sportsdevil>http://www.filmon.com/channel/reality-tv</sportsdevil>
+<referer>http://www.filmon.com/channel/reality-tv</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CHANNEL 4</title>
+<sportsdevil>http://www.filmon.com/channel/channel-4</sportsdevil>
+<referer>http://www.filmon.com/channel/channel-4</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CHANNEL 5</title>
+<sportsdevil>http://www.filmon.com/channel/channel-5</sportsdevil>
+<referer>http://www.filmon.com/channel/channel-5</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CBS REALITY</title>
+<sportsdevil>http://www.filmon.com/channel/cbs-reality</sportsdevil>
+<referer>http://www.filmon.com/channel/cbs-reality</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CBS REALITY 1</title>
+<sportsdevil>http://www.filmon.com/channel/cbs-reality1</sportsdevil>
+<referer>http://www.filmon.com/channel/cbs-reality1</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CBS ACTION</title>
+<sportsdevil></sportsdevil>
+<referer>http://www.filmon.com/channel/cbs-action</referer>
+<thumbnail>http://www.filmon.com/channel/cbs-action</thumbnail>
+</item>
+
+<item>
+<title>CBS DRAMA</title>
+<sportsdevil></sportsdevil>
+<referer>http://www.filmon.com/channel/cbs-drama</referer>
+<thumbnail>http://www.filmon.com/channel/cbs-drama</thumbnail>
+</item>
+
+<item>
+<title>ITV</title>
+<sportsdevil>http://www.filmon.com/channel/itv1</sportsdevil>
+<referer>http://www.filmon.com/channel/itv1</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV+1</title>
+<sportsdevil></sportsdevil>
+<referer>http://www.filmon.com/channel/itv-plus-1</referer>
+<thumbnail>http://www.filmon.com/channel/itv-plus-1</thumbnail>
+</item>
+
+<item>
+<title>ITV2</title>
+<sportsdevil>http://www.filmon.com/channel/itv2</sportsdevil>
+<referer>http://www.filmon.com/channel/itv2</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV2+1</title>
+<sportsdevil>http://www.filmon.com/channel/itv2-plus-1</sportsdevil>
+<referer>http://www.filmon.com/channel/itv2-plus-1</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV3</title>
+<sportsdevil>http://www.filmon.com/channel/itv3</sportsdevil>
+<referer>http://www.filmon.com/channel/itv3</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV3+1</title>
+<sportsdevil></sportsdevil>
+<referer>http://www.filmon.com/channel/itv3-plus-1</referer>
+<thumbnail>http://www.filmon.com/channel/itv3-plus-1</thumbnail>
+</item>
+
+<item>
+<title>ITV4</title>
+<sportsdevil>http://www.filmon.com/channel/itv4</sportsdevil>
+<referer>http://www.filmon.com/channel/itv4</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITV4+1</title>
+<sportsdevil>http://www.filmon.com/channel/itv4-plus-1</sportsdevil>
+<referer>http://www.filmon.com/channel/itv4-plus-1</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ITVBe</title>
+<sportsdevil>http://www.filmon.com/channel/itvbe</sportsdevil>
+<referer>http://www.filmon.com/channel/itvbe</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TRU TV</title>
+<sportsdevil>http://www.filmon.com/channel/tru-tv</sportsdevil>
+<referer>http://www.filmon.com/channel/tru-tv</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>E4</title>
+<sportsdevil>http://www.filmon.com/channel/e4</sportsdevil>
+<referer>http://www.filmon.com/channel/e4</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MORE4</title>
+<sportsdevil>http://www.filmon.com/channel/more4</sportsdevil>
+<referer>http://www.filmon.com/channel/more4</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>5*</title>
+<sportsdevil>http://www.filmon.com/channel/5-star</sportsdevil>
+<referer>http://www.filmon.com/channel/5-star</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>5USA</title>
+<sportsdevil>http://www.filmon.com/channel/5usa</sportsdevil>
+<referer>http://www.filmon.com/channel/5usa</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DAVE</title>
+<sportsdevil>http://www.filmon.com/channel/dave</sportsdevil>
+<referer>http://www.filmon.com/channel/dave</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>QUEST</title>
+<sportsdevil>http://www.filmon.com/channel/quest</sportsdevil>
+<referer>http://www.filmon.com/channel/quest</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>REALLY</title>
+<sportsdevil>http://www.filmon.com/channel/really</sportsdevil>
+<referer>http://www.filmon.com/channel/really</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>YESTERDAY</title>
+<sportsdevil>http://www.filmon.com/channel/yesterday</sportsdevil>
+<referer>http://www.filmon.com/channel/yesterday</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>IRELAND COUNTRY TV</title>
+<sportsdevil>http://www.filmon.com/channel/irelands-country-tv</sportsdevil>
+<referer>http://www.filmon.com/channel/irelands-country-tv</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BRITROX</title>
+<sportsdevil>http://www.filmon.com/channel/britrox</sportsdevil>
+<referer>http://www.filmon.com/channel/britrox</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DR. FAB SHOW</title>
+<sportsdevil>http://www.filmon.com/channel/dr-fab-show</sportsdevil>
+<referer>http://www.filmon.com/channel/dr-fab-show</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>MY FACE MY BODY</title>
+<sportsdevil>http://www.filmon.com/channel/my-face-my-body</sportsdevil>
+<referer>http://www.filmon.com/channel/my-face-my-body</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>PICK TV</title>
+<sportsdevil>http://www.filmon.com/channel/pick-tv</sportsdevil>
+<referer>http://www.filmon.com/channel/pick-tv</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>PSYCHIC TODAY</title>
+<sportsdevil>http://www.filmon.com/channel/psychic-today</sportsdevil>
+<referer>http://www.filmon.com/channel/psychic-today</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FUSIONPLUS TV</title>
+<sportsdevil>http://www.filmon.com/channel/fusionplus</sportsdevil>
+<referer>http://www.filmon.com/channel/fusionplus</referer>
+<thumbnail></thumbnail>
 </item>
 
 <item>
