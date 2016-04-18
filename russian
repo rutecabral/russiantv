@@ -977,8 +977,10 @@ title: 'http://futebolpthd.blogspot.pt/',
 <page>http://www.streamifyplayer.com/embedplayer/slbueyec/1/555/435</page>
 <referer>http://www.streamifyplayer.com</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png</thumbnail>
-</item><item>
-<title>[COLOR beige][B][I] BENFICA TV 1 [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title>
+</item>
+
+<item>
+<title>BENFICA TV 1</title>
 <sportsdevil>http://tvalgas.com/index.php/component/content/article/2-uncategorised/149-benfica-tv-1-live</sportsdevil>
 <referer>http://tvalgas.com/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
@@ -986,20 +988,20 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>BENFICA TV 1</title>
-<sportsdevil>http://reformadostv.comunidades.net/index.php</sportsdevil>
+<sportsdevilhttp://reformadostv.comunidades.net/index.php</sportsdevil>
 <referer>http://www.tvportugalhd.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
 </item>
 
 <item> 
-<title>[COLOR beige][B][I]BENFICA TV 1 [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevilhttp://antena.mytvfree2.me/btv1.php</sportsdevil>
+<title>BENFICA TV 1</title>
+<sportsdevil>http://antena.mytvfree2.me/btv1.php</sportsdevil>
 <referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
 </item>
 
 <item>  
-<title>[COLOR beige][B][I] BENFICA TV 1 [/I][/B][/COLOR] [COLOR green](SPORTS DEVIL)[/COLOR]</title>
+<title>BENFICA TV 1</title>
 <sportsdevilhttp://firstrowsports.ge/?watch/408917/6/watch-xonetv.html</sportsdevil>
 <referer>http://firstrowsports.ge/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
@@ -1019,7 +1021,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
-<title>BENFICA TV 2[/COLOR]</title>
+<title>BENFICA TV 2/title>
 <sportsdevil>http://tvalgas.com/index.php/component/content/article/2-uncategorised/150-benfica-tv-2-live</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv2.png</thumbnail>
