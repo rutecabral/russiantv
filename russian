@@ -2685,6 +2685,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>http://www.thedailytelevision.com/sites/default/files/notas/graficos/logo-construir-tv_cuadradainterior.jpg</thumbnail>
 </item>
 
+ <item>
+    <title>PELICULAS SPAIN</title>
+    <link>http://Ignoreme</link>
+    <thumbnail>http://i.imgur.com/xu57ulK.png</thumbnail>
+    <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    <externallink>http://pastebin.com/raw/b9jK6V6c</externallink> 
+    </item>
+
 <item>
 <title>VENUS</title>
 <link></link>
