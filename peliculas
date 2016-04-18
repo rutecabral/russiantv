@@ -13,63 +13,6 @@
 <credits>© Catoal</credits>
 </channels_info>
 
-<channel>
-<name>88.ª Ceremonia de los Premios Óscar (2016)</name>
-<thumbnail>http://es.web.img1.acsta.net/newsv7/16/01/12/16/17/058489.jpg</thumbnail>
-<fanart>http://as01.epimg.net/ocio/imagenes/2016/02/28/cine/1456685426_901439_1456717351_noticia_normal.jpg</fanart>
-<items>
-
-<item>
-<title>Disfruta de la gala</title>
-<link>$doregex[url]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>jsonurl</name>
-	<expres>"url360":"(.*?)"</expres>
-	<page>http://vk.com/video_ext.php?oid=238243363&amp;id=456239019&amp;hash=577baabbc3046aeb&amp;hd=1</page>
-	<referer>http://vk.com</referer>
-</regex>
-<thumbnail>http://es.web.img1.acsta.net/newsv7/16/01/12/16/17/058489.jpg</thumbnail>
-<fanart>http://as01.epimg.net/ocio/imagenes/2016/02/28/cine/1456685426_901439_1456717351_noticia_normal.jpg</fanart>
-</item>
-</items>
-</channel>
-
-<channel>
-<name>La Butaca</name>
-<thumbnail>http://i.imgur.com/wlwYs4y.jpg</thumbnail>
-<fanart>http://butacaancha.com/wp-content/uploads/2013/06/apolo.jpg</fanart> 
-<items>
-
-<item>
-<title>La Butaca</title>
-<link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/catoalkodi/Catoalist/master/butaca.xml</externallink>
-<thumbnail>http://i.imgur.com/wlwYs4y.jpg</thumbnail>
-<fanart>http://butacaancha.com/wp-content/uploads/2013/06/apolo.jpg</fanart> 
-</item>
-</items>
-</channel>
-
-<channel>
-<name>Yaske.net</name>
-<thumbnail>http://i.imgur.com/COXfQ4A.jpg</thumbnail>
-<fanart>http://s9.postimg.org/ujxykncfj/captura.jpg</fanart> 
-<items>
-
-<item>
-<title>WEb Yaske.net</title>
-<link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/catoalkodi/Catoalist/master/yaske.xml</externallink>
-<thumbnail>http://i.imgur.com/COXfQ4A.jpg</thumbnail>
-<fanart>http://s9.postimg.org/ujxykncfj/captura.jpg</fanart> 
-</item>
-</items>
-</channel>
 
 <channel>
 <name>InkaPelis.com</name>
@@ -88,13 +31,13 @@
 </channel>
 
 <channel>
-<name>Audio Latino</name>
+<name>PELICULAS AUDIO LATINO</name>
 <Thumbnail>http://i.imgur.com/8QppWFF.jpg</thumbnail>
 <fanart>http://i.imgur.com/8QppWFF.jpg</fanart>
 <items>
 
 <item>
-<title>Audio Latino</title>
+<title>PELICULAS AUDIO LATINO</title>
 <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/catoalkodi/Catoalist/master/Pel.m3u</externallink>
 <Thumbnail>http://i.imgur.com/8QppWFF.jpg</thumbnail>
