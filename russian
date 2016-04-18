@@ -1169,6 +1169,41 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
+<title>SETANTA IRELAND</title>
+<sportsdevil>http://www.shadow-net.me/channels/Setanta-Ireland.html</sportsdevil>
+<referer>http://www.shadow-net.me/channels/Setanta-Ireland.html</referer>
+<thumbnail>http://www.ettu.org/images/newsarchive/images/original/9d87bss_741d5_f_666x375.jpg </thumbnail>
+</item>
+
+<item>
+<title>SKY BUNDESLIGA</title>
+<sportsdevil>http://www.shadow-net.me/channels/Sky-Bundesliga-1.html</sportsdevil>
+<referer>http://www.shadow-net.me/channels/Sky-Bundesliga-1.html</referer>
+<sportsdevil>http://mamahd.com/watch-sky-bundesliga-1-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY CALCIO</title>
+<sportsdevil>http://mamahd.com/sky-calcio-1-live-stream-1.html</sportsdevil>
+<referer>http://mamahd.com</referer>
+<thumbnail>http://www.themoodboard.com/wp-content/uploads/2013/08/MIN_SC2013.jpg</thumbnail>
+</item>
+
+<item>
+<title>RAI SPORT 1</title>
+<link>http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwrqqs1434463964.png/medium</thumbnail>
+</item> 
+
+<item>
+<title>RAI SPORT 2</title>
+<link>http://httpstream1.rai.it/Italy/raisport2.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vvuwvx1434463976.png/medium</thumbnail>
+</item> 
+
+<item>
 <title>BT SPORT 1</title>
 <sportsdevil>http://mamahd.com/watch-bt-sport-1-live-streaming-1.html</sportsdevil>
 <referer>http://mamahd.com</referer>
@@ -1267,24 +1302,18 @@ title: 'http://futebolpthd.blogspot.pt/',
 <link></link>
 </item> 
 
-<item>
-<title>RAI SPORT 1</title>
-<link>http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vwrqqs1434463964.png/medium</thumbnail>
-</item> 
-
-<item>
-<title>RAI SPORT 2</title>
-<link>http://httpstream1.rai.it/Italy/raisport2.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8|X-Forwarded-For=2.112.0.1</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vvuwvx1434463976.png/medium</thumbnail>
-</item>  
-
-<item>
+ <item>
 <title>RED BULL TV</title>
 <link>http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8</link>
 <thumbnail>https://tvsociale.files.wordpress.com/2012/02/redbulltv.jpg</thumbnail>
 </item>
 
+<item>
+<title>WWE NXT/title>
+<sportsdevil>http://sports4u.tv/channel/wwe-network-live-streaming/</sportsdevil>
+<referer>http://sports4u.tv/channel/wwe-network-live-streaming/</referer>
+<thumbnail>https://blog-blogmediainc.netdna-ssl.com/upload/SportsBlogcom/10770645/0430996001457630369_filepicker.png</thumbnail>
+</item>
 
 <item>
  <title>C+ LIGA</title>
