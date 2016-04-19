@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
+<channels>
+<channel>
+<name>[COLOR red] [I]Portugueses[/I] [/COLOR] </name>
+<thumbnail>http://4.bp.blogspot.com/-BMyCsibtcAI/U0SW523TyQI/AAAAAAAAQAE/tiYh2kTG-yE/s1600/Tuga_Troll.png</thumbnail>
+</subitem>
 </item>
+
 <item>  
 <title>RTP 1</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15</link>
@@ -593,6 +599,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>Caza y Pesca</title> 
 <link></link>
 <thumbnail>http://3.bp.blogspot.com/-HOTGqsd4B90/VWeORz7ELLI/AAAAAAAAEDA/BuUBzhFSyU0/s320/logocaza.jpg</thumbnail>
+</item>
+
+<channels>
+<channel>
+<name>[COLOR red] [I]Desporto[/I] [/COLOR] </name>
+<thumbnail>http://www.marcoensefm.com/wp-content/uploads/2013/06/Logo-Desporto.jpg</thumbnail>
+</subitem>
 </item>
 
 
