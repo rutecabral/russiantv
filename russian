@@ -368,21 +368,20 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>TV CINE 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/4Bxq7CjtxR/CeBGocxN3U/700.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC2.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1146.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png</thumbnail>
 </item>
-
 
 <item>
 <title>TV CINE 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/4Bxq7CjtxR/CeBGocxN3U/699.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/886.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC3.png</thumbnail>
 </item>
 
 
 <item>
 <title>TV CINE 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/vailávai/satlover.com/447.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1147.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC4.png</thumbnail>
 </item>
 
