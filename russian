@@ -355,22 +355,11 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
-<title>TV CINE 1</title>
-<linkplugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/abdelwaheb/abdelwaheb/2168.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png</thumbnail>
-</item>
-
-<item>
 <title>TV CINE 2</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/4Bxq7CjtxR/CeBGocxN3U/700.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC2.png</thumbnail>
 </item>
 
-<item>
-<title>TV CINE 2</title>
-<linkplugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/abdelwaheb/abdelwaheb/2167.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC2.png</thumbnail>
-</item>
 
 <item>
 <title>TV CINE 3</title>
@@ -378,11 +367,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC3.png</thumbnail>
 </item>
 
-<item>
-<title>TV CINE 3</title>
-<linkplugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/abdelwaheb/abdelwaheb/2166.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC3.png</thumbnail>
-</item>
 
 <item>
 <title>TV CINE 4</title>
@@ -390,15 +374,10 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC4.png</thumbnail>
 </item>
 
-<item>
-<title>TV CINE 4</title>
-<linkplugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/abdelwaheb/abdelwaheb/2165.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC4.png</thumbnail>
-</item>
 
 <item>
 <title>TV SERIES</title>
-<linkplugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1152.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<linkplugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg</thumbnail>
 </item>
 
@@ -2453,69 +2432,93 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
-<title>AZTECA NOTICIAS</title>
-<link>http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8</link>
-<thumbnail>http://www.onlinetv.planetfools.com/imagenes/azteca-noticias.png</thumbnail>
+ <title>CANAL+ ESTRENOS</title>
+<item>rtmp://nl.iguide.to/iguide playpath=oqlqntk3lt0tcz4  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://i57.tinypic.com/29vme6e.png</thumbnail>
+<fanart>http://s03.s3c.es/imag/_v0/640x300/7/3/8/canalplus-video-filtrado.jpg</fanart>
 </item>
 
 <item>
-<title>El Trece HD</title>
-<link>rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1</link>
-<thumbnail>http://wondermelodies.com/m/uploads/thumbnails/Canal13Hd_png_268x170_upscale_q85.jpg</thumbnail>
+ <title>CANAL+ ACCION</title>
+<link>rtmp://nl.iguide.to/iguide playpath=qyxepg6xttc83as  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<thumbnail>https://lh3.googleusercontent.com/-gCgAIUfexVw/Vaah3aZo6eI/AAAAAAAAClc/kR__groP9oE/s163-Ic42/canal%252520%25252B%252520accion.png</thumbnail>
+<fanart>https://lh3.googleusercontent.com/-gCgAIUfexVw/Vaah3aZo6eI/AAAAAAAAClc/kR__groP9oE/s163-Ic42/canal%252520%25252B%252520accion.png</fanart>
+</item>
+
+
+<item>
+<title>CANAL+ DCINE</title>
+<link>rtmp://nl.iguide.to/iguide playpath=y6y6vfv2sxxot0n  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<fanart>http://s3.postimg.org/dvgxzl6n7/canal_cine.png</fanart>
+ <thumbnail>http://s3.postimg.org/dvgxzl6n7/canal_cine.png</thumbnail>
 </item>
 
 <item>
-<title>CANAL DE LAS ESTRELLAS</title>
-<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/eb/Canal_de_las_Estrellas_2006_logo.PNG</thumbnail>
+ <title>CANAL+ COMEDIA</title>
+<link>rtmp://nl.iguide.to/iguide playpath=t6zehd5sg0oehhq  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<fanart>http://streamingfreetv.net/wp-content/uploads/2014/07/descarga-41.jpg</fanart>
+ <thumbnail>http://streamingfreetv.net/wp-content/uploads/2014/07/descarga-41.jpg</thumbnail>
 </item>
 
 <item>
-<title>PROYECTO 40</title>
-<link>http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8</link>
-<thumbnail>http://www.tvyespectaculos.com/wp-content/uploads/2011/02/Proyecto.jpg</thumbnail>
+ <title>CANAL+ SERIES</title>
+<link>rtmp://nl.iguide.to/iguide playpath=203cy9bnzp1kcm9  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<fanart>http://www.vertele.com/files/2013/10/canal-plus-series-logo-530.jpg</fanart>
+ <thumbnail>http://www.vertele.com/files/2013/10/canal-plus-series-logo-530.jpg</thumbnail>
 </item>
 
-<item> 
-<title>Canal Mexico</title>
-<link>rtmp://50.7.98.234/rtv/videortv</link>
-<thumbnail></thumbnail>
+<item>
+ <title>CANAL+ SERIES XTRA</title>
+<link>rtmp://nl.iguide.to/iguide playpath=62sn73q6cjfaq1l  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<fanart>http://www.vertele.com/files/2013/10/canal-plus-series-logo-530.jpg</fanart>
+ <thumbnail>http://www.vertele.com/files/2013/10/canal-plus-series-logo-530.jpg</thumbnail>
 </item>
 
-<item> 
-			<title>Canal 7 Mazatlan</title>
-			<link>http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?</link>
-			</item>
-			<item> 
-			<title>Canal Once </title>
-			<link>http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8</link>
-			</item>
-			<item> 
-			
 <item>
-<title>Radio y Televisión Mexiquense</title>
-<link>rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1</link>
-<thumbnail></thumbnail>
-</item>	
-
-<item><title>[Locales] Aprende</title><link>http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8?</link></item>
- 
-<item><title>[Locales] Azteca Info7</title><link>http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?</link></item>
- 
-<item><title>[Locales] Canal 2 Los Mochis</title><link>http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8?</link></item>
- 
-<item><title>[Locales] Canal 2 Ciudad Obregon</title><link>http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?</link></item>
- 
-<item><title>[Locales] Canal 7 Mazatlan</title><link>http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?</link></item>
- 
- <item><title>[Locales] Canal del Congreso</title><link>http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8?</link></item>
- 
-<item><title>[Locales] Capital 21 Mexico City</title><link>http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8?</link></item>
+<title>CANAL+ DCINE</title>
+<link>rtmp://nl.iguide.to/iguide playpath=y6y6vfv2sxxot0n  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<fanart>http://s3.postimg.org/dvgxzl6n7/canal_cine.png</fanart>
+ <thumbnail>http://s3.postimg.org/dvgxzl6n7/canal_cine.png</thumbnail>
+</item>
 
 <item>
-<title>FDF</title>
-<link></link>
-<thumbnail>http://static.blogs.sudinfo.be/media/45/fdf_vct_cmyk_presse_350.jpg</thumbnail> 
+<title>SYFY</title>
+<link>rtmp://nl.iguide.to/iguide playpath=mze2zn8i8o5sl9s  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<thumbnail>http://i.ytimg.com/vi/XyeLVkZCYBc/maxresdefault.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/XyeLVkZCYBc/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+ <title>HOLLYWOOD</title>
+<link>rtmp://89.248.169.55/iguide playpath=g14tfn5k0uso0om swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link>
+<fanart>http://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg</fanart>
+ <thumbnail>http://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg</thumbnail>
+</item>
+
+
+<item>
+ <title>AXN</title>
+<link>rtmp://89.248.169.55/iguide playpath=bi3y8fxntkbf1ss swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link>
+<thumbnail>http://analitica.com/wp-content/uploads/2014/08/axn.jpg</thumbnail>
+<fanart>http://analitica.com/wp-content/uploads/2014/08/axn.jpg</fanart>
+</item>
+
+
+<item>
+ <title>FOX</title>
+<link>rtmp://89.248.169.55/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link>
+<thumbnail>http://behruzmelikov.files.wordpress.com/2013/03/fox-tv-logo.jpg</thumbnail>
+<fanart>http://behruzmelikov.files.wordpress.com/2013/03/fox-tv-logo.jpg</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+<item>
+ <title>TNT</title>
+<link>rtmp://89.248.169.55/iguide playpath=nh4259fy0kikqbk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H9miQ4EiovH9Q3vuNMcsHMwwmwgf2r3hzEyB16Q4C_EVkmn7</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H9miQ4EiovH9Q3vuNMcsHMwwmwgf2r3hzEyB16Q4C_EVkmn7</fanart>
+ <thumbnail></thumbnail> 
 </item>
 
 <item>
@@ -2525,42 +2528,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 <fanart>http://2.bp.blogspot.com/-WI0xmTCAYXo/Vmq981HwcyI/AAAAAAAA54w/gia5EQ54HaY/s1600/1.jpg</fanart>
 </item>
 
-<item>
-<title>Canal+ Fútbol</title>
-<linkhttp://iptvbox.noip.us:9998/live/atik/atik/857.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png</thumbnail>
-</item>
-
-<item>
-<title>Canal+ Deportes</title>
-<linkhttp://iptvbox.noip.us:9998/live/atik/atik/856.m3u8</link>
-<thumbnail>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</thumbnail>
-</item>
-
-<item>
-<title>CANAL+ #0</title>
-<link></link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/0_M%2B.svg/120px-0_M%2B.svg.png</thumbnail>
-</item>
-
-<item>
-<title>Canal+ Liga</title>
-<link></link>
-<thumbnail>http://www.iptvlinksss.com/wp-content/uploads/2015/11/8b8ca1d66bf686faa9cb7aa859cfaff5.jpeg</thumbnail>
-</item>
-
-<item>
-<title>Canal+ Deportes</title>
-<link></link>
-<thumbnail>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</thumbnail>
-</item>
 
 <item>
 <title>Real Madrid tv</title>
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2013/11/real-madrid-tv.jpg</thumbnail>
 </item>
-
 
 
 <item>
@@ -2752,55 +2725,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>barça TV</title> 
 <link></link>
 <thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/12/Bar%C3%A7a-TV.jpg</thumbnail>
-</item>	
-
-<item>
-<title>CANAL+ ESTRENOS</title>
-<link></link>
-<thumbnail>http://i57.tinypic.com/29vme6e.png</thumbnail>
-<fanart>http://s03.s3c.es/imag/_v0/640x300/7/3/8/canalplus-video-filtrado.jpg</fanart>
-</item>
-
-<item>
-<title>AMC</title>
-<link></link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/AMC_logo_2013.png/200px-AMC_logo_2013.png</thumbnail>
-</item>
-
-<item>
-<title>HOLLYWOOD</title>
-<link></link>
-<thumbnail>http://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg</thumbnail>
-</item>
-
-<item>
-<title>AXN White</title>
-<link></link>
-<thumbnail>http://tvxat.info/wp-content/uploads/2015/10/AXN_white-2-460x252.jpg</thumbnail>
-</item>
-
-<item>
-<title>MTV</title>
-<link></link>
-<thumbnail>http://idata.over-blog.com/2/42/44/41//mtv-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>DISCOVERY</title>
-<link></link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
-</item>
-
-<item>
-<title>HISTORIA</title>
-<link></link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
-</item>
-
-<item>
-<title>VIAJAR</title>
-<link></link>
-<thumbnail>http://i.imgur.com/XdbNaeI.jpg</thumbnail>
 </item>
 
 <item>
@@ -2828,6 +2752,72 @@ def GetLSProData(page_data,Cookie_Jar,m):
     <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
     <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/peliculas</externallink> 
     </item>
+
+<item>
+<title>AZTECA NOTICIAS</title>
+<link>http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8</link>
+<thumbnail>http://www.onlinetv.planetfools.com/imagenes/azteca-noticias.png</thumbnail>
+</item>
+
+<item>
+<title>El Trece HD</title>
+<link>rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1</link>
+<thumbnail>http://wondermelodies.com/m/uploads/thumbnails/Canal13Hd_png_268x170_upscale_q85.jpg</thumbnail>
+</item>
+
+<item>
+<title>CANAL DE LAS ESTRELLAS</title>
+<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/eb/Canal_de_las_Estrellas_2006_logo.PNG</thumbnail>
+</item>
+
+<item>
+<title>PROYECTO 40</title>
+<link>http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8</link>
+<thumbnail>http://www.tvyespectaculos.com/wp-content/uploads/2011/02/Proyecto.jpg</thumbnail>
+</item>
+
+<item> 
+<title>Canal Mexico</title>
+<link>rtmp://50.7.98.234/rtv/videortv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item> 
+			<title>Canal 7 Mazatlan</title>
+			<link>http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?</link>
+			</item>
+			<item> 
+			<title>Canal Once </title>
+			<link>http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8</link>
+			</item>
+			<item> 
+			
+<item>
+<title>Radio y Televisión Mexiquense</title>
+<link>rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1</link>
+<thumbnail></thumbnail>
+</item>	
+
+<item><title>[Locales] Aprende</title><link>http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8?</link></item>
+ 
+<item><title>[Locales] Azteca Info7</title><link>http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?</link></item>
+ 
+<item><title>[Locales] Canal 2 Los Mochis</title><link>http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8?</link></item>
+ 
+<item><title>[Locales] Canal 2 Ciudad Obregon</title><link>http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?</link></item>
+ 
+<item><title>[Locales] Canal 7 Mazatlan</title><link>http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?</link></item>
+ 
+ <item><title>[Locales] Canal del Congreso</title><link>http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8?</link></item>
+ 
+<item><title>[Locales] Capital 21 Mexico City</title><link>http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8?</link></item>
+
+<item>
+<title>FDF</title>
+<link></link>
+<thumbnail>http://static.blogs.sudinfo.be/media/45/fdf_vct_cmyk_presse_350.jpg</thumbnail> 
+</item>
 
 <item>
 <title>VENUS</title>
