@@ -1953,18 +1953,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
-<titleTV RECORD</title>
-<link>rtmp://wz3.dnip.com.br/tvgazetamt/ playpath=tvgazetamt.sdp swfUrl=http://www.cxtv.com.br/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-online/tv-record</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yqpwvs1436890865.png</thumbnail>
-</item>
-
-<item>
-<title>GLOBO</title>
-<linkrtmp://62.210.83.152:1935/liverepeat01?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDE2IDg6Mjg6MjAgUE0maGFzaF92YWx1ZT1rRHB.CV1BmVTN3QS9LZWJYaDNiUzFBPT0mdmFsaWRtaW51dGVzPTMwMA== playpath=101010 swfUrl=http://ppcast.org/embedP/jwplayer/jwplayer.flash..swf live=1 pageUrl=http://ppcast.org/embedP/3.php?file=trico3&width=100%&height=100%</link>
-<thumbnail>http://i.imgur.com/CQPOCvT.png</thumbnail>
-</item>
-
-<item>
 <title>GLOBO MG</title>
 <link></link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/archive/5/5d/20130907234351!Redeglobo.png</thumbnail>
