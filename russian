@@ -980,36 +980,11 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportingtv.png</thumbnail>
 </item>
 
-
-<item>
-<title>[COLOR red][B][I]CLICA AQUI PARA VER DESPORTO EM DIRECTO HD[/I][/B][/COLOR] [COLOR yellow] ( PLEXUS)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
-<thumbnail>http://www.rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B][I]CLICA AQUI PARA VER DESPORTO EM DIRECTO HD[/I][/B][/COLOR] [COLOR yellow] (P2P PLEXUS)[/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.p2p-streams/?mode=401&amp;name=[B][COLOR red]Agenda/Schedule[/COLOR]&amp;parser=arenavision&amp;parserfunction=arenavision_schedule&amp;url=http://www.arenavision.in/agenda</jsonrpc>
-<thumbnail>http://www.rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg</thumbnail>
-</item>
-
-<item>
-        <title>[COLOR red]ROJA DIRETA CLICA AQUI PINCHA[/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw.php?i=Kpq8VM6V</externallink>
-<thumbnail>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</thumbnail>
-<fanart>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</fanart>
-        </item>
-
 <item>
 <title>Movistar F1</title>
 <link></link>
 <thumbnail>http://i60.tinypic.com/2cgivqq.jpg</thumbnail>
 </item>
-
-
 
 <item>
 <title>Movistar GP</title>
@@ -1847,6 +1822,35 @@ title: 'http://futebolpthd.blogspot.pt/',
 <link></link>
 <thumbnail>http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png</thumbnail>
 </item>
+
+<channels>
+<channel>
+<name>[COLOR red] [I]CANAIS PLEXUS E P2P[/I] [/COLOR] </name>
+<thumbnail>http://descargarmp3.top/image/plexus-p2p-streams-kodi-addon-sopcast-acestream-iptv-how-to-tutorial.png</thumbnail>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR red][B][I]CLICA AQUI PARA VER DESPORTO EM DIRECTO HD[/I][/B][/COLOR] [COLOR yellow] ( PLEXUS)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
+<thumbnail>http://www.rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B][I]CLICA AQUI PARA VER DESPORTO EM DIRECTO HD[/I][/B][/COLOR] [COLOR yellow] (P2P PLEXUS)[/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.p2p-streams/?mode=401&amp;name=[B][COLOR red]Agenda/Schedule[/COLOR]&amp;parser=arenavision&amp;parserfunction=arenavision_schedule&amp;url=http://www.arenavision.in/agenda</jsonrpc>
+<thumbnail>http://www.rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg</thumbnail>
+</item>
+
+<item>
+        <title>[COLOR red]ROJA DIRETA CLICA AQUI PINCHA[/COLOR]</title>
+        <link>http://Ignoreme</link>
+        <externallink>http://pastebin.com/raw.php?i=Kpq8VM6V</externallink>
+<thumbnail>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</thumbnail>
+<fanart>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</fanart>
+        </item>
 
 <channels>
 <channel>
@@ -2820,14 +2824,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>http://www.thedailytelevision.com/sites/default/files/notas/graficos/logo-construir-tv_cuadradainterior.jpg</thumbnail>
 </item>
 
- <item>
-    <title>PELICULAS SPAIN</title>
-    <link>http://Ignoreme</link>
-    <thumbnail>http://i.imgur.com/xu57ulK.png</thumbnail>
-    <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-    <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/peliculas</externallink> 
-    </item>
-
 <item>
 <title>AZTECA NOTICIAS</title>
 <link>http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8</link>
@@ -2893,6 +2889,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link></link>
 <thumbnail>http://static.blogs.sudinfo.be/media/45/fdf_vct_cmyk_presse_350.jpg</thumbnail> 
 </item>
+
+<channels>
+<channel>
+<name>[COLOR red] [I]PELICULAS[/I] [/COLOR] </name>
+<thumbnail>http://www.dosbit.com/images/2014/12/diez-alternativas-a-peliculas-yonkis-01.jpg</thumbnail>
+</subitem>
+</item>
+
+
+<item>
+    <title>PELICULAS SPAIN</title>
+    <link>http://Ignoreme</link>
+    <thumbnail>http://i.imgur.com/xu57ulK.png</thumbnail>
+    <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/peliculas</externallink> 
+    </item>
 
 
 
