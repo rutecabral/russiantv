@@ -1825,7 +1825,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <channels>
 <channel>
-<name>[COLOR red] [I]CANAIS PLEXUS E P2P[/I] [/COLOR] </name>
+<name>[COLOR red] [I]CANAIS DESPORTO PLEXUS[/I] [/COLOR] </name>
 <thumbnail>http://descargarmp3.top/image/plexus-p2p-streams-kodi-addon-sopcast-acestream-iptv-how-to-tutorial.png</thumbnail>
 </subitem>
 </item>
@@ -1837,11 +1837,25 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg</thumbnail>
 </item>
 
+<channels>
+<channel>
+<name>[COLOR red] [I]CANAIS DESPORTO PLEXUS E P2P[/I] [/COLOR] </name>
+<thumbnail>http://descargarmp3.top/image/plexus-p2p-streams-kodi-addon-sopcast-acestream-iptv-how-to-tutorial.png</thumbnail>
+</subitem>
+</item>
+
 <item>
 <title>[COLOR red][B][I]CLICA AQUI PARA VER DESPORTO EM DIRECTO HD[/I][/B][/COLOR] [COLOR yellow] (P2P PLEXUS)[/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.p2p-streams/?mode=401&amp;name=[B][COLOR red]Agenda/Schedule[/COLOR]&amp;parser=arenavision&amp;parserfunction=arenavision_schedule&amp;url=http://www.arenavision.in/agenda</jsonrpc>
-<thumbnail>http://www.rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg</thumbnail>
+<thumbnail>http://billionbytes.es/wp-content/uploads/2015/03/p2p.gif</thumbnail>
+</item>
+
+<channels>
+<channel>
+<name>[COLOR red] [I]ROJA DIRETA DESPORTO[/I] [/COLOR] </name>
+<thumbnail>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</thumbnail>
+</subitem>
 </item>
 
 <item>
