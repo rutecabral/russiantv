@@ -438,13 +438,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>CAZA Y PESCA</title>
-<linkplugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/4Bxq7CjtxR/CeBGocxN3U/21.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/4Bxq7CjtxR/CeBGocxN3U/21.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.contalentotv.com/wp-content/uploads/2013/08/l_caza_y_pesca.png</thumbnail>
 </item>
 
 <item>
 <title>CAZA Y PESCA</title>
-<link>rtmp://31.220.40.62:80/pull/iberalias?keys=0_JhiusUyr5k9omnOAPRog&keyt=1443470275 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/ token=%Zrey(nKa@#Z</link>
+<linkrtmp://31.220.40.62:80/pull/iberalias?keys=0_JhiusUyr5k9omnOAPRog&keyt=1443470275 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/ token=%Zrey(nKa@#Z</link>
 <thumbnail>http://www.contalentotv.com/wp-content/uploads/2013/08/l_caza_y_pesca.png</thumbnail>
 </item>
 
