@@ -69,7 +69,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>SIC NOTICIAS</title>
-<link>http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/668.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1123.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
 </item>
 
@@ -347,6 +347,61 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png</thumbnail>
 </regex>
 </item>
+
+<item>
+<title>TV CINE 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1145.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV CINE 1</title>
+<linkplugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/abdelwaheb/abdelwaheb/2168.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV CINE 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/4Bxq7CjtxR/CeBGocxN3U/700.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV CINE 2</title>
+<linkplugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/abdelwaheb/abdelwaheb/2167.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV CINE 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/4Bxq7CjtxR/CeBGocxN3U/699.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV CINE 3</title>
+<linkplugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/abdelwaheb/abdelwaheb/2166.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV CINE 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/4Bxq7CjtxR/CeBGocxN3U/698.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV CINE 4</title>
+<linkplugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/abdelwaheb/abdelwaheb/2165.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV SERIES</title>
+<linkplugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1152.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>PLAYBOY</title>
@@ -741,6 +796,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>[COLOR=blue][B][I] DESPORTO DESPORTO DESPORTO DESPORTO [/I][/B][/COLOR]</title>
 <link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/World_Map_FINA.svg/400px-World_Map_FINA.svg.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/4Bxq7CjtxR/CeBGocxN3U/7252.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
 <item> 
