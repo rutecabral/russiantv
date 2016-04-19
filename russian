@@ -825,8 +825,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
 </item>
 
-
-
 <item> 
 <title>SPORT TV1</title>
 <sportsdevilhttp://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
@@ -877,6 +875,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>SPORT TV1 HD on jogo benfica e do sporting plexus arenavision10</title>
 <linkplugin://program.plexus/?url=c2d07af0ac5b2ec1f600e03cc6c4e834d64095cf&amp;mode=1&amp;name=sporttv1</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
+</item>
+
+<item>
+<title>SPORT TV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/4Bxq7CjtxR/CeBGocxN3U/7253.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
 </item>
 
 <item> 
@@ -933,6 +937,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
+<title>SPORT TV 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/4Bxq7CjtxR/CeBGocxN3U/7254.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
+</item>
+
+<item>
 <title>SPORT TV3</title>
 <sportsdevil>http://www.estadiofutebol.com/embed.php?c=sporttv3</sportsdevil>
 <referer>http://ucaster.eu/</referer>
@@ -970,9 +980,21 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
+<title>SPORT TV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/4Bxq7CjtxR/CeBGocxN3U/673.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
+</item>
+
+<item>
 <title>SPORT TV4</title>
 <linkhttp://iptvbox.noip.us:9998/live/atik/atik/823.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT TV 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/4Bxq7CjtxR/CeBGocxN3U/672.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
 </item>
 
 <item> 
@@ -1042,6 +1064,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>BENFICA TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/4Bxq7CjtxR/CeBGocxN3U/728.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png</thumbnail>
+</item>
+
+<item>
+<title>BENFICA TV 1</title>
 <sportsdevil>http://tvalgas.com/index.php/component/content/article/2-uncategorised/149-benfica-tv-1-live</sportsdevil>
 <referer>http://tvalgas.com/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
@@ -1066,6 +1094,12 @@ title: 'http://futebolpthd.blogspot.pt/',
 <sportsdevilhttp://firstrowsports.ge/?watch/408917/6/watch-xonetv.html</sportsdevil>
 <referer>http://firstrowsports.ge/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
+</item>
+
+<item>
+<title>BENFICA TV 2</title>
+<linkplugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/4Bxq7CjtxR/CeBGocxN3U/678.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png</thumbnail>
 </item>
 
 <item> 
@@ -1104,6 +1138,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png</thumbnail>
 </regex>
 </item>
+
+<item>
+<title>SPORTING TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/4Bxq7CjtxR/CeBGocxN3U/678.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportingtv.png</thumbnail>
+</item>
+
 
 <item>
 <title>SPORTING TV</title>
