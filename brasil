@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title> TV RECORD</title>
+<link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>sources.*\n.*HLS.*\n.*file: "(.*?)"</expres>
+<page>http://pxstream.tv/embed.php?file=record&referrer=http://ekostreams.co/ch/record.php&width=600&amp;height=384&amp;jwplayer=flash</page>
+<referer>http://ekostreams.co/ch/record.php</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yqpwvs1436890865.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>GLOBO MG</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/archive/5/5d/20130907234351!Redeglobo.png</thumbnail>
+</item>
+
+<item>
+<title>GLOBO SP</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/archive/5/5d/20130907234351!Redeglobo.png</thumbnail>
+</item>
+
+<item>
+<title>GLOBO INTER</title>
+<link>http://art.nextv.ca/nextv/globo/index.m3u8?token=123</link>
+<thumbnail>http://i.imgur.com/CQPOCvT.png</thumbnail>
+</item>
+
+<item>
+<title>SBT</title>
+<link>rtmp://192.99.46.182:1935/pioneira-tv/ playpath=pioneira-tv swfUrl=http://livehost.com.br/players/playerhtml/jwplayer.flash.swf?Grupo_UP_e_DOWN pageUrl=http://cidadeverde.com/aovivo.html</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rvtpxp1437610838.png</thumbnail>
+</item>
+
+<item>
+<title>BAND RJ</title>
+<link></link>
+<thumbnail>http://observatoriodatelevisao.com.br/wp-content/uploads/2015/11/Band-cancela-festa-de-final-de-ano-dos-funcion%C3%A1rios.jpg</thumbnail>
+</item>
+
+<item>
+<title>BAND HD</title>
+<link>http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/live.m3u8</link>
+<thumbnail>http://observatoriodatelevisao.com.br/wp-content/uploads/2015/11/Band-cancela-festa-de-final-de-ano-dos-funcion%C3%A1rios.jpg</thumbnail>
+</item>
+
+<item>
+<title>BAND NEWS</title>
+<link></link>
+<thumbnail>http://iptv.codigolivre.net/logos/Band-News.png</thumbnail>
+</item>
+
+<item>
+<title>REDE TV</title>
+<link>rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1</link>
+<thumbnail>Rede TV HD.png</thumbnail>
+</item>
+
+<item>
+<title>TV BRASIL</title>
+<link>http://ebcremuxlive-live.hls.adaptive.level3.net:80/manifests/ebcremuxlive-ebctvbrasil/live.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/trqtsr1436845716.png</thumbnail>
+</item>
+
+<item>
+<title>BBB BRASIL</title>
+<link></link>
+<thumbnail>http://i.imgur.com/7mIoj9N.jpg</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY CHANNEL</title>
+<link></link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
+</item>
+
+<item>
+<title>CINE SKY</title>
+<link></link>
+<thumbnail>https://macmagazine.com.br/wp-content/uploads/2011/01/12-sky_icon.png</thumbnail>
+</item>
+
+<item>
+<title>TELECINE PREMIUM</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png</thumbnail>
+</item>
+
+<item>
+<title>Filmes 24 Horas Online</title>
+<link>rtmp://206.190.132.244/tvamigos playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?texto  pageUrl=http://carolineoliveira.com.br</link>
+ <thumbnail>http://www.cineset.com.br/wp-content/uploads/2015/06/Jack-Bauer-750x350-100x70.jpg</thumbnail>
+</regex>
+<item>
+
+<item>
+<title>TELECINE PIPOCA</title>
+<link>rtmp://208.53.164.194/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/1e/TC_Pipoca.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN BRASIL</title>
+<link></link>
+<thumbnail>http://pacificrecords.com/Pacific_Records/prwp/wp-content/uploads/2015/06/espn-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>SPORTV 1</title>
+<link></link>
+<thumbnail>https://portal4.files.wordpress.com/2015/07/sportv1.jpg</thumbnail>
+</item>
+
+<item>
+<title>SPORTV 2</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/SporTV_2_logo_2011.png/640px-SporTV_2_logo_2011.png</thumbnail>
+</item>
+
+<item>
+<title>SPORTV 3</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SporTV_3_logo_2011.png/640px-SporTV_3_logo_2011.png</thumbnail>
+</item>
+
+<item>
+<title>PREMIERE SPORTS</title>
+<link></link>
+<thumbnail>premiere.png</thumbnail>
+</item>
+
+<item>
+<title>PREMIER SPORTS</title>
+<sportsdevil>http://ibrod.tv/premier.html</sportsdevil>
+<referer>http://ibrod.tv/premier.html</referer>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/premier_sports.png </thumbnail>
+</item>
+
+<item>
+<title>COMBATE</title>
+<link>http://31.204.128.112:8081/live/combate/playlist.m3u8</link>
+<thumbnail>http://www.goltvaovivo.org/wp-content/uploads/2016/01/Canal-Combate-ao-vivo.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS</title>
+<link>http://50.7.66.66:8081/loadbalance/slv7/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/archive/d/dd/20160220233658!Fox_Sports_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>TV ALL SPORTS</title>
+<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</link>
+<thumbnail>http://i.imgur.com/H4X2xiN.png</thumbnail>
+</item>
+
+<item>
+<title>TV CULTURA</title>
+<link>http://cdn-br-002938543.comets.com.br/tvbaiana/aovivo/chunklist_w1472016693.m3u8</link>
+<thumbnail>http://goo.gl/DqozbW</thumbnail>
+</item>
+
+<item>
+<title>TV DIARIO</title>
+<link>http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8</link>
+<thumbnail>http://www.zoomdigital.com.br/wp-content/uploads/2009/05/tv-diario1.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVE RS</title>
+<link>rtmp://s5.procergs.com.br/tve/stve</link>
+<thumbnail>http://lh3.ggpht.com/_BE1ve69WSu0/TVf39goZRqI/AAAAAAAACNI/giVAMpghlfQ/TVE-RS_TVBrasil.png</thumbnail>
+</item>
+
+<item>
+<title>E-PARANÁ</title>
+<link>http://200.189.113.201/hls/tve.m3u8</link>
+<thumbnail>http://blog.euvoupassar.com.br/wp-content/uploads/2016/02/e-parana.jpg</thumbnail>
+</item>
+
+<item>
+<title>HORSE BRASIL CHANNEL</title>
+<link>http://570230807.e.849169298.r.idglobalcdn.net:80/849169298/horsebrasil/live.m3u8</link>
+<thumbnail>http://i.imgur.com/ntp3bp3.jpg</thumbnail>
+</item>
+
+<item>
+<title>MIX TV</title>
+<link>http://xmixtvbrx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://original.livestream.com/filestore/logos/50acb4d2-23d6-52eb-28eb-084b12c40ae6-banner.jpg</thumbnail>
+</item>
+
+<item>
+<title>CARTOON NETWORK</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>CHEF TV</title>
+<link>http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8</link>
+<thumbnail>http://i.imgur.com/y1vpVof.png</thumbnail>
+</item>
+
+<item>
+<title>TV URBANA</title>
+<link>http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-64eRW20AUJI/UZKh8SJ4IYI/AAAAAAAAAAQ/CunZWTYbMBQ/s1600/BanneTVU.png</thumbnail>
+</item>
+
+<item>
+<title>TV PONTA NEGRA NEWS</title>
+<link></link>
+<thumbnail>http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/TV_Ponta_Negra_Natal_ao_Vivo_Online_e_Gr%C3%A1tis.jpg</thumbnail>
+</item>
+
+<item>
+<title>CANAL DO BOI</title>
+<link>http://srvvenus.canaldoboi.com.br:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail>http://www.sba1.com/wp-content/uploads/2013/04/7-canais-canaldoboi.jpg</thumbnail>
+</item>
