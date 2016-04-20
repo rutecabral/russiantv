@@ -4111,39 +4111,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>CANAL LIGA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/1042.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>WDR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2393.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SKY KRIMI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2389.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>SKY DISNEY CINEMATIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2392.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>TNT SERIE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2780.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail></thumbnail>
-</item>
-
-<item>
-<title>TNT FILM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2781.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg</thumbnail>
 </item>
 
 <item>
@@ -4178,54 +4148,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>sky bundesliga 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2411.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>sky bundesliga 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2418.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>sky bundesliga 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2417.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>sky bundesliga 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2416.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>sky bundesliga 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2415.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>sky bundesliga 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2414.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>sky bundesliga 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2413.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>sky bundesliga 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2412.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>pro 7 max</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2396.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail></thumbnail>
@@ -4244,11 +4166,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>sky comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/980.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>sky cinema 24</title>
@@ -4259,12 +4176,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>sky cinema 1</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/984.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>sky movies 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/2061.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail></thumbnail>
 </item>
 
