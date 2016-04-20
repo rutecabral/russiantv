@@ -246,6 +246,31 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
+<title>MOV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/chucuchumm/satlover.com/408.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.nos.pt/particulares/televisao/canais/PublishingImages/mov/medium_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>CINEMUNDO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/507.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.magazine-hd.com/apps/wp/wp-content/uploads/2015/08/Cinemundo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>A & E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/chucuchumm/satlover.com/411.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.meiosepublicidade.pt/wp-content/uploads/2014/09/unnamed.png</thumbnail>
+</item>
+
+<item>
+<title>SYFY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1412.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.adweek.com/files/imagecache/node-blog/sa_article/syfy-logo-484_0.jpg</thumbnail>
+</item>
+
+<item>
 <title>AXN</title>
 <sportsdevilhttp://www.estadiofutebol.com/embed.php?c=axn</sportsdevil>
 <referer>http://ucaster.eu/</referer>
@@ -394,32 +419,11 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 
 <item>
-<title>PLAYBOY</title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>HOT</title>
-<link></link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.embedezcast.com/embedplayer/regopleudo/1/599/399</page>
-<referer>http://www.embedezcast.com</referer>
-<thumbnail>http://www.acordacidade.com.br/fotos/p/69628-3.jpg</thumbnail>
-</item>
-
-<item>
 <title>ANIMAL PLANET</title>
 <link>http://over.ddns.net:65210/</link>
 <thumbnail>http://latino-webtv.com/iptv/logos/animal%20planet.png</thumbnail>
 </item>
+
 <item>
 <title>RT DECUMENTARY</title>
 <link>http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8</link>
@@ -438,17 +442,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 <thumbnail>http://pbs.twimg.com/media/B_UIzFXWwAAmv-m.jpg</thumbnail>
 </item>
 
-<item>
-<title>Canal + Toros</title>
-<link></link>
-<thumbnail>http://pbs.twimg.com/media/B_UIzFXWwAAmv-m.jpg</thumbnail>
-</item>
-
-<item>
-<title>Caza y Pesca</title> 
-<link></link>
-<thumbnail>http://3.bp.blogspot.com/-HOTGqsd4B90/VWeORz7ELLI/AAAAAAAAEDA/BuUBzhFSyU0/s320/logocaza.jpg</thumbnail>
-</item>
 
 <item>
 <title>DISCOVERY</title>
