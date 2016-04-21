@@ -657,7 +657,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <channels>
 <channel>
 <name>[COLOR turquoise] [I]CANAIS DESPORTO PLEXUS E P2P[/I] [/COLOR] </name>
-<thumbnail>http://descargarmp3.top/image/plexus-p2p-streams-kodi-addon-sopcast-acestream-iptv-how-to-tutorial.png</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/FUCtgye5ngg/hqdefault.jpg</thumbnail>
 </subitem>
 </item>
 
@@ -665,7 +665,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 <title>[COLOR red][B][I]CLICA AQUI PARA VER DESPORTO EM DIRECTO HD[/I][/B][/COLOR] [COLOR yellow] (P2P PLEXUS)[/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.p2p-streams/?mode=401&amp;name=[B][COLOR red]Agenda/Schedule[/COLOR]&amp;parser=arenavision&amp;parserfunction=arenavision_schedule&amp;url=http://www.arenavision.in/agenda</jsonrpc>
-<thumbnail>http://billionbytes.es/wp-content/uploads/2015/03/p2p.gif</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/FUCtgye5ngg/hqdefault.jpg</thumbnail>
 </item>
 
 <channels>
