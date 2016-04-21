@@ -1157,7 +1157,7 @@
 
  
 <item>
-<title>[COLOR lightblue]Sky Sports 1[/COLOR]</title>
+<title>Sky Sports 1</title>
 <link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
@@ -1186,7 +1186,7 @@
  
   
 <item>
-<title>[COLOR lightblue]Sky Sports 2[/COLOR]</title>
+<title>Sky Sports 2</title>
 <link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
@@ -1212,7 +1212,7 @@
  
  
  <item>
-<title>[COLOR lightblue]Sky Sports 3[/COLOR]</title>
+<title>Sky Sports 3</title>
 <link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
@@ -1238,7 +1238,7 @@
  
  
   <item>
-<title>[COLOR lightblue]Sky Sports 4[/COLOR]</title>
+<title>Sky Sports 4</title>
 <link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
@@ -1264,7 +1264,7 @@
  
  
   <item>
-<title>[COLOR lightblue]Sky Sports 5[/COLOR]</title>
+<title>Sky Sports 5</title>
 <link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
