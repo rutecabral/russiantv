@@ -470,3 +470,9 @@
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/bk8/bk8/1089.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail></thumbnail>
 </item>
+
+<item>
+<title>DISCOVERY ID</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdn-03.v-sr.net/gpl/z050569/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail></thumbnail>
+</item>
