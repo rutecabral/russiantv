@@ -24,6 +24,20 @@
 <thumbnail>http://static8.comicvine.com/uploads/original/0/77/411717-DISNEY+LOGO+COLOR.jpg</thumbnail>
 </item>
 
+<item>
+<title>BABY TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/puff/1234/695.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://lh6.ggpht.com/cI4bRIUttwYh3Evu0aRNjurWbXrqZ32JD5t2wuf_lbWnIPjP3wN81QI4F8_sVGC7piWX=w300</thumbnail>
+</item>
+
+http://PV3.fretnow.net:7040/live/sami2/sami2/7995.m3u8
+
+<item>
+<title>NICKELODEON HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/puff/1234/695.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://pixelatedpop.com/sites/default/files/u3/(Nick)NickShows.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>Episodios Dartacao</title>
