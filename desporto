@@ -82,7 +82,7 @@
 
 <item>
 <title>SPORT TV 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://PV3.fretnow.net:7040/live/sami2/sami2/7975.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/503.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
 </item>
 
@@ -141,7 +141,7 @@
 
 <item>
 <title>SPORT TV 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://PV3.fretnow.net:7040/live/sami2/sami2/7974.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1135.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
 </item>
 
@@ -184,7 +184,7 @@
 
 <item>
 <title>SPORT TV 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://PV3.fretnow.net:7040/live/sami2/sami2/7973.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1136.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
 </item>
 
@@ -196,7 +196,7 @@
 
 <item>
 <title>SPORT TV 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://PV3.fretnow.net:7040/live/sami2/sami2/7972.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1137.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
 </item>
 
@@ -852,8 +852,25 @@
 <thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
 <fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
   </item>
+  
+  
+  <item>
+<title>CANAL+ FUTBOL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/793.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.ytimg.com/vi/B2PrZn-SI7c/maxresdefault.jpg</thumbnail>
+</item>
 
+<item>
+<title>CANAL+ LIGA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/795.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.abonateadigitalplus.es/canal-plus-liga1.jpg</thumbnail>
+</item>
 
+<item>
+<title>CANAL+ SPORT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/205.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</thumbnail>
+</item>
 
 
 
