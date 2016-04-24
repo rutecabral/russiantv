@@ -762,23 +762,6 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <channels>
 <channel>
-<name>[COLOR turquoise] [I]DESENHOS ANIMADOS PARA A PEQUENADA 24/7[/I] [/COLOR] </name>
-<thumbnail>http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados.jpg</thumbnail>
-</subitem>
-</item>
-
-
-
-<item>
-<title>[COLOR red] [I]DESENHOS ANIMADOS[/I] [/COLOR] </title>
-<link>http://ignorame</link>
-<thumbnail>http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/desenhos</externallink>
-</item>
-
-
-<channels>
-<channel>
 <name>[COLOR turquoise] [I]DESPORTO[/I] [/COLOR] </name>
 <thumbnail>http://www.marcoensefm.com/wp-content/uploads/2013/06/Logo-Desporto.jpg</thumbnail>
 </subitem>
@@ -836,6 +819,23 @@ title: 'http://futebolpthd.blogspot.pt/',
 <fanart>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</fanart>
         </item>
 
+
+
+<channels>
+<channel>
+<name>[COLOR turquoise] [I]DESENHOS ANIMADOS PARA A PEQUENADA 24/7[/I] [/COLOR] </name>
+<thumbnail>http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados.jpg</thumbnail>
+</subitem>
+</item>
+
+
+
+<item>
+<title>[COLOR red] [I]DESENHOS ANIMADOS[/I] [/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/desenhos</externallink>
+</item>
 
 
 
