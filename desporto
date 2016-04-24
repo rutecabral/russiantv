@@ -82,7 +82,7 @@
 
 <item>
 <title>SPORT TV 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/503.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://PV3.fretnow.net:7040/live/sami2/sami2/7975.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
 </item>
 
@@ -141,7 +141,7 @@
 
 <item>
 <title>SPORT TV 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1135.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://PV3.fretnow.net:7040/live/sami2/sami2/7974.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
 </item>
 
@@ -184,7 +184,7 @@
 
 <item>
 <title>SPORT TV 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1136.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://PV3.fretnow.net:7040/live/sami2/sami2/7973.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
 </item>
 
@@ -196,7 +196,7 @@
 
 <item>
 <title>SPORT TV 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1137.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://PV3.fretnow.net:7040/live/sami2/sami2/7972.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
 </item>
 
@@ -266,7 +266,7 @@
 </item>
 
 <item>
-<title>BENFICA TV 1</title>
+<title>BENFICA TV 1 HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.temnet.pt:8000/live/gustavo/gustavo1/81.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png</thumbnail>
 </item>
@@ -300,7 +300,7 @@
 </item>
 
 <item>
-<title>BENFICA TV 2</title>
+<title>BENFICA TV 2 HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/meer/meer/1285.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png</thumbnail>
 </item>
@@ -343,8 +343,8 @@
 </item>
 
 <item>
-<title>SPORTING TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1141.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>SPORTING TV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://PV3.fretnow.net:7040/live/sami2/sami2/7976.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportingtv.png</thumbnail>
 </item>
 
@@ -379,13 +379,13 @@
 
 <item>
 <title>MOVISTAR MOTOGP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/765.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://PV3.fretnow.net:7040/live/sami2/sami2/7778.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://pbs.twimg.com/profile_images/692019514947534848/QKheiBW_.png</thumbnail>
 </item>
 
 <item>
 <title>MOVISTAR F1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/803.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://PV3.fretnow.net:7040/live/sami2/sami2/7774.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://pbs.twimg.com/profile_images/692019245853626369/83lEs7Vo.png</thumbnail>
 </item>
 
