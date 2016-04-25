@@ -126,7 +126,7 @@ http://PV3.fretnow.net:7040/live/sami2/sami2/7966.ts
 
 <item>
 <title>SPORTV 1</title>
-<link></link>
+<link>http://213.163.65.9:8081/live/sportvx/playlist.m3u8</link>
 <thumbnail>https://portal4.files.wordpress.com/2015/07/sportv1.jpg</thumbnail>
 </item>
 
@@ -157,7 +157,7 @@ http://PV3.fretnow.net:7040/live/sami2/sami2/7966.ts
 
 <item>
 <title>COMBATE</title>
-<link>http://31.204.128.112:8081/live/combate/playlist.m3u8</link>
+<link>http://213.163.65.116:8081/live/combate/playlist.m3u8</link>
 <thumbnail>http://www.goltvaovivo.org/wp-content/uploads/2016/01/Canal-Combate-ao-vivo.png</thumbnail>
 </item>
 
