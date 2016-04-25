@@ -2,18 +2,6 @@
 
 
 <item>
-<title> TV RECORD</title>
-<link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
-<regex>
-<name>file</name>
-<expres>sources.*\n.*HLS.*\n.*file: "(.*?)"</expres>
-<page>http://pxstream.tv/embed.php?file=record&referrer=http://ekostreams.co/ch/record.php&width=600&amp;height=384&amp;jwplayer=flash</page>
-<referer>http://ekostreams.co/ch/record.php</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yqpwvs1436890865.png</thumbnail>
-</regex>
-</item>
-
-<item>
 <title>RECORD HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://37.59.14.193:8000/live/rica/rica/56.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yqpwvs1436890865.png</thumbnail>
@@ -30,8 +18,7 @@
 
 <item>
 <title>GLOBO</title>
-<link>http://213.163.65.116:8081/live/sptv/playlist.m3u8
-</link>
+<link>http://213.163.65.116:8081/live/sptv/playlist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/archive/5/5d/20130907234351!Redeglobo.png</thumbnail>
 </item>
 
