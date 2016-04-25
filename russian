@@ -23,6 +23,9 @@
 </item>
 
 
+<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/tematicos</externallink>
+
+
 <channels>
 <channel>
 <name>[COLOR turquoise] [I]DESPORTO[/I] [/COLOR] </name>
@@ -54,6 +57,10 @@
 <thumbnail>http://www.rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg</thumbnail>
 </item>
 
+<jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
+
+
+
 <channels>
 <channel>
 <name>[COLOR turquoise] [I]CANAIS DESPORTO PLEXUS E P2P[/I] [/COLOR] </name>
@@ -67,6 +74,11 @@
 <link>plugin://plugin.video.youtube/play/?video_id=KjN0BoDO_Sw</link>
 <thumbnail>https://i.ytimg.com/vi/FUCtgye5ngg/hqdefault.jpg</thumbnail>
 </item>
+
+<jsonrpc>plugin://plugin.video.p2p-streams/?mode=401&amp;name=[B][COLOR red]Agenda/Schedule[/COLOR]&amp;parser=arenavision&amp;parserfunction=arenavision_schedule&amp;url=http://www.arenavision.in/agenda</jsonrpc>
+
+
+
 
 <channels>
 <channel>
@@ -82,6 +94,10 @@
 <thumbnail>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</thumbnail>
 <fanart>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</fanart>
         </item>
+
+
+
+ <externallink>http://pastebin.com/raw.php?i=Kpq8VM6V</externallink>
 
 
 
@@ -119,6 +135,11 @@
 </item>
 
 
+<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/brasil</externallink>
+
+
+
+
 <channels>
 <channel>
 <name>[COLOR turquoise] [I]SPAIN CHANNELS E LATINOS[/I] [/COLOR] </name>
@@ -132,6 +153,10 @@
 <thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
 <link>plugin://plugin.video.youtube/play/?video_id=KjN0BoDO_Sw</link>
 </item>
+
+
+<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/espanha%20mexico</externallink>
+
 
 
 
@@ -186,6 +211,9 @@
 <link>plugin://plugin.video.youtube/play/?video_id=KjN0BoDO_Sw</link>
 </item>
 
+<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/italia</externallink>
+
+
 
 <channels>
 <channel>
@@ -203,6 +231,7 @@
 </item>
 
 
+<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/franca</externallink>
 
 
 
@@ -221,6 +250,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=KjN0BoDO_Sw</link>
 </item>
 
+<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/uk</externallink>
 
 
 
@@ -240,6 +270,9 @@
 </item>
 
 
+<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/germany</externallink>
+
+
 
 <channels>
 <channel>
@@ -257,6 +290,9 @@
 </item>
 
 
+<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/music</externallink>
+
+
 
 <channels>
 <channel>
@@ -272,6 +308,9 @@
 <thumbnail>http://5.fotos.web.sapo.io/i/Bea14fc51/17482063_qtzqu.jpeg</thumbnail>
 <link>plugin://plugin.video.youtube/play/?video_id=KjN0BoDO_Sw</link>
 </item>
+
+
+<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/mais%2018</externallink>
 
 
 
