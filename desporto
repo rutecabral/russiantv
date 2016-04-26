@@ -9,33 +9,22 @@
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
+
 <item> 
 <title>SPORT TV 1</title>
 <sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
-<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
-</item>
-
-<item>
-<title>SPORT TV 1</title>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
-<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
-</item>
-
-<item>
-<title>SPORT TV 1</title>
-<sportsdevilhttp://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
+<sportsdevil>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<sportsdevil>http://www.stream2watch.co/streams/100389/1</sportsdevil>
+<referer>http://www.stream2watch.co/streams/100389/1</referer>
+<sportsdevil>http://www.stream2watch.co/streams/25659/3</sportsdevil>
+<referer>http://www.stream2watch.co/streams/25659/3</referer>
 <thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
 </item>
 
-<item> 
-<title>SPORT TV1</title>
-<sportsdevilhttp://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
-<referer>http://www.sporttvsonline.com</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxmovies.pnghttps://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv1.png</thumbnail>
-</item>
 
 <item>
 <title>SPORT TV 1</title>
@@ -88,19 +77,17 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
 </item>
 
-<item> 
+<item>
 <title>SPORT TV 2</title>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv2</sportsdevil>
-<referer>http://www.sporttvsonline.com</referer>
+<sportsdevil>http://cdn2.zuuk.org/sporttv2.php?width=599&height=399</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv2</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<sportsdevil>http://www.idimsports.eu/watch/408917/2/watch-xonetv.html</sportsdevil>
+<referer>http://www.idimsports.eu/watch/408917/2/watch-xonetv.html</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
 </item>
 
-<item>
-<title>SPORT TV 2</title>
-<sportsdevil>http://www.estadiofutebol.com/embed.php?c=sporttv2</sportsdevil>
-<referer>http://ezcast.tv/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
-</item>
 
 <item>
 <title>SPORT TV 2</title>
@@ -135,11 +122,6 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
 </item>
 
-<item>   
-<title>SPORT TV2 [COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>                      
-<linkplugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10481.acelive&amp;mode=1&amp;name=Sport TV 2</link>                                
-<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
-</item>
 
 <item>
 <title>SPORT TV 3 HD</title>
@@ -148,18 +130,16 @@
 </item>
 
 <item>
-<title>SPORT TV3</title>
-<sportsdevil>http://www.estadiofutebol.com/embed.php?c=sporttv3</sportsdevil>
-<referer>http://ucaster.eu/</referer>
+<title>SPORT TV 3</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv3</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<sportsdevil>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</sportsdevil>
+<referer>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</referer>
+<sportsdevil>http://cdn2.zuuk.org/sporttv3.php</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
 </item>
 
-<item> 
-<title>SPORT TV 3</title>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv3</sportsdevil>
-<referer>http://www.sporttvsonline.com</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
-</item>
 
 <item>
 <title>SPORT TV3</title>
@@ -191,10 +171,16 @@
 </item>
 
 <item>
-<title>SPORT TV4</title>
-<linkhttp://iptvbox.noip.us:9998/live/atik/atik/823.m3u8</link>
+<title>SPORT TV 4</title>
+<sportsdevil>http://cdn2.zuuk.org/sporttv4.php</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv4</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv4-2</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
 </item>
+
 
 <item>
 <title>SPORT TV 5 HD</title>
@@ -202,38 +188,19 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
 </item>
 
-<item> 
-<title>SPORT TV 5</title>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv4</sportsdevil>
-<referer>http://www.sporttvsonline.com</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
-</item>
 
 <item>
-<title>SPORT TV 5</title>
-<sportsdevil>http://www.estadiofutebol.com/embed.php?c=sporttv5</sportsdevil>
-<referer>http://www.estadiofutebol.com</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
+<title>SPORT TV 5</title
+<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv5</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<sportsdevil>http://www.idimsports.eu/watch/408917/5/watch-xonetv.html</sportsdevil>
+<referer>http://www.idimsports.eu/watch/408917/5/watch-xonetv.html</referer>
+<sportsdevil>http://cdn2.zuuk.org/sporttv5.php</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
 
-<item>
-<title>SPORT TV5</title>
-<linkhttp://iptvbox.noip.us:9998/live/atik/atik/824.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
-</item>
 
-<item> 
-<title>SPORT TV5</title>
-<sportsdevilhttp://www.sporttvsonline.com/index.php?canal=sporttv5</sportsdevil>
-<referer>http://www.sporttvsonline.com/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png</thumbnail>
-</item>
-
-<item>
-<title>BENFICA TV1 HD</title>
-<link></link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png</thumbnail>
-</item>
 
 <item>
 <title>BT TV1</title>
@@ -267,39 +234,23 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png</thumbnail>
 </item>
 
-<item>
-<title>BENFICA TV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png</thumbnail>
-</item>
 
 <item>
-<title>BENFICA TV 1</title>
-<sportsdevil>http://tvalgas.com/index.php/component/content/article/2-uncategorised/149-benfica-tv-1-live</sportsdevil>
-<referer>http://tvalgas.com/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
-</item>
-
-<item>
-<title>BENFICA TV 1</title>
-<sportsdevilhttp://reformadostv.comunidades.net/index.php</sportsdevil>
-<referer>http://www.tvportugalhd.eu/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
-</item>
-
-<item> 
 <title>BENFICA TV 1</title>
 <sportsdevil>http://antena.mytvfree2.me/btv1.php</sportsdevil>
 <referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
+<sportsdevil>http://reformadostv.comunidades.net/index.php</sportsdevil>
+<referer>http://reformadostv.comunidades.net/index.php</referer>
+<sportsdevil>http://www.desportonline.com/index.php?canal=benficatv</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<sportsdevil>http://www.thefeed2all.eu/watch/408917/6/watch-xonetv.html</sportsdevil>
+<referer>http://www.thefeed2all.eu/watch/408917/6/watch-xonetv.html</referer>
+<sportsdevil>http://cdn2.zuuk.org/benficatv.php</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png</thumbnail>
 </item>
 
-<item>  
-<title>BENFICA TV 1</title>
-<sportsdevilhttp://firstrowsports.ge/?watch/408917/6/watch-xonetv.html</sportsdevil>
-<referer>http://firstrowsports.ge/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
-</item>
+
 
 <item>
 <title>BENFICA TV 2 HD</title>
@@ -308,23 +259,14 @@
 </item>
 
 <item> 
-<title>BENFICA TV2</title>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=benficatv-2</sportsdevil>
-<referer>http://www.sporttvsonline.com</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png</thumbnail>
-</item>
-
-<item>
-<title>BENFICA TV2 HD</title>
-<link></link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png</thumbnail>
-</item>
-
-<item>
 <title>BENFICA TV 2</title>
-<sportsdevil>http://tvalgas.com/index.php/component/content/article/2-uncategorised/150-benfica-tv-2-live</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv2.png</thumbnail>
+<sportsdevil>http://www.desportonline.com/index.php?canal=benficatv</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<sportsdevil>http://www.thefeed2all.eu/watch/408917/7/watch-xonetv.html</sportsdevil>
+<referer>http://www.thefeed2all.eu/watch/408917/7/watch-xonetv.html</referer>
+<sportsdevil>http://cdn2.zuuk.org/benficatv_2.php</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv2_ver1.png</thumbnail>
 </item>
 
 <item>
