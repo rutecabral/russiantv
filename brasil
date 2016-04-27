@@ -3,7 +3,7 @@
 
 <item>
 <title>RECORD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://37.59.14.193:8000/live/rica/rica/56.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://goo.gl/TVmEOX&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yqpwvs1436890865.png</thumbnail>
 </item>
 
@@ -18,9 +18,10 @@
 
 <item>
 <title>GLOBO</title>
-<link>http://213.163.65.116:8081/live/sptv/playlist.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://goo.gl/io2l4G&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/archive/5/5d/20130907234351!Redeglobo.png</thumbnail>
 </item>
+
 
 <item>
 <title>GLOBO RJ</title>
@@ -29,17 +30,6 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/archive/5/5d/20130907234351!Redeglobo.png</thumbnail>
 </item>
 
-<item>
-<title>GLOBO INTER</title>
-<link>http://art.nextv.ca/nextv/globo/index.m3u8?token=123</link>
-<thumbnail>http://i.imgur.com/CQPOCvT.png</thumbnail>
-</item>
-
-<item>
-<title>GLOBO HD</title>
-<linkplugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/hEOx3tNwMy/knEp8RXjV0/706.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/CQPOCvT.png</thumbnail>
-</item>
 
 <item>
 <title>SBT</title>
