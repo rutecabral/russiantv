@@ -63,6 +63,13 @@
 <fanart></fanart>
 </item>
 
+
+<item>
+<title>PRO 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1UiHJvi&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail></thumbnail>
+</item>
+
   <item>
  <title>Das Neue TV</title>
  <link>http://lb.hd-livestream.de/live/DasneueTV/chunklist_w1995293930.m3u8</link>
@@ -76,6 +83,26 @@
  <link>http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w1422058425.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>13TH STREET</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1SRNwc7&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>DISNEY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1YV6JaY&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>DISNEY JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1NC5eOl&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail></thumbnail>
 </item>
 
 
@@ -181,6 +208,26 @@
  <link>http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/SAT_TOTAL.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</item>
+
+
+<item>
+<title>SKY SPORTS 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1NBRkf6&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail></thumbnail>
+</item>
+ 
+
+<item>
+<title>SKY SPORTS 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1TxUgJ1&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY BUNDESLIGA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1WsgqPj&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail></thumbnail>
 </item>
 
  <item>
