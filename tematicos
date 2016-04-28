@@ -179,7 +179,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>SIC MULHER HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/YD3j78WS5Y/NMolyh50Yy/666.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<linkplugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/YD3j78WS5Y/NMolyh50Yy/666.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
 </item>
 
@@ -218,14 +218,14 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>TVI REALITY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/MasterDiggi/satlover.com/459.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<linkplugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/MasterDiggi/satlover.com/459.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png</thumbnail>
 </item>
 
 
 <item>
 <title>TVI REALITY</title>
-<sportsdevilhttp://tvalgas.com/index.php/component/content/article/2-uncategorised/152-tvi-reality-live</sportsdevil>
+<sportsdevil>http://tvalgas.com/index.php/component/content/article/2-uncategorised/152-tvi-reality-live</sportsdevil>
 <referer>http://tvalgas.com</referer>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png</thumbnail>
 </item>
@@ -292,7 +292,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>CINEMUNDO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/507.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<linkplugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/507.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.magazine-hd.com/apps/wp/wp-content/uploads/2015/08/Cinemundo.jpg</thumbnail>
 </item>
 
@@ -471,7 +471,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>FOX LIFE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://37.59.14.193:8000/live/rica/rica/44.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<linkplugin://plugin.video.f4mTester/?url=http://37.59.14.193:8000/live/rica/rica/44.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png</thumbnail>
 </item>
 
@@ -561,7 +561,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>DISCOVERY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/MasterDiggi/satlover.com/466.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<linkplugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/MasterDiggi/satlover.com/466.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
 </item>
 
@@ -584,13 +584,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>HISTORIA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1183.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<linkplugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1183.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 </item>
 
 <item>
 <title>NAT GEO</title>
-<sportsdevilhttp://www.estadiofutebol.com/embed.php?c=nationalgeographic</sportsdevil>
+<sportsdevil>http://www.estadiofutebol.com/embed.php?c=nationalgeographic</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/spurwy1433945957.png</thumbnail>
 </item>
@@ -614,7 +614,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>NAT GEO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1184.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<linkplugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1184.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/spurwy1433945957.png</thumbnail>
 </item>
 
@@ -696,7 +696,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>A BOLA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://PV3.fretnow.net:7040/live/sami2/sami2/9345.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<linkplugin://plugin.video.f4mTester/?url=http://PV3.fretnow.net:7040/live/sami2/sami2/9345.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </item>
 
