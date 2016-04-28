@@ -11,6 +11,7 @@
 <channel>
 <name>[COLOR turquoise] [I]PORTUGUESES[/I] [/COLOR] </name>
 <thumbnail>http://4.bp.blogspot.com/-BMyCsibtcAI/U0SW523TyQI/AAAAAAAAQAE/tiYh2kTG-yE/s1600/Tuga_Troll.png</thumbnail>
+<fanart>http://resources.touropia.com/gfx/d/best-places-to-visit-in-portugal/lisbon.jpg</fanart>
 </subitem>
 </item>
 
@@ -19,14 +20,19 @@
 <title>[COLOR turquoise] [I]PORTUGUESES[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://4.bp.blogspot.com/-BMyCsibtcAI/U0SW523TyQI/AAAAAAAAQAE/tiYh2kTG-yE/s1600/Tuga_Troll.png</thumbnail>
+<fanart>http://resources.touropia.com/gfx/d/best-places-to-visit-in-portugal/lisbon.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/tematicos</externallink>
 </item>
+
+
+
 
 
 <channels>
 <channel>
 <name>[COLOR turquoise] [I]DESPORTO[/I] [/COLOR] </name>
 <thumbnail>http://www.marcoensefm.com/wp-content/uploads/2013/06/Logo-Desporto.jpg</thumbnail>
+<fanart>http://orig09.deviantart.net/69f7/f/2015/257/d/f/champions_league_wallpaper_2015_by_jafarjeef-d99l62c.jpg</fanart>
 </subitem>
 </item>
 
@@ -35,14 +41,17 @@
 <title>[COLOR red] [I]DESPORTO[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://www.marcoensefm.com/wp-content/uploads/2013/06/Logo-Desporto.jpg</thumbnail>
+<fanart>http://orig09.deviantart.net/69f7/f/2015/257/d/f/champions_league_wallpaper_2015_by_jafarjeef-d99l62c.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/desporto</externallink>
 </item>
+
 
 
 <channels>
 <channel>
 <name>[COLOR turquoise] [I]CANAIS DESPORTO PLEXUS[/I] [/COLOR] </name>
-<thumbnail>http://descargarmp3.top/image/plexus-p2p-streams-kodi-addon-sopcast-acestream-iptv-how-to-tutorial.png</thumbnail>
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2015/10/rsz_plexus_addon_plugin_xbmc_kodi.png</thumbnail>
+<fanart>http://www.plexusworldwide.com/img/logo.png</fanart>
 </subitem>
 </item>
 
@@ -50,13 +59,19 @@
 <title>[COLOR red][B][I]CLICA AQUI PARA VER DESPORTO EM DIRECTO HD[/I][/B][/COLOR] [COLOR yellow] ( PLEXUS)[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
-<thumbnail>http://www.rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg</thumbnail>
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2015/10/rsz_plexus_addon_plugin_xbmc_kodi.png</thumbnail>
+<fanart>http://www.plexusworldwide.com/img/logo.png</fanart>
 </item>
+
+
+
+
 
 <channels>
 <channel>
 <name>[COLOR turquoise] [I]CANAIS DESPORTO PLEXUS E P2P[/I] [/COLOR] </name>
 <thumbnail>https://i.ytimg.com/vi/FUCtgye5ngg/hqdefault.jpg</thumbnail>
+<fanart>http://comparatifs-vpn.net/wp-content/uploads/2015/04/meilleur-vpn-P2P.jpg</fanart>
 </subitem>
 </item>
 
@@ -65,12 +80,18 @@
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.p2p-streams/?mode=401&amp;name=[B][COLOR red]Agenda/Schedule[/COLOR]&amp;parser=arenavision&amp;parserfunction=arenavision_schedule&amp;url=http://www.arenavision.in/agenda</jsonrpc>
 <thumbnail>https://i.ytimg.com/vi/FUCtgye5ngg/hqdefault.jpg</thumbnail>
+<fanart>http://comparatifs-vpn.net/wp-content/uploads/2015/04/meilleur-vpn-P2P.jpg</fanart>
 </item>
+
+
+
+
 
 <channels>
 <channel>
 <name>[COLOR turquoise] [I]ROJA DIRETA DESPORTO[/I] [/COLOR] </name>
 <thumbnail>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/2106839637/logorojadirecta_400x400.jpg</fanart>
 </subitem>
 </item>
 
@@ -78,9 +99,13 @@
         <title>[COLOR red]ROJA DIRETA CLICA AQUI PINCHA[/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>http://pastebin.com/raw.php?i=Kpq8VM6V</externallink>
-<thumbnail>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</thumbnail>
-<fanart>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</fanart>
+        <thumbnail>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</thumbnail>
+        <fanart>https://pbs.twimg.com/profile_images/2106839637/logorojadirecta_400x400.jpg</fanart>
         </item>
+
+
+
+
 
 
 
@@ -88,6 +113,7 @@
 <channel>
 <name>[COLOR turquoise] [I]DESENHOS ANIMADOS PARA A PEQUENADA 24/7[/I] [/COLOR] </name>
 <thumbnail>http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados.jpg</thumbnail>
+<fanart>https://lh6.googleusercontent.com/-QTQ9XwHBN7Q/VIYk-QCym0I/AAAAAAAAZeI/Fm63e8yJ_kM/s800/desenhos00.jpg</fanart>
 </subitem>
 </item>
 
@@ -97,6 +123,7 @@
 <title>[COLOR red] [I]DESENHOS ANIMADOS[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados.jpg</thumbnail>
+<fanart>https://lh6.googleusercontent.com/-QTQ9XwHBN7Q/VIYk-QCym0I/AAAAAAAAZeI/Fm63e8yJ_kM/s800/desenhos00.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/desenhos</externallink>
 </item>
 
@@ -106,6 +133,7 @@
 <channel>
 <name>[COLOR turquoise] [I]BRASIL CHANNELS[/I] [/COLOR] </name>
 <thumbnail>http://memeburn.com/wp-content/uploads/brazil-e1328192831309.jpg</thumbnail>
+<fanart>http://www.modelo-curriculum.com/wp-content/uploads/2013/02/Rio-de-Janeiro.jpg</fanart>
 </subitem>
 </item>
 
@@ -114,14 +142,21 @@
 <title>[COLOR red] [I]BRASIL[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://memeburn.com/wp-content/uploads/brazil-e1328192831309.jpg</thumbnail>
+<fanart>http://www.modelo-curriculum.com/wp-content/uploads/2013/02/Rio-de-Janeiro.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/brasil</externallink>
 </item>
+
+
+
+
+
 
 
 <channels>
 <channel>
 <name>[COLOR turquoise] [I]SPAIN CHANNELS E LATINOS[/I] [/COLOR] </name>
 <thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
+<fanart>http://www.ctvnews.ca/polopoly_fs/1.994441.1413282156!/httpImage/image.jpeg_gen/derivatives/landscape_620/image.jpeg</fanart>
 </subitem>
 </item>
 
@@ -129,8 +164,13 @@
 <title>[COLOR red] [I]SPAIN CHANNELS E LATINOS[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
+<fanart>http://www.ctvnews.ca/polopoly_fs/1.994441.1413282156!/httpImage/image.jpeg_gen/derivatives/landscape_620/image.jpeg</fanart>
 <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/espanha%20mexico</externallink>
 </item>
+
+
+
+
 
 
 
@@ -138,6 +178,7 @@
 <channel>
 <name>[COLOR turquoise] [I]PELICULAS (ESP)[/I] [/COLOR] </name>
 <thumbnail>http://www.dosbit.com/images/2014/12/diez-alternativas-a-peliculas-yonkis-01.jpg</thumbnail>
+<fanart>http://im.ziffdavisinternational.com/ign_es/screenshot/default/movies610_h6wk.jpg</fanart>
 </subitem>
 </item>
 
@@ -146,7 +187,7 @@
     <title>PELICULAS SPAIN</title>
     <link>http://Ignoreme</link>
     <thumbnail>http://i.imgur.com/xu57ulK.png</thumbnail>
-    <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+    <fanart>http://im.ziffdavisinternational.com/ign_es/screenshot/default/movies610_h6wk.jpg</fanart>
     <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/peliculas</externallink> 
     </item>
     
@@ -155,6 +196,7 @@
 <channel>
 <name>[COLOR turquoise] [I]PELICULAS INFANTILES (ESP)[/I] [/COLOR] </name>
 <thumbnail>http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-lB1BejuMfZ0/VCzUZmvnXZI/AAAAAAAACZU/VQzTxWsVCJM/s1600/disney.jpg</fanart>
 </subitem>
 </item>
     
@@ -163,7 +205,7 @@
 <title>Peliculas Infantiles</title>
 <link>http://ignorame</link>
 <thumbnail>http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados.jpg</thumbnail>
-<fanart>http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados.jpg</fanart>
+<fanart>http://1.bp.blogspot.com/-lB1BejuMfZ0/VCzUZmvnXZI/AAAAAAAACZU/VQzTxWsVCJM/s1600/disney.jpg</fanart>
 <externallink>http://dl.dropboxusercontent.com/s/vvy01d414jfkclp/Pel%C3%ADculas%20Infantiles.text</externallink>
 </item>
 
@@ -174,6 +216,7 @@
 <channel>
 <name>[COLOR turquoise] [I]ITALIAN CHANNELS[/I] [/COLOR] </name>
 <thumbnail>http://onedayinitaly.com/wp-content/uploads/2014/05/italian-flag.jpg</thumbnail>
+<fanart>http://www.magic4walls.com/wp-content/uploads/2013/11/Venezia-Venice-Italy-Venice-Italy-Basilica-di-Santa-Maria-della-Salute-Santa-Maria-della-Salute-Cathedral-Canal-Grande-Grand-Canal-the-city-the-architecture-buildings-sea-boat-canal-gondola-sky-clouds.jpg</fanart>
 </subitem>
 </item>
 
@@ -182,14 +225,19 @@
 <title>[COLOR red] [I]ITALIAN CHANNELS[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://onedayinitaly.com/wp-content/uploads/2014/05/italian-flag.jpg</thumbnail>
+<fanart>http://www.magic4walls.com/wp-content/uploads/2013/11/Venezia-Venice-Italy-Venice-Italy-Basilica-di-Santa-Maria-della-Salute-Santa-Maria-della-Salute-Cathedral-Canal-Grande-Grand-Canal-the-city-the-architecture-buildings-sea-boat-canal-gondola-sky-clouds.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/italia</externallink>
 </item>
+
+
+
 
 
 <channels>
 <channel>
 <name>[COLOR turquoise] [I]FRANCE CHANNELS[/I] [/COLOR] </name>
 <thumbnail>http://www.pieniadz.pl/archiwum/geografia/flagi_godla_itp/francja_flaga_1.jpg</thumbnail>
+<fanart>http://images.national-tours.fr/1-FRANCE-sejour-decouverte-1817.jpg</fanart>
 </subitem>
 </item>
 
@@ -198,6 +246,7 @@
 <title>[COLOR red] [I]FRANCE CHANNELS[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://www.pieniadz.pl/archiwum/geografia/flagi_godla_itp/francja_flaga_1.jpg</thumbnail>
+<fanart>http://images.national-tours.fr/1-FRANCE-sejour-decouverte-1817.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/franca</externallink>
 </item>
 
@@ -209,6 +258,7 @@
 <channel>
 <name>[COLOR turquoise] [I]UK CHANNELS[/I] [/COLOR] </name>
 <thumbnail>http://traditionalmarket.co.uk/wp-content/uploads/2015/02/uk-flag.jpg</thumbnail>
+<fanart>http://cdni.wired.co.uk/620x413/k_n/london1.jpg</fanart>
 </subitem>
 </item>
 
@@ -217,8 +267,10 @@
 <title>[COLOR red] [I]UK CHANNELS[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://traditionalmarket.co.uk/wp-content/uploads/2015/02/uk-flag.jpg</thumbnail>
+<fanart>http://cdni.wired.co.uk/620x413/k_n/london1.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/uk</externallink>
 </item>
+
 
 
 
@@ -227,6 +279,7 @@
 <channel>
 <name>[COLOR turquoise] [I]GERMANY[/I] [/COLOR] </name>
 <thumbnail>http://cdn.eupedia.com/images/content/germany-3.jpg</thumbnail>
+<fanart>http://i.telegraph.co.uk/multimedia/archive/02285/germany_2285737b.jpg</fanart>
 </subitem>
 </item>
 
@@ -235,8 +288,12 @@
 <title>[COLOR red] [I]GERMANY[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://cdn.eupedia.com/images/content/germany-3.jpg</thumbnail>
+<fanart>http://i.telegraph.co.uk/multimedia/archive/02285/germany_2285737b.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/germany</externallink>
 </item>
+
+
+
 
 
 
@@ -244,6 +301,7 @@
 <channel>
 <name>[COLOR turquoise] [I]MUSIC CHANNELS[/I] [/COLOR] </name>
 <thumbnail>http://thumb9.shutterstock.com/display_pic_with_logo/3243950/342807332/stock-vector-collection-of-music-logos-made-in-vector-design-elements-with-musical-elements-guitar-piano-342807332.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/xzBdpNDExYs/mqdefault.jpg</fanart>
 </subitem>
 </item>
 
@@ -252,8 +310,11 @@
 <title>[COLOR red] [I]MUSIC CHANNELS[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://thumb9.shutterstock.com/display_pic_with_logo/3243950/342807332/stock-vector-collection-of-music-logos-made-in-vector-design-elements-with-musical-elements-guitar-piano-342807332.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/xzBdpNDExYs/mqdefault.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/music</externallink>
 </item>
+
+
 
 
 
@@ -261,6 +322,7 @@
 <channel>
 <name>[COLOR turquoise] [I]+18 CHANNELS[/I] [/COLOR] </name>
 <thumbnail>http://5.fotos.web.sapo.io/i/Bea14fc51/17482063_qtzqu.jpeg</thumbnail>
+<fanart>http://newenglandfilm.com/wp-content/uploads/2015/05/adults.jpg</fanart>
 </subitem>
 </item>
 
@@ -269,8 +331,11 @@
 <title>[COLOR red] [I]+18 CHANNELS[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://5.fotos.web.sapo.io/i/Bea14fc51/17482063_qtzqu.jpeg</thumbnail>
+<fanart>http://newenglandfilm.com/wp-content/uploads/2015/05/adults.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/mais%2018</externallink>
 </item>
+
+
 
 
 
