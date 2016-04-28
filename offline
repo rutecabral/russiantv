@@ -19,7 +19,7 @@
 <title>[COLOR turquoise] [I]PORTUGUESES[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://4.bp.blogspot.com/-BMyCsibtcAI/U0SW523TyQI/AAAAAAAAQAE/tiYh2kTG-yE/s1600/Tuga_Troll.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/tematicos</externallink>
+<link>plugin://plugin.video.youtube/play/?video_id=cumJAMVYV6g</link>
 </item>
 
 
@@ -35,7 +35,7 @@
 <title>[COLOR red] [I]DESPORTO[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://www.marcoensefm.com/wp-content/uploads/2013/06/Logo-Desporto.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/desporto</externallink>
+<link>plugin://plugin.video.youtube/play/?video_id=cumJAMVYV6g</link>
 </item>
 
 
@@ -49,7 +49,7 @@
 <item>
 <title>[COLOR red][B][I]CLICA AQUI PARA VER DESPORTO EM DIRECTO HD[/I][/B][/COLOR] [COLOR yellow] ( PLEXUS)[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
+<link>plugin://plugin.video.youtube/play/?video_id=cumJAMVYV6g</link>
 <thumbnail>http://www.rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg</thumbnail>
 </item>
 
@@ -63,7 +63,7 @@
 <item>
 <title>[COLOR red][B][I]CLICA AQUI PARA VER DESPORTO EM DIRECTO HD[/I][/B][/COLOR] [COLOR yellow] (P2P PLEXUS)[/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.p2p-streams/?mode=401&amp;name=[B][COLOR red]Agenda/Schedule[/COLOR]&amp;parser=arenavision&amp;parserfunction=arenavision_schedule&amp;url=http://www.arenavision.in/agenda</jsonrpc>
+<link>plugin://plugin.video.youtube/play/?video_id=cumJAMVYV6g</link>
 <thumbnail>https://i.ytimg.com/vi/FUCtgye5ngg/hqdefault.jpg</thumbnail>
 </item>
 
@@ -77,7 +77,7 @@
 <item>
         <title>[COLOR red]ROJA DIRETA CLICA AQUI PINCHA[/COLOR]</title>
         <link>http://Ignoreme</link>
-        <externallink>http://pastebin.com/raw.php?i=Kpq8VM6V</externallink>
+        <link>plugin://plugin.video.youtube/play/?video_id=cumJAMVYV6g</link>
 <thumbnail>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</thumbnail>
 <fanart>http://novaley.es/wp-content/uploads/2014/04/img340_1.jpg</fanart>
         </item>
@@ -97,7 +97,7 @@
 <title>[COLOR red] [I]DESENHOS ANIMADOS[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/desenhos</externallink>
+<link>plugin://plugin.video.youtube/play/?video_id=PyAZaMtvrDY</link>
 </item>
 
 
@@ -114,7 +114,7 @@
 <title>[COLOR red] [I]BRASIL[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://memeburn.com/wp-content/uploads/brazil-e1328192831309.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/brasil</externallink>
+<link>plugin://plugin.video.youtube/play/?video_id=cumJAMVYV6g</link>
 </item>
 
 
@@ -129,7 +129,7 @@
 <title>[COLOR red] [I]SPAIN CHANNELS E LATINOS[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://s3.postimg.org/8ex9f3rwj/bandeira_espanha.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/espanha%20mexico</externallink>
+<link>plugin://plugin.video.youtube/play/?video_id=cumJAMVYV6g</link>
 </item>
 
 
@@ -147,7 +147,7 @@
     <link>http://Ignoreme</link>
     <thumbnail>http://i.imgur.com/xu57ulK.png</thumbnail>
     <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-    <externallink>https://raw.githubusercontent.com/macline1/russiantv/master/peliculas</externallink> 
+    <link>plugin://plugin.video.youtube/play/?video_id=cumJAMVYV6g</link> 
     </item>
     
     
@@ -164,7 +164,7 @@
 <link>http://ignorame</link>
 <thumbnail>http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados.jpg</thumbnail>
 <fanart>http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados.jpg</fanart>
-<externallink>http://dl.dropboxusercontent.com/s/vvy01d414jfkclp/Pel%C3%ADculas%20Infantiles.text</externallink>
+<link>plugin://plugin.video.youtube/play/?video_id=PyAZaMtvrDY</link>
 </item>
 
 
@@ -182,7 +182,7 @@
 <title>[COLOR red] [I]ITALIAN CHANNELS[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://onedayinitaly.com/wp-content/uploads/2014/05/italian-flag.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/italia</externallink>
+<link>plugin://plugin.video.youtube/play/?video_id=cumJAMVYV6g</link>
 </item>
 
 
@@ -198,7 +198,7 @@
 <title>[COLOR red] [I]FRANCE CHANNELS[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://www.pieniadz.pl/archiwum/geografia/flagi_godla_itp/francja_flaga_1.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/franca</externallink>
+<link>plugin://plugin.video.youtube/play/?video_id=cumJAMVYV6g</link>
 </item>
 
 
@@ -217,7 +217,7 @@
 <title>[COLOR red] [I]UK CHANNELS[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://traditionalmarket.co.uk/wp-content/uploads/2015/02/uk-flag.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/uk</externallink>
+<link>plugin://plugin.video.youtube/play/?video_id=cumJAMVYV6g</link>
 </item>
 
 
@@ -235,7 +235,7 @@
 <title>[COLOR red] [I]GERMANY[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://cdn.eupedia.com/images/content/germany-3.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/germany</externallink>
+<link>plugin://plugin.video.youtube/play/?video_id=cumJAMVYV6g</link>
 </item>
 
 
@@ -252,7 +252,7 @@
 <title>[COLOR red] [I]MUSIC CHANNELS[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://thumb9.shutterstock.com/display_pic_with_logo/3243950/342807332/stock-vector-collection-of-music-logos-made-in-vector-design-elements-with-musical-elements-guitar-piano-342807332.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/music</externallink>
+<link>plugin://plugin.video.youtube/play/?video_id=cumJAMVYV6g</link>
 </item>
 
 
@@ -269,7 +269,7 @@
 <title>[COLOR red] [I]+18 CHANNELS[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://5.fotos.web.sapo.io/i/Bea14fc51/17482063_qtzqu.jpeg</thumbnail>
-<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/mais%2018</externallink>
+<link>plugin://plugin.video.youtube/play/?video_id=cumJAMVYV6g</link>
 </item>
 
 
