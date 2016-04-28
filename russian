@@ -11,6 +11,7 @@
 <channel>
 <name>[COLOR turquoise] [I]PORTUGUESES[/I] [/COLOR] </name>
 <thumbnail>http://4.bp.blogspot.com/-BMyCsibtcAI/U0SW523TyQI/AAAAAAAAQAE/tiYh2kTG-yE/s1600/Tuga_Troll.png</thumbnail>
+<fanart>http://resources.touropia.com/gfx/d/best-places-to-visit-in-portugal/lisbon.jpg</fanart>
 </subitem>
 </item>
 
@@ -19,7 +20,8 @@
 <title>[COLOR turquoise] [I]PORTUGUESES[/I] [/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail>http://4.bp.blogspot.com/-BMyCsibtcAI/U0SW523TyQI/AAAAAAAAQAE/tiYh2kTG-yE/s1600/Tuga_Troll.png</thumbnail>
-<link>plugin://plugin.video.youtube/play/?video_id=cumJAMVYV6g</link>
+<fanart>http://resources.touropia.com/gfx/d/best-places-to-visit-in-portugal/lisbon.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/macline1/russiantv/master/tematicos</externallink>
 </item>
 
 
