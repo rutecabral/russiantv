@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+62623d8609e3d9e19ed08e3a4b018d8603e16ae5
 
 <item>
 <title>BENFICA TV 1 HD para hoje</title>
@@ -12,6 +12,18 @@
 <title>BENFICA TV 1 HD para hoje</title>
 <link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fbit.ly%2F1pNKfN8&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png</thumbnail>
+</item>
+
+<item>
+<title>BENFICA JOGO SO PARA HOJE plexus arenavision 9</title>
+<link>plugin://program.plexus/?url=62623d8609e3d9e19ed08e3a4b018d8603e16ae5&amp;mode=1&amp;name=sporttv1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
+</item>
+
+<item>
+<title>BENFICA JOGO SO PARA HOJE plexus arenavision 10</title>
+<link>plugin://program.plexus/?url=a65db7863d6f4d0e1becb7750931e5ed303e5250&amp;mode=1&amp;name=sporttv1</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png</thumbnail>              
 </item>
 
 
