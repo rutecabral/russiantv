@@ -304,7 +304,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 </item>
 
 <item>
-<title>SYFY</title>
+<title>SYFY HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1412.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.adweek.com/files/imagecache/node-blog/sa_article/syfy-logo-484_0.jpg</thumbnail>
 </item>
@@ -471,7 +471,7 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>FOX LIFE HD</title>
-<linkplugin://plugin.video.f4mTester/?url=http://37.59.14.193:8000/live/rica/rica/44.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fbit.ly%2F1Tj1X36&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png</thumbnail>
 </item>
 
@@ -584,13 +584,13 @@ title: 'http://futebolpthd.blogspot.pt/',
 
 <item>
 <title>HISTORIA HD</title>
-<linkplugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sliti/dmV9FUkIpn/1183.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fbit.ly%2F1VWDXcw&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png</thumbnail>
 </item>
 
 <item>
 <title>NAT GEO</title>
-<sportsdevil>http://www.estadiofutebol.com/embed.php?c=nationalgeographic</sportsdevil>
+<sportsdevilhttp://www.estadiofutebol.com/embed.php?c=nationalgeographic</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/spurwy1433945957.png</thumbnail>
 </item>
