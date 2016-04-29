@@ -579,6 +579,38 @@
 
 
 <item>
+<title>BEIN FR 1</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.iguide.to/embedplayer_new.php?width=650&amp;height=400&amp;channel=$doregex[ch]&amp;autoplay=true',False,False,'http://histream.tv')</expres>
+	<page></page>
+</regex>
+<regex>
+<name>ch</name> 
+<expres>http://www.iguide.to/embed/(.*?)&</expres>
+<page>http://histream.tv/beinsport1hdfr.html</page>			
+</regex>
+<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail></item>	
+
+<item>
+<title>BEIN FR 2</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.iguide.to/embedplayer_new.php?width=650&amp;height=400&amp;channel=$doregex[ch]&amp;autoplay=true',False,False,'http://histream.tv')</expres>
+	<page></page>
+</regex>
+<regex>
+<name>ch</name> 
+<expres>http://www.iguide.to/embed/(.*?)&</expres>
+<page>http://histream.tv/beinsport2hdfr.html</page>			
+</regex>
+<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail></item>	
+
+
+
+<item>
 <title>BEIN SPORTS Ñ (ESP)</title>
 <link>http://ak-cred-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8?hdnts=$doregex[tok]</link>
 <regex>
