@@ -174,17 +174,37 @@
 <thumbnail>http://www.iptvlinksss.com/wp-content/uploads/2015/12/logos-tv-catalunya2.jpg</thumbnail>
 </item>
 
+
+<item>
+ <title>CANAL+ #0</title>
+<link>http://cdn.sstream.pw/live/canalplushd_9wgyfa8/playlist.m3u8|Accept-Encoding=gzip,deflate,sdch&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/0_M%2B.svg/120px-0_M%2B.svg.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-WI0xmTCAYXo/Vmq981HwcyI/AAAAAAAA54w/gia5EQ54HaY/s1600/1.jpg</fanart>
+</item>
+
+
+
 <item>
  <title>CANAL+ ESTRENOS</title>
-<item>rtmp://nl.iguide.to/iguide playpath=oqlqntk3lt0tcz4  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
-<referer>http://cinestrenostv.tv/</referer>
+<link>http://cdn.sstream.pw/live/plusestrenos_ahnxk7j/playlist.m3u8|Accept-Encoding=gzip,deflate,sdch&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+
 <thumbnail>http://i57.tinypic.com/29vme6e.png</thumbnail>
 <fanart>http://s03.s3c.es/imag/_v0/640x300/7/3/8/canalplus-video-filtrado.jpg</fanart>
 </item>
 
+
+
+
 <item>
  <title>CANAL+ ACCION</title>
-<link>rtmp://nl.iguide.to/iguide playpath=qyxepg6xttc83as  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<link>http://cdn.sstream.pw/live/accion_aqtvoax/playlist.m3u8|Accept-Encoding=gzip,deflate,sdch&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+
 <thumbnail>https://lh3.googleusercontent.com/-gCgAIUfexVw/Vaah3aZo6eI/AAAAAAAAClc/kR__groP9oE/s163-Ic42/canal%252520%25252B%252520accion.png</thumbnail>
 <fanart>https://lh3.googleusercontent.com/-gCgAIUfexVw/Vaah3aZo6eI/AAAAAAAAClc/kR__groP9oE/s163-Ic42/canal%252520%25252B%252520accion.png</fanart>
 </item>
@@ -192,51 +212,62 @@
 
 <item>
 <title>CANAL+ DCINE</title>
-<link>rtmp://nl.iguide.to/iguide playpath=y6y6vfv2sxxot0n  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<link>http://cdn.sstream.pw/live/dcine_aw3g20p/playlist.m3u8|Accept-Encoding=gzip,deflate,sdch&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+
 <fanart>http://s3.postimg.org/dvgxzl6n7/canal_cine.png</fanart>
  <thumbnail>http://s3.postimg.org/dvgxzl6n7/canal_cine.png</thumbnail>
 </item>
 
+
+
+
 <item>
  <title>CANAL+ COMEDIA</title>
-<link>rtmp://nl.iguide.to/iguide playpath=t6zehd5sg0oehhq  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<link>http://cdn.sstream.pw/live/comedia_aspeh87/playlist.m3u8|Accept-Encoding=gzip,deflate,sdch&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+
 <fanart>http://streamingfreetv.net/wp-content/uploads/2014/07/descarga-41.jpg</fanart>
  <thumbnail>http://streamingfreetv.net/wp-content/uploads/2014/07/descarga-41.jpg</thumbnail>
 </item>
 
+
+
 <item>
  <title>CANAL+ SERIES</title>
-<link>rtmp://nl.iguide.to/iguide playpath=203cy9bnzp1kcm9  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<link>http://cdn.sstream.pw/live/series_aw3d82v/playlist.m3u8|Accept-Encoding=gzip,deflate,sdch&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+
 <fanart>http://www.vertele.com/files/2013/10/canal-plus-series-logo-530.jpg</fanart>
  <thumbnail>http://www.vertele.com/files/2013/10/canal-plus-series-logo-530.jpg</thumbnail>
 </item>
+
+
 
 <item>
  <title>CANAL+ SERIES XTRA</title>
-<link>rtmp://nl.iguide.to/iguide playpath=62sn73q6cjfaq1l  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<link>http://cdn.sstream.pw/live/series_aw3d82v/playlist.m3u8|Accept-Encoding=gzip,deflate,sdch&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+
 <fanart>http://www.vertele.com/files/2013/10/canal-plus-series-logo-530.jpg</fanart>
  <thumbnail>http://www.vertele.com/files/2013/10/canal-plus-series-logo-530.jpg</thumbnail>
 </item>
 
-<item>
-<title>CANAL+ DCINE</title>
-<link>rtmp://nl.iguide.to/iguide playpath=y6y6vfv2sxxot0n  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
-<fanart>http://s3.postimg.org/dvgxzl6n7/canal_cine.png</fanart>
- <thumbnail>http://s3.postimg.org/dvgxzl6n7/canal_cine.png</thumbnail>
-</item>
+
+
 
 <item>
 <title>SYFY</title>
-<link>rtmp://nl.iguide.to/iguide playpath=mze2zn8i8o5sl9s  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<link>http://cdn.sstream.pw/live/syfy_aw3eq7m/playlist.m3u8|Accept-Encoding=gzip,deflate,sdch&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive</link>
+<agent>Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+
 <thumbnail>http://i.ytimg.com/vi/XyeLVkZCYBc/maxresdefault.jpg</thumbnail>
 <fanart>http://i.ytimg.com/vi/XyeLVkZCYBc/maxresdefault.jpg</fanart>
-</item>
-
-<item>
- <title>HOLLYWOOD</title>
-<link>rtmp://89.248.169.55/iguide playpath=g14tfn5k0uso0om swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link>
-<fanart>http://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg</fanart>
- <thumbnail>http://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg</thumbnail>
 </item>
 
 
@@ -330,107 +361,7 @@
 <fanart>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</fanart>
 </item>
 
-<tem>
-<title>+ Liga/Partidazos</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 
-<regex>
-    <name>encodedurl</name>
-    <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls-code]')</expres>
-    <page></page>
-</regex>
-
-<regex>
-<name>get-hls-code</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
- import requests
- import re
- import base64
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
-
- embed2 = 'http://verdirectotv.com/tv/deportes2/plusliga.html'
- source2 = requests.get(embed2, headers=headers)
- embed3 = re.findall('script type="text\/javascript" src="(.*?)"', source2.text)[0]
- headers2 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'http://verdirectotv.com/'}
- source3= requests.get(embed3, headers = headers2)
- embed4 = re.findall('iframe src="(.*?)"', source3.text)[0]
- source4= requests.get(embed4, headers = headers2)
- m3u8_encoded = re.findall('input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"', source4.text)[0]
- m3u8= base64.b64decode(m3u8_encoded)
-
-
- return m3u8 + '|Referer=http://www.playerhd2.pw/jwplayer6/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'
-]]></expres>
-<page></page>
-</regex>
-<thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
-<fanart>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</fanart>
-</item>
-
-<tem>
-<title>+ Liga 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
-
-<regex>
-    <name>encodedurl</name>
-    <expres>$pyFunction:urllib.quote_plus('$doregex[get-hls-code]')</expres>
-    <page></page>
-</regex>
-
-
-<regex>
-<name>get-hls-code</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
- import requests
- import re
- import base64
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
- page ='http://www.foot-live.info/stream/ch119.php'
- source = requests.get(page, headers=headers)
- embed1 = re.findall('src="(.*?)"', source.text)[0]
- source1 = requests.get(embed1, headers=headers)
- embed2 = re.findall('src="(.*?)"', source1.text)[0]
- source2 = requests.get(embed2, headers=headers)
- embed3 = re.findall('script type="text\/javascript" src="(.*?)"', source2.text)[0]
- headers2 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'http://www.hdmyt.info/'}
- source3= requests.post(embed3, headers = headers2)
- embed4 = re.findall('iframe src="(.*?)"', source3.text)[0]
- source4= requests.post(embed4, headers = headers2)
- m3u8_encoded = re.findall('input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"', source4.text)[0]
- m3u8= base64.b64decode(m3u8_encoded)
-
-
- return m3u8 + '|Referer=http://www.playerhd2.pw/jwplayer6/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'
-]]></expres>
-<page></page>
-</regex>
-<thumbnail>http://www.iptvlinksss.com/wp-content/uploads/2015/11/8b8ca1d66bf686faa9cb7aa859cfaff5.jpeg</thumbnail>
-<fanart>http://www.iptvlinksss.com/wp-content/uploads/2015/11/8b8ca1d66bf686faa9cb7aa859cfaff5.jpeg</fanart>
-</item>
- 
- 
-<item>
-<title>Canal+ Deportes</title>
-<link>rtmp://nl.iguide.to/iguide playpath=wr8owvmlrah0aga swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=600&height=450&channel=33157&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
-<thumbnail>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</thumbnail>
-<fanart>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</fanart>
-</item>
-
-<item>
-<title>Canal+ Deportes 2</title>
-<linkplugin://plugin.video.f4mTester/?url=http://bstream.nextfuturedays.net:8000/live/auro/auro/7498.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</thumbnail>
-</item>
- 
-<item>
-<title>Canal+ Deportes 2</title>
-<sportsdevil>http://www.lacasadeltikitaka.futbol/elitegol/canal1.php</sportsdevil>
-<referer>http://www.lacasadeltikitaka.futbol</referer>
-<thumbnail>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</thumbnail>
-<fanart>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</fanart>
-</item>
  
 <item>
 <title>Canal+ Futbol</title>
@@ -489,8 +420,97 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>INVESTIGACION DISCOVERY LATINO</title>
+<link>$doregex[url]|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf</link>
+<regex>
+<name>url</name>
+<expres>file: "(.*?)"</expres>
+<page>http://latino-webtv.com/embed/canales.php?ch=263&name=idiscovery</page>
+<referer>http://embed.latino-webtv.com/idiscovery.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://imagenes.colombia.interlatin.com/sdi/2012/06/30/91e931d9b06a4c578a9f710ecaf5b52f.jpg</thumbnail>
+<fanart>http://oneplay.tv/uploads/video_thumbs/INVESTIGATION-DISCOVERY.jpg</fanart>
+</item>
+
+
+<item>
+<title>DISCOVERY CHANNEL LATINO</title>
+<link>$doregex[url]|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf</link>
+<regex>
+<name>url</name>
+<expres>file: "(.*?)"</expres>
+<page>http://latino-webtv.com/embed/canales.php?ch=371&name=discovery</page>
+<referer>http://embed.latino-webtv.com/discovery.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://tvseriesfinale.com/wp-content/uploads/2013/07/discovery01.jpg</thumbnail>
+<fanart>http://tvseriesfinale.com/wp-content/uploads/2013/07/discovery01.jpg</fanart>
+</item>
+
+
+<item>
+<title>NATIONALGEOGRAPHIC LATINO</title>
+<link>$doregex[url]|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf</link>
+<regex>
+<name>url</name>
+<expres>file: "(.*?)"</expres>
+<page>http://latino-webtv.com/embed/canales.php?ch=377&name=natgeo&hd</page>
+<referer>http://embed.latino-webtv.com/natgeo.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.adweek.com/fishbowldc/wp-content/uploads/sites/10/2015/04/National-Geographic-Logo-HD-Wallpaper.jpg</thumbnail>
+<fanart>http://www.adweek.com/fishbowldc/wp-content/uploads/sites/10/2015/04/National-Geographic-Logo-HD-Wallpaper.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>NAT GEO WILD LATINO</title>
+<link>$doregex[url]|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf</link>
+<regex>
+<name>url</name>
+<expres>file: "(.*?)"</expres>
+<page>http://latino-webtv.com/embed/canales.php?ch=355&name=natgeowild</page>
+<referer>http://embed.latino-webtv.com/natgeowild.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.hollywooddailystar.com/wp-content/uploads/2015/07/Assistir-Nat-Geo-Wild-Online.jpg</thumbnail>
+<fanart>http://www.hollywooddailystar.com/wp-content/uploads/2015/07/Assistir-Nat-Geo-Wild-Online.jpg</fanart>
+</item>
+
+
+<item>
+<title>HISTORIA LATINO</title>
+<link>$doregex[url]|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf</link>
+<regex>
+<name>url</name>
+<expres>file: "(.*?)"</expres>
+<page>http://latino-webtv.com/embed/canales.php?ch=353&name=history</page>
+<referer>http://embed.latino-webtv.com/history.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://manhattanmedia.com.au/wp-content/uploads/2013/04/history_channel.png</thumbnail>
+<fanart>http://manhattanmedia.com.au/wp-content/uploads/2013/04/history_channel.png</fanart>
+</item>
+
+<item>
+<title>TELENOVELA LATINO</title>
+<link>$doregex[url]|User-Agent=iPad&amp;Referer=http://latino-webtv.com/player/jwplayer.flash.swf</link>
+<regex>
+<name>url</name>
+<expres>file: "(.*?)"</expres>
+<page>http://latino-webtv.com/embed/canales.php?ch=275&name=tlnovelas&hd</page>
+<referer>http://embed.latino-webtv.com/tlnovelas.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://zonadetv.com/Imagenes2/tlnovelas.jpg</thumbnail>
+<fanart>http://zonadetv.com/Imagenes2/tlnovelas.jpg</fanart>
+</item>
+
+<item>
 <title>Constriur TV</title>
-<link>http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u8</link>
+<linkhttp://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u8</link>
 <thumbnail>http://www.thedailytelevision.com/sites/default/files/notas/graficos/logo-construir-tv_cuadradainterior.jpg</thumbnail>
 </item>
 
