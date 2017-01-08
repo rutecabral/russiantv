@@ -1,1 +1,5 @@
+Server:"PT/world   funcional" URL="http://liveitpremium.gleeze.com:8000/get.php?username=marco&password=marco&type=m3u"; regex""
+
+
+Server:"PT/world  funcional" URL="http://tvonline.tvhd4k.com:19500/get.php?username=rafael&password=rafael&type=m3u"; regex""
 
