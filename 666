@@ -65,3 +65,20 @@
 <thumbnail>https://i0.wp.com/albaniaiptv.com/wp-content/uploads/2016/06/maxresdefault.jpg?fit=960%2C919</thumbnail>
  <fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
 </item>
+
+
+
+<item>
+<title>[COLOR white][B] LISTA IPTV 2017 [/B] [/COLOR]</title>
+<link$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[<title>[COLOR white][B][makelist.param1][/B][/COLOR]</title>
+                    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=PLURIBUSUNUM [makelist.param1]</link>
+                    <thumbnail>http://gemcccam.com/wp-content/uploads/2015/03/IPTV_MainBanner.jpg</thumbnail><fanart></fanart>]]></listrepeat>
+<expres>#EXTINF:-1,(.*?)\n(.*)</expres>
+<page>http://pastebin.com/raw/1K9Qr8we</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://gemcccam.com/wp-content/uploads/2015/03/IPTV_MainBanner.jpg</thumbnail>
+</item>
