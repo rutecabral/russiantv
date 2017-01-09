@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR white][B] LISTA IPTV VARIAS PT [/B] [/COLOR]</title>
+<title>[COLOR white][B] LISTA IPTV PT [/B] [/COLOR]</title>
 <link>$doregex[makelist2]</link>
 
 <regex>
@@ -32,7 +32,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] PT [/B] [/COLOR] </title>
+<title>[COLOR white][B] PT [/B] [/COLOR] </title>
 <link>http://ignorame</link>
 <fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
 <thumbnail>https://i0.wp.com/albaniaiptv.com/wp-content/uploads/2016/06/maxresdefault.jpg?fit=960%2C919</thumbnail>
