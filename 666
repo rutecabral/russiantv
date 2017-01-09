@@ -31,11 +31,18 @@
  <fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
 </item>
 
+<item>
+<title>[COLOR red][B] PT [/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
+<thumbnail>https://i0.wp.com/albaniaiptv.com/wp-content/uploads/2016/06/maxresdefault.jpg?fit=960%2C919</thumbnail>
+<externallink>http://pastebin.com/raw/1K9Qr8we</externallink>
+</item>
 
 
 <item>
 <title>[COLOR white][B] PT [/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
+<link$doregex[makelist2]</link>
 
 <regex>
 <name>makelist2</name>
@@ -70,7 +77,7 @@
 
 <item>
 <title>[COLOR white][B] LISTA IPTV 2017 [/B] [/COLOR]</title>
-<link>$doregex[makelist]</link>
+<link$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[<title>[COLOR white][B][makelist.param1][/B][/COLOR]</title>
