@@ -70,7 +70,7 @@
 
 <item>
 <title>[COLOR white][B] LISTA IPTV 2017 [/B] [/COLOR]</title>
-<link$doregex[makelist]</link>
+<link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[<title>[COLOR white][B][makelist.param1][/B][/COLOR]</title>
