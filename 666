@@ -40,6 +40,16 @@
 </item>
 
 
+
+<item>
+<title>[COLOR white][B] teste [/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
+<thumbnail>https://i0.wp.com/albaniaiptv.com/wp-content/uploads/2016/06/maxresdefault.jpg?fit=960%2C919</thumbnail>
+<externallink>https://raw.githubusercontent.com/nikasnikas/russiantv/master/exodus</externallink>
+</item>
+
+
 <item>
 <title>[COLOR white][B] PT [/B] [/COLOR]</title>
 <link$doregex[makelist2]</link>
