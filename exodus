@@ -1,2 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-plugin://plugin.video.exodus/?action=movieNavigator
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.exodus.downloader" name="Exodus Downloader" version="1.0.0" provider-name="twillmott">
+	<requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Download TV Shows and Movies in combination with Exodus</summary>
+		<description lang="en">Doanload TV Shows and Movies using Exodus to gather all sources.</description>
+		<license>GNU General Public License, v2</license>
+		<language></language>
+		<source>fillin</source>
+		<email>tom@willmott.org.uk</email>
+	</extension>
+</addon>
