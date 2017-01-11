@@ -4,7 +4,7 @@ Server:"PT/WORLD  funcional" URL="http://live.softiptv.com:9900/get.php?username
 
 Server:"PT/ funcional" URL="http://tvhd.dynu.com:8000/get.php?username=1024&password=130912&type=m3u"; regex""
 
-
+Server:"PT/ funcional" URL="http://163.172.217.53:8000/get.php?username=6grandiptv597&password=77885500&type=m3u"; regex""
 
 
 
