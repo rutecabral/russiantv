@@ -1,1 +1,689 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
+
+<item> 
+<title>[COLOR white][B] SPORT TV 1 [/COLOR][/B]</title>
+<sportsdevil>http://hdfree.tv/live/stv1.php</sportsdevil>
+<referer>http://hdfree.tv/</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B] SPORT TV 2 [/COLOR][/B]</title>
+<sportsdevil>http://hdfree.tv/live/stv2.php</sportsdevil>
+<referer>http://hdfree.tv/</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white][B] SPORT TV 3 [/COLOR][/B]</title>
+<sportsdevil>http://hdfree.tv/live/stv3.php</sportsdevil>
+<referer>http://hdfree.tv/</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B] SPORT TV 4 [/COLOR][/B]</title>
+<sportsdevil>http://hdfree.tv/live/stv4.php</sportsdevil>
+<referer>http://hdfree.tv/</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B] SPORT TV 5 [/COLOR][/B]</title>
+<sportsdevil>http://hdfree.tv/live/stv5.php</sportsdevil>
+<referer>http://hdfree.tv/</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv5.png</thumbnail>
+</item>
+
+
+
+ 
+<item>
+<title>[COLOR white][B] BTV 1 [/COLOR][/B]</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=benficatv-2</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white][B] SPORTING TV [/COLOR][/B]</title>
+<sportsdevil>http://www.sporttvhdgratis.com/index.php?canal=sportingtv</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<thumbnail>https://i.ytimg.com/vi/zv52e9mCvDE/hqdefault.jpg</thumbnail>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][B] EUROSPORT 1 PT [/COLOR][/B]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/eurosport</sportsdevil>
+<referer>http://www.estadiofutebol.com/</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>http://media2.pl/g/0/52753.jpg</thumbnail> 
+</item>
+
+
+ 
+<item>
+<title>[COLOR white][B] EUROSPORT 2 PT [/COLOR][/B]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/eurosport2</sportsdevil>
+<referer>http://www.estadiofutebol.com/</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>http://media2.pl/g/0/52753.jpg</thumbnail> 
+</item>
+
+
+<item>
+<title>[COLOR white][B] MOTOGP MOVISTAR [/COLOR][/B]</title>
+<link>http://cdn.sitenow.me/live/tvb117/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail>http://cdn-1.motorsport.com/static/img/mgl/6200000/6240000/6240000/6240600/6240641/s8/motogp-2016-yamaha-motogp-unveil-2016-valentino-rossi-yamaha-factory-racing.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white][B] MOTOGP MOVISTAR [/COLOR][/B]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/moto-gp-p1157318</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail>http://cdn-1.motorsport.com/static/img/mgl/6200000/6240000/6240000/6240600/6240641/s8/motogp-2016-yamaha-motogp-unveil-2016-valentino-rossi-yamaha-factory-racing.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white][B] MOTOGP UK [/COLOR][/B]</title>
+<linkhttp://tafb.brontes.feralhosting.com/Live/mystream/index.m3u8</link>
+<thumbnail>http://cdn-1.motorsport.com/static/img/mgl/6200000/6240000/6240000/6240600/6240641/s8/motogp-2016-yamaha-motogp-unveil-2016-valentino-rossi-yamaha-factory-racing.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][B] MOVISTAR F1 [/COLOR][/B]</title>
+<sportsdevil>http://latelete.tv/ver-la-f1online-en-directo-gratis-formula-1/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail>http://downloads.open4group.com/wallpath/f2009-carro-da-ferrari-para-f1-2009/7831/357x280/135258023c01a03a9470c9f355e16b2f.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white][B] SKY SPORTS F1 [/COLOR][/B]</title>
+<sportsdevil>http://hdfree.tv/live/ssf1.php</sportsdevil>
+<referer>http://hdfree.tv/</referer>
+<fanart>https://www.autofreaks.com/wp-content/uploads/2014/03/f1-my.jpg</fanart>
+<thumbnail>http://downloads.open4group.com/wallpath/f2009-carro-da-ferrari-para-f1-2009/7831/357x280/135258023c01a03a9470c9f355e16b2f.jpg</thumbnail> 
+</item>
+
+
+<item>
+<title>[COLOR white][B] GOLTV [/COLOR][/B]</title>
+<sportsdevil>http://latelete.tv/goltv-en-directo-gratis-por-internet/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail>http://maxtv.es/wp-content/uploads/2014/04/golt1.jpeg</thumbnail>
+</item>
+ 
+
+<item>
+<title>[COLOR white][B] ALL SPORTS BR [/COLOR][/B]</title>
+<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</link>
+<thumbnail>https://goo.gl/MK5aiJ</thumbnail>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B] SKY SPORTS 1 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/skysports1.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>https://www.ecofoot.fr/wp-content/uploads/2015/02/sky-sports-mod%C3%A8le-%C3%A9conomique-premier-league.jpg</thumbnail> 
+</item> 
+
+
+<item>
+<title>[COLOR white][B] SKY SPORTS 2 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/skysports2.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>https://www.ecofoot.fr/wp-content/uploads/2015/02/sky-sports-mod%C3%A8le-%C3%A9conomique-premier-league.jpg</thumbnail> 
+</item> 
+
+
+
+<item>
+<title>[COLOR white][B] SKY SPORTS 3 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/skysports3.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>https://www.ecofoot.fr/wp-content/uploads/2015/02/sky-sports-mod%C3%A8le-%C3%A9conomique-premier-league.jpg</thumbnail> 
+</item> 
+ 
+
+
+<item>
+<title>[COLOR white][B] SKY SPORTS 4 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/skysports4.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>https://www.ecofoot.fr/wp-content/uploads/2015/02/sky-sports-mod%C3%A8le-%C3%A9conomique-premier-league.jpg</thumbnail> 
+</item> 
+
+
+
+
+<item>
+<title>[COLOR white][B] SKY SPORTS 5 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/skysports5.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>https://www.ecofoot.fr/wp-content/uploads/2015/02/sky-sports-mod%C3%A8le-%C3%A9conomique-premier-league.jpg</thumbnail> 
+</item> 
+
+
+<item>
+<title>[COLOR white][B] SKY SPORTS F1 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/skysportsf1.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>https://www.ecofoot.fr/wp-content/uploads/2015/02/sky-sports-mod%C3%A8le-%C3%A9conomique-premier-league.jpg</thumbnail> 
+</item> 
+
+
+<item>
+<title>[COLOR white][B] SKY SPORTS MIX NEW [/COLOR][/B]</title>
+<sportsdevil>http://nowwatchtvlive.co/channel-tab-frame/skysportsmix-1.php</sportsdevil>
+<referer>http://nowwatchtvlive.co/</referer>
+<thumbnail>https://www.ecofoot.fr/wp-content/uploads/2015/02/sky-sports-mod%C3%A8le-%C3%A9conomique-premier-league.jpg</thumbnail> 
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR white][B] BEIN LA LIGA [/COLOR][/B]</title>
+<sportsdevil>http://latelete.tv/bein-sports-la-liga-online-en-directo-gratis-24h/</sportsdevil>
+<referer>hhttp://latelete.tv/</referer>
+<thumbnail>http://www.mediasportif.fr/wp-content/uploads/2015/07/beIN-SPORTS-660x330.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B] BEIN SPORTS 1 FR [/COLOR][/B]</title>
+<sportsdevil>http://nowwatchtvlive.co/channel-tab-frame/beinsport1france-2.php</sportsdevil>
+<referer>http://www.nowwatchtvlive.co/</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>http://www.mediasportif.fr/wp-content/uploads/2015/07/beIN-SPORTS-660x330.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B] BEIN SPORTS 2 FR [/COLOR][/B]</title>
+<sportsdevil>http://mamahd.com/front/embed/1110</sportsdevil>
+<referer>http://mamahd.com/</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>http://www.mediasportif.fr/wp-content/uploads/2015/07/beIN-SPORTS-660x330.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B] BEIN SPORTS 3 FR [/COLOR][/B]</title>
+<sportsdevil>http://nowwatchtvlive.co/channel-tab-frame/beinsport3france-2.php</sportsdevil>
+<referer>http://www.nowwatchtvlive.co/</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>http://www.mediasportif.fr/wp-content/uploads/2015/07/beIN-SPORTS-660x330.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B] BEIN SPORTS 1 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/beinsports1.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>http://www.mediasportif.fr/wp-content/uploads/2015/07/beIN-SPORTS-660x330.jpg</thumbnail> 
+</item> 
+
+
+<item>
+<title>[COLOR white][B] BEIN SPORTS 2 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/beinsports2.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>http://www.mediasportif.fr/wp-content/uploads/2015/07/beIN-SPORTS-660x330.jpg</thumbnail> 
+</item> 
+
+
+
+<item>
+<title>[COLOR white][B] BEIN SPORTS 3 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/beinsports3.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>http://www.mediasportif.fr/wp-content/uploads/2015/07/beIN-SPORTS-660x330.jpg</thumbnail> 
+</item> 
+
+
+
+
+<item>
+<title>[COLOR white][B] BEIN SPORTS 4 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/beinsports4.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>http://www.mediasportif.fr/wp-content/uploads/2015/07/beIN-SPORTS-660x330.jpg</thumbnail> 
+</item> 
+
+
+<item>
+<title>[COLOR white][B] BEIN SPORTS 5 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/beinsports5.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>http://www.mediasportif.fr/wp-content/uploads/2015/07/beIN-SPORTS-660x330.jpg</thumbnail> 
+</item> 
+
+
+
+
+<item>
+<title>[COLOR white][B] BEIN SPORTS 6 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/beinsports6.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>http://www.mediasportif.fr/wp-content/uploads/2015/07/beIN-SPORTS-660x330.jpg</thumbnail> 
+</item> 
+
+
+
+
+
+
+<item>
+<title>[COLOR white][B] BEIN SPORTS 7 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/beinsports7.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>http://www.mediasportif.fr/wp-content/uploads/2015/07/beIN-SPORTS-660x330.jpg</thumbnail> 
+</item> 
+
+
+
+<item>
+<title>[COLOR white][B] BEIN SPORTS 8 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/beinsports8.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>http://www.mediasportif.fr/wp-content/uploads/2015/07/beIN-SPORTS-660x330.jpg</thumbnail> 
+</item> 
+
+
+
+<item>
+<title>[COLOR white][B] BEIN SPORTS 9 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/beinsports9.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>http://www.mediasportif.fr/wp-content/uploads/2015/07/beIN-SPORTS-660x330.jpg</thumbnail> 
+</item> 
+
+
+
+
+<item>
+<title>[COLOR white][B] BEIN SPORTS 10 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/beinsports10.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>http://www.mediasportif.fr/wp-content/uploads/2015/07/beIN-SPORTS-660x330.jpg</thumbnail> 
+</item> 
+
+
+
+<item>
+<title>[COLOR white][B] BEIN SPORTS 11 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/beinsports11.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>http://www.mediasportif.fr/wp-content/uploads/2015/07/beIN-SPORTS-660x330.jpg</thumbnail> 
+</item> 
+
+
+
+
+<item>
+<title>[COLOR white][B] BEIN SPORTS 12 [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/beinsports12.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>http://www.mediasportif.fr/wp-content/uploads/2015/07/beIN-SPORTS-660x330.jpg</thumbnail> 
+</item> 
+
+ 
+
+
+
+<item>
+<title>[COLOR white][B] BT SPORTS 1,2,3,EU[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<fanart></fanart>
+<thumbnail>http://sport-onthebox.com/wp-content/uploads/2013/02/bt-buys-espn.png</thumbnail>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<externallink>http://pluribus_unum.net23.net/btsports.xml</externallink>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR white][B] TEN SPORTS [/COLOR][/B]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=71&amp;name=%5bCOLOR%20red%5dTen%20sports%5b%2fCOLOR%5d&amp;url=TEN%20Sports</jsonrpc>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>http://s3.amazonaws.com/zeedigitals/tensports/slideshow/620X250_V2-1459761933.png</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B] ARENA SPORTS [/COLOR][/B]</title>
+<link>http://arena_sports</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=71&amp;name=%5bCOLOR%20white%5dArena%20sports%5b%2fCOLOR%5d&amp;url=Arena%20Sports</jsonrpc>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>https://photos-images.active.com/file/1/4872014/optimized/503b4c4b-89ab-48dc-a77a-f08e0c41440a.jpg</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B] TSN SPORTS [/COLOR][/B]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=70&amp;name=%5bCOLOR%20red%5dTsn%20sports%5b%2fCOLOR%5d&amp;url=TSN%20Sports</jsonrpc>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>http://s.afl.com.au/staticfile/AFL%20Tenant/AFL/Files/Images/tsnlogo.jpg</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B] MAN UNITED TV [/COLOR][/B]</title>
+<sportsdevil>http://www.nowwatchtvlive.co/channel-tab-frame/mutv-1.php</sportsdevil>
+<referer>http://www.nowwatchtvlive.co/</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>http://www.themeraider.com/wp-content/uploads/2013/01/5b820a9c4fa307243c69e5ac8ff97980_large.jpeg</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B] REAL MADRID [/COLOR][/B]</title>
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?</link>
+<fanart>https://yt3.ggpht.com/-zvPqz5WM4EE/AAAAAAAAAAI/AAAAAAAAAAA/fh1Q0Ycpv2M/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+<thumbnail>https://yt3.ggpht.com/-zvPqz5WM4EE/AAAAAAAAAAI/AAAAAAAAAAA/fh1Q0Ycpv2M/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B] BARȁ TV [/COLOR][/B]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/galicia-tv-p1157330</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail>http://1.bp.blogspot.com/-8Gotx9CJQOQ/U_MtWvGgPkI/AAAAAAAADN4/EZieKVoJWtU/s640/BarcaTV.png</thumbnail>
+</item>
+
+
+<item> 
+<title>[COLOR white][B] PREMIER SPORTS [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/premiersports.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/</referer>
+<fanart>http://www.raf.mod.uk/rafmotorsports/rafcms/mediafiles/61839631_5056_A318_A808D0385A9075C8.jpg</fanart>
+<thumbnail>http://www.stream2watch.cc/images/streams/126/stm/14592641645393.png</thumbnail> 
+</item>
+
+ 
+ <item>
+<title>[COLOR white][B] MOTORSPORT LIVE [/COLOR][/B]</title>
+<link>mms://100automoto.tv/100livesport</link>
+<fanart>http://www.raf.mod.uk/rafmotorsports/rafcms/mediafiles/61839631_5056_A318_A808D0385A9075C8.jpg</fanart>
+<thumbnail>http://i.ytimg.com/vi/b5xYasZRDoo/hqdefault.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR white][B] MOTORSPORT USA [/COLOR][/B]</title>
+<link>http://motorsport.hopto.org:8080/</link>
+<fanart>http://www.raf.mod.uk/rafmotorsports/rafcms/mediafiles/61839631_5056_A318_A808D0385A9075C8.jpg</fanart>
+<thumbnail>http://4.bp.blogspot.com/-n7CvAqGwwLg/Tcq67H2v2yI/AAAAAAAAASc/h5Rwl_2iX4M/s1600/Motorsport%2BTV%2Bon%2BFree%2BStreaming%2BCable.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR white][B] RACE LINE TV [/COLOR][/B]</title>
+<sportsdevil>http://www.filmon.com/channel/raceline-tv</sportsdevil>
+<referer>http://www.filmon.com/channel/raceline-tv</referer>
+<fanart>http://www.raf.mod.uk/rafmotorsports/rafcms/mediafiles/61839631_5056_A318_A808D0385A9075C8.jpg</fanart>
+<thumbnail>http://static.filmon.com/assets/channels/3641/big_logo.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR white][B] TORQUE AND TUSH [/COLOR][/B]</title>
+<sportsdevil>http://www.filmon.com/channel/torque-and-tush</sportsdevil>
+<referer>http://www.filmon.com/channel/torque-and-tush</referer>
+<fanart>http://www.raf.mod.uk/rafmotorsports/rafcms/mediafiles/61839631_5056_A318_A808D0385A9075C8.jpg</fanart>
+<thumbnail>http://static.filmon.com/assets/channels/3187/big_logo.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR white][B] AUTO TV [/COLOR][/B]</title>
+<sportsdevil>http://www.filmon.com/channel/auto-channel</sportsdevil>
+<referer>http://www.filmon.com/channel/auto-channel</referer>
+<fanart>http://www.raf.mod.uk/rafmotorsports/rafcms/mediafiles/61839631_5056_A318_A808D0385A9075C8.jpg</fanart>
+<thumbnail>http://static.filmon.com/assets/channels/2945/big_logo.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR white][B] NBCSN [/COLOR][/B]</title>
+<sportsdevilhttp://hdfree.tv/nbc-sports-live-stream.html</sportsdevil>
+<referer>http://hdfree.tv/tvlogos.html</referer>
+<fanart>http://thefightoflife.com/wp-content/uploads/2015/12/stadium.jpg</fanart>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR white][B] STEEL DREAMS [/COLOR][/B]</title>
+<sportsdevil>http://www.filmon.com/channel/steel-dreams</sportsdevil>
+<referer>http://www.filmon.com/channel/steel-dreams</referer>
+<fanart>http://www.raf.mod.uk/rafmotorsports/rafcms/mediafiles/61839631_5056_A318_A808D0385A9075C8.jpg</fanart>
+<thumbnail>http://static.filmon.com/assets/channels/784/big_logo.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR white][B] DISTANT ROADS [/COLOR][/B]</title>
+<sportsdevil>http://www.filmon.com/channel/distant-roads</sportsdevil>
+<referer>http://www.filmon.com/channel/distant-roads</referer>
+<fanart>http://www.raf.mod.uk/rafmotorsports/rafcms/mediafiles/61839631_5056_A318_A808D0385A9075C8.jpg</fanart>
+<thumbnail>http://static.filmon.com/assets/channels/787/big_logo.png</thumbnail>
+</item>
+ 
+ 
+
+ 
+ 
+<item>
+<title>[COLOR white][B] WIN SPORTS [/COLOR][/B]</title>
+<linkhttp://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8</link>
+<fanart>https://goo.gl/11SkT9</fanart>
+<thumbnail>https://goo.gl/11SkT9</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B] DXTV [/COLOR][/B]</title>
+<link>http://edge03.dcarsat.com.ar:1935/DXTV/DXTV.smil/chunklist_b800000_slesp.m3u8</link>
+<thumbnail>https://goo.gl/jwo8lk</thumbnail>
+<fanart>http://www.raf.mod.uk/rafmotorsports/rafcms/mediafiles/61839631_5056_A318_A808D0385A9075C8.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white][B] FOX SPORTS DX 506 [/COLOR][/B]</title>
+<link>http://motorsport.hopto.org:8080/</link>
+<fanart>http://www.raf.mod.uk/rafmotorsports/rafcms/mediafiles/61839631_5056_A318_A808D0385A9075C8.jpg</fanart>
+<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/fox-sports-5-colour.png</thumbnail>
+</item>
+
+
+
+<item> 
+<title>[COLOR white][B] RED BULL TV [/COLOR][/B]</title>
+<sportsdevil>http://www.redbull.tv/Redbulltv</sportsdevil>
+<referer>http://www.redbull.tv/Redbulltv</referer>
+<fanart>https://tvsociale.files.wordpress.com/2012/02/redbulltv.jpg</fanart>
+<thumbnail>https://tvsociale.files.wordpress.com/2012/02/redbulltv.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR white][B] POKER CENTRAL [/COLOR][/B]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8</link>
+<fanart>http://pnimg.net/w/articles/0/552/e23afbabd3.png</fanart>
+<thumbnail>http://pnimg.net/w/articles/0/552/e23afbabd3.png</thumbnail>
+</item>
+
+ 
+ 
+<item>
+<title>[COLOR white][B] UFC NEXT USA [/COLOR][/B]</title>
+<link>$doregex[sxlink]</link>
+<regex>
+<name>sxlink</name>
+<expres><![CDATA[high.stream.*?(http.*?)[",']\W]]></expres>
+<page>http://www.filmon.com/api-v2/channel/$doregex[ch_id]</page>
+<referer>http://www.filmon.com/tv/channel/export?channel_id=$doregex[ch_id]</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<accept>*/*; q=0.01</accept><cookieJar></cookieJar>
+</includeheaders>
+</regex>
+<regex>
+<name>ch_id</name><expres><![CDATA[clicked_channel_id.*?[",'](.*?)[",']\W]]></expres>
+<page>https://www.filmon.com/tv/ufc-next</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<accept>*/*; q=0.01</accept>
+<cookieJar></cookieJar>
+</includeheaders>
+</regex>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/220px-UFC_Logo.png</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/220px-UFC_Logo.png</thumbnail>
+</item>
+
+
+
+
+ 
+<item>
+<title>[COLOR white][B] BOX USA [/COLOR][/B]</title>
+<link>$doregex[sxlink]</link>
+<regex>
+<name>sxlink</name>
+<expres><![CDATA[high.stream.*?(http.*?)[",']\W]]></expres>
+<page>http://www.filmon.com/api-v2/channel/$doregex[ch_id]</page>
+<referer>http://www.filmon.com/tv/channel/export?channel_id=$doregex[ch_id]</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent><accept>*/*; q=0.01</accept>
+<cookieJar></cookieJar>
+</includeheaders>
+</regex>
+<regex>
+<name>ch_id</name><expres><![CDATA[clicked_channel_id.*?[",'](.*?)[",']\W]]></expres>
+<page>https://www.filmon.com/tv/live-boxing</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<accept>*/*; q=0.01</accept>
+<cookieJar></cookieJar>
+</includeheaders>
+</regex>
+<fanart>http://media.al.com/mobile-press-register/photo/2013/06/13009281-standard.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/220px-UFC_Logo.png</thumbnail>
+</item>
+
+
+<item> 
+<title>[COLOR white][B] WWE NETWORK [/COLOR][/B]</title>
+<sportsdevil>http://www.nowwatchtvlive.co/channel-tab-frame/wwepro-tv1.php</sportsdevil>
+<referer>http://www.nowwatchtvlive.co/</referer>
+<fanart>https://i.ytimg.com/vi/179ABLgaOKs/maxresdefault.jpg</fanart>
+<thumbnail>http://www.wwe.com/a/i/wwe_network_logo.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B] PAC 12  Arizona [/COLOR][/B]</title>
+<fanart>http://thefightoflife.com/wp-content/uploads/2015/12/stadium.jpg</fanart>
+<thumbnail>https://usc24x7.com/wp-content/uploads/2015/09/pac12logos.jpg</thumbnail>
+<link>http://xrxs.net/video/live-p12ariz-4728.m3u8</link>
+</item>
+<item>
+<title>[COLOR white][B] PAC 12 BAY AREA [/COLOR][/B]</title>
+<fanart>http://thefightoflife.com/wp-content/uploads/2015/12/stadium.jpg</fanart>
+<thumbnail>https://usc24x7.com/wp-content/uploads/2015/09/pac12logos.jpg</thumbnail>
+<link>http://xrxs.net/video/live-p12baya-4728.m3u8</link>
+</item>
+<item>
+<title>[COLOR white][B] PAC 12 LOS  ANGELES [/COLOR][/B]</title>
+<fanart>http://thefightoflife.com/wp-content/uploads/2015/12/stadium.jpg</fanart>
+<thumbnail>https://usc24x7.com/wp-content/uploads/2015/09/pac12logos.jpg</thumbnail>
+<link>http://xrxs.net/video/live-p12losa-2328.m3u8</link>
+</item>
+<item>
+<title>[COLOR white][B] PAC 12 OREGON [/COLOR][/B]</title>
+<fanart>http://thefightoflife.com/wp-content/uploads/2015/12/stadium.jpg</fanart>
+<thumbnail>https://usc24x7.com/wp-content/uploads/2015/09/pac12logos.jpg</thumbnail>
+<link>http://xrxs.net/video/live-p12oreg-4728.m3u8</link>
+</item>
+<item>
+<title>[COLOR white][B] PAC 12 MONTAIN [/COLOR][/B]</title>
+<fanart>http://thefightoflife.com/wp-content/uploads/2015/12/stadium.jpg</fanart>
+<thumbnail>https://usc24x7.com/wp-content/uploads/2015/09/pac12logos.jpg</thumbnail>
+<link>http://xrxs.net/video/live-p12moun-4728.m3u8</link>
+</item>
+<item>
+<title>[COLOR white][B] PAC 12 WASHINGTON [/COLOR][/B]</title>
+<fanart>http://thefightoflife.com/wp-content/uploads/2015/12/stadium.jpg</fanart>
+<thumbnail>https://usc24x7.com/wp-content/uploads/2015/09/pac12logos.jpg</thumbnail>
+<link>http://xrxs.net/video/live-p12wash-4728.m3u8</link>
+</item>
+<item>
+ 
+ 
+<item>
+<title>[COLOR white][B] OLYMPIC TV [/COLOR][/B]</title>
+<link>http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_6_3514000.m3u8</link>
+<fanart>http://static.hsw.com.br/gif/jogo-olimpicos-arcos.gif</fanart>
+<thumbnail>http://static.hsw.com.br/gif/jogo-olimpicos-arcos.gif</thumbnail>
+</item>
+ 
+
+
+ 
+<item>
+<title>[COLOR white][B] VERSUS TV [/COLOR][/B]</title>
+<linkhttp://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Versus_logo.svg/140px-Versus_logo.svg.png</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Versus_logo.svg/140px-Versus_logo.svg.png</thumbnail>
+</item> 
+ 
+ 
+<item>
+<title>[COLOR white][B] NBC GOLF CHANNEL [/COLOR][/B]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<fanart>http://www.thelogodb.com/images/media/logo/svqtwt1433452768.png</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/svqtwt1433452768.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR white][B] SPORTS USA [/COLOR][/B]</title>
+<linkhttp://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<fanart>http://thefightoflife.com/wp-content/uploads/2015/12/stadium.jpg</fanart>
+<thumbnail>http://www1.pictures.zimbio.com/gi/USA+Sports+Pictures+Week+October+26+2009+8KkVJq3frinl.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+Copyright ɠ2016 - Pluribus-Unum
+ 
