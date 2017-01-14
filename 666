@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <item>
 <title>[COLOR white][B] LISTA IPTV PT [/B] [/COLOR]</title>
 <link>$doregex[makelist2]</link>
@@ -31,35 +33,92 @@
  <fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
 </item>
 
+<item>
+<title>[COLOR red][B]TV PORTUGUESA[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
+
 
 
 
 
 <item>
-<title>[COLOR white][B] PT [/B] [/COLOR] </title>
-<linkhttp://ignorame</link>
-<fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
-<thumbnail>https://i0.wp.com/albaniaiptv.com/wp-content/uploads/2016/06/maxresdefault.jpg?fit=960%2C919</thumbnail>
-<externallink>http://pastebin.com/raw/1K9Qr8we</externallink>
+<title>[COLOR red][B]DESPORTO[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
 </item>
 
 
 
 
 <item>
-<title>[COLOR white][B] LISTA IPTV 2017 [/B] [/COLOR]</title>
-<link$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[<title>[COLOR white][B][makelist.param1][/B][/COLOR]</title>
-                    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=PLURIBUSUNUM [makelist.param1]</link>
-                    <thumbnail>https://i0.wp.com/albaniaiptv.com/wp-content/uploads/2016/06/maxresdefault.jpg?fit=960%2C919</thumbnail><fanart>http://i.cubeupload.com/KvSv1w.png</fanart>]]></listrepeat>
-<expres>#EXTINF:-1,(.*?)\n(.*)</expres>
-<page>http://pastebin.com/raw/LA5rvdwN</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail>https://i0.wp.com/albaniaiptv.com/wp-content/uploads/2016/06/maxresdefault.jpg?fit=960%2C919</thumbnail>
+<title>[COLOR red][B]AGENDAS DESPORTIVAS[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
 </item>
+
+
+
+
+<item>
+<title>[COLOR red][B]FILMES[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red][B]PAISES_TV[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR red][B]DECOMENTARIOS[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red][B]YOUTUBE[/COLOR][/B]</title>
+<link>_</link>
+<jsonrpc>plugin://plugin.video.youtube</jsonrpc>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>  
+<title>[COLOR red][B]CANAIS MUSICA[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
+
+
+
 
 
 
