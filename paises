@@ -1,1 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<item>
+<title>[COLOR white][B]BRASIL[/B] [/COLOR] </title>
+<linkhttp://ignorame</link>
+<fanart>http://t2.uccdn.com/pt/images/0/2/3/img_quantos_paises_existem_no_mundo_15320_orig.jpg</fanart>
+<thumbnail>http://i.huffpost.com/gen/2150400/images/o-REGIONS-OF-BRAZIL-facebook.jpg</thumbnail>
+<externallink></externallink>
+</item>
+
+
+<item>
+<title>[COLOR white][B]CANAIS MOVISTAR ESPANHA[/B] [/COLOR]</title>       
+<link>$doregex[makelist]</link><!-- movistar -->
+<regex>
+<name>makelist</name><!-- movistar -->
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>       
+<link>http://cdn.sitenow.me/live/[makelist.param2]/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<thumbnail></thumbnail>
+]]></listrepeat> <!-- movistar -->
+<expres>cinestrenos3:"(.*?)" url="(.*?)";</expres>
+<page></page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B]ESPANHA[/B] [/COLOR] </title>
+<linkhttp://ignorame</link>
+<fanart>http://t2.uccdn.com/pt/images/0/2/3/img_quantos_paises_existem_no_mundo_15320_orig.jpg</fanart>
+<thumbnail>http://previews.123rf.com/images/daboost/daboost1405/daboost140500022/28263867-Spanien-Flagge-Karte-dreidimensionale-render-isoliert-auf-wei--Lizenzfreie-Bilder.jpg</thumbnail>
+<externallink></externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B]AMERICA SUL[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<fanart>http://t2.uccdn.com/pt/images/0/2/3/img_quantos_paises_existem_no_mundo_15320_orig.jpg</fanart>
+<thumbnail>http://viajarbaratoamericadosul.com.br/wp-content/uploads/2014/09/america-do-sul.png</thumbnail>
+<externallink></externallink>
+</item>
+
+
+<item>
+<title>[COLOR white][B]UK[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<fanart>http://t2.uccdn.com/pt/images/0/2/3/img_quantos_paises_existem_no_mundo_15320_orig.jpg</fanart>
+<thumbnail>http://2.bp.blogspot.com/_t2Ry7I5DNuQ/S2FwcKaqvOI/AAAAAAAAFCk/Rz47t4ejWxs/s320/UK+map+union+flag.png</thumbnail>
+<externallink></externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white][B]SWISSECOM[/B] [/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lime][makelist.param1][/COLOR]</title>
+<link>[makelist.param2]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:-1.*,(.*?)\n(.*)</expres>
+<page>http://kodilive.eu/tv/rawtb&t=fuckyou-rupeno-mother-fucker</page>
+<referer>http://kodilive.eu/</referer>
+<mussolini>Fascist Mother Fucker</mussolini>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white][B]FRANCA[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<fanart>http://t2.uccdn.com/pt/images/0/2/3/img_quantos_paises_existem_no_mundo_15320_orig.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Flag-map_of_France.svg/2000px-Flag-map_of_France.svg.png</thumbnail>
+<externallink></externallink>
+</item>
+
+
+
+
 
