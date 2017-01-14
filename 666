@@ -104,7 +104,7 @@
 <link>_</link>
 <jsonrpc>plugin://plugin.video.youtube</jsonrpc>
 <fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
-<thumbnail>https://github.com/nikasnikas/russiantv/blob/master/logotipos1/YOUTUBE.png</thumbnail>
+<thumbnail>https://github.com/nikasnikas/russiantv/blob/master/logotipos1/YOUTUBE.png?raw=true</thumbnail>
 </item>
 
 
