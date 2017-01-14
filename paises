@@ -11,22 +11,6 @@
 </item>
 
 
-<item>
-<title>[COLOR white][B]CANAIS MOVISTAR ESPANHA[/B] [/COLOR]</title>       
-<link>$doregex[makelist]</link><!-- movistar -->
-<regex>
-<name>makelist</name><!-- movistar -->
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>       
-<link>http://cdn.sitenow.me/live/[makelist.param2]/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail></thumbnail>
-]]></listrepeat> <!-- movistar -->
-<expres>cinestrenos3:"(.*?)" url="(.*?)";</expres>
-<page></page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-</item>
-
 
 
 <item>
