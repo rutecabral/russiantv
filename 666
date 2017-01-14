@@ -9,7 +9,7 @@
 <listrepeat><![CDATA[
  <title>[COLOR white]666 IPTV[/COLOR] [COLOR red ][makelist2.param1][/COLOR]</title>
  <link>$doregex[makelist]</link>
- <thumbnail>https://i0.wp.com/albaniaiptv.com/wp-content/uploads/2016/06/maxresdefault.jpg?fit=960%2C919</thumbnail>
+ <thumbnail>https://github.com/nikasnikas/russiantv/blob/master/logotipos1/IPTV.png</thumbnail>
  <fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
  ]]></listrepeat>
 <expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
@@ -22,14 +22,14 @@
 <listrepeat><![CDATA[
  <title>[COLOR white]666 IPTV[COLOR lred][makelist.param1][/COLOR]</title>
  <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lawngreen] 666 IPTV[/COLOR] [makelist.param1]</link>
- <thumbnail>https://i0.wp.com/albaniaiptv.com/wp-content/uploads/2016/06/maxresdefault.jpg?fit=960%2C919</thumbnail>
+ <thumbnail>https://github.com/nikasnikas/russiantv/blob/master/logotipos1/IPTV.png</thumbnail>
  <fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
  ]]></listrepeat>
 <expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
 <page>[makelist2.param2]</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
-<thumbnail>https://i0.wp.com/albaniaiptv.com/wp-content/uploads/2016/06/maxresdefault.jpg?fit=960%2C919</thumbnail>
+<thumbnail>https://github.com/nikasnikas/russiantv/blob/master/logotipos1/IPTV.png</thumbnail>
  <fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
 </item>
 
@@ -37,8 +37,8 @@
 <title>[COLOR red][B]TV PORTUGUESA[/B] [/COLOR] </title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/nikasnikas/russiantv/master/portuguese%20tv</externallink>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
+<thumbnail>https://github.com/nikasnikas/russiantv/blob/master/logotipos1/tv%20pt.png</thumbnail>
 </item>
 
 
@@ -49,8 +49,8 @@
 <title>[COLOR red][B]DESPORTO[/B] [/COLOR] </title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/nikasnikas/russiantv/master/desporto</externallink>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
+<thumbnail>https://github.com/nikasnikas/russiantv/blob/master/logotipos1/desporto.png</thumbnail>
 </item>
 
 
@@ -60,8 +60,8 @@
 <title>[COLOR red][B]AGENDAS DESPORTIVAS[/B] [/COLOR] </title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/nikasnikas/russiantv/master/agendas</externallink>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
+<thumbnail>https://github.com/nikasnikas/russiantv/blob/master/logotipos1/AGENDA.png</thumbnail>
 </item>
 
 
@@ -71,8 +71,8 @@
 <title>[COLOR red][B]FILMES[/B] [/COLOR] </title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/nikasnikas/russiantv/master/paises</externallink>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
+<thumbnail>https://github.com/nikasnikas/russiantv/blob/master/logotipos1/filmes.png</thumbnail>
 </item>
 
 
@@ -82,8 +82,8 @@
 <title>[COLOR red][B]PAISES_TV[/B] [/COLOR] </title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/nikasnikas/russiantv/master/paises</externallink>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
+<thumbnail>https://github.com/nikasnikas/russiantv/blob/master/logotipos1/paises%20tv.png</thumbnail>
 </item>
 
 
@@ -92,8 +92,8 @@
 <title>[COLOR red][B]DECOMENTARIOS[/B] [/COLOR] </title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/nikasnikas/russiantv/master/paises</externallink>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
+<thumbnail>https://github.com/nikasnikas/russiantv/blob/master/logotipos1/Docus1.png</thumbnail>
 </item>
 
 
@@ -103,8 +103,8 @@
 <title>[COLOR red][B]YOUTUBE[/COLOR][/B]</title>
 <link>_</link>
 <jsonrpc>plugin://plugin.video.youtube</jsonrpc>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
+<thumbnail>https://github.com/nikasnikas/russiantv/blob/master/logotipos1/YOUTUBE.png</thumbnail>
 </item>
 
 
@@ -113,8 +113,8 @@
 <title>[COLOR red][B]CANAIS MUSICA[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/nikasnikas/russiantv/master/musica</externallink>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://i.cubeupload.com/KvSv1w.png</fanart>
+<thumbnail>https://github.com/nikasnikas/russiantv/blob/master/logotipos1/MUSICA.png</thumbnail>
 </item>
 
 
