@@ -4,6 +4,15 @@ Server:"PT/ funcional" URL="http://bit.do/tvhd-dynu-666-iptv"; regex""
 
 Server:"PT/WORLD  funcional" URL="http://bit.do/softiptv-666-iptv"; regex""
 
+Server:"ES/BR  funcional" URL="http://bit.do/666-ES-BR"; regex""
+
+
+
+
+
+http://149.56.29.127:8000/get.php?username=darius&password=darius&type=m3u
+
+
 
 
 
