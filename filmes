@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+<item>
+<title>[B][COLOR white]FILMES[/B][/COLOR]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+<fanart>https://www.mymovies.dk/media/28311/maincoverviewc.png</fanart>
+</item>
+
+<item>
+<title>[B][COLOR white]TV SHOWS[/B][/COLOR]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=tvNavigator</jsonrpc>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+<fanart>https://www.mymovies.dk/media/28311/maincoverviewc.png</fanart>
+</item>
+
+
+
+
+
+
+Copyright © 2016 - 666-IPTV
