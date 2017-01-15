@@ -5,7 +5,6 @@
 ###############################################################################
 
 
-RTP 1 (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
 
 RTP 1 (Link 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/5906.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
 
