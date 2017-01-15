@@ -1,1346 +1,235 @@
-[script.livetvbeta]
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>FRANCE 0</title>
+<sportsdevil>http://www.filmon.com/channel/france-0</sportsdevil>
+<referer>http://www.filmon.com/channel/france-0</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FRANCE 2</title>
+<sportsdevil>http://www.filmon.com/channel/france-2</sportsdevil>
+<referer>http://www.filmon.com/channel/france-2</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FRANCE 3</title>
+<sportsdevil>http://www.filmon.com/channel/france-3-alpes</sportsdevil>
+<referer>http://www.filmon.com/channel/france-3-alpes</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FRANCE 5</title>
+<sportsdevil>http://www.filmon.com/channel/france-5</sportsdevil>
+<referer>http://www.filmon.com/channel/france-5</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TF1 HD</title>
+<link>http://wownet.ro/str/0202.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0</link>
+<thumbnail>http://img.clubic.com/04780052-photo-logo-mytf1-sans-reflet.jpg</thumbnail>
+</item>
+
+<item>
+<title>RTS UN</title>
+<sportsdevil>http://www.filmon.com/channel/rts-un</sportsdevil>
+<referer>http://www.filmon.com/channel/rts-un</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>RTS DEUX</title>
+<sportsdevil>http://www.filmon.com/channel/rts-deux</sportsdevil>
+<referer>http://www.filmon.com/channel/rts-deux</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>RTS DEUX</title>
+<link>http://wownet.ro/str/0213.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>M6</title>
+<link>http://wownet.ro/str/0209.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0</link>
+<thumbnail>https://www.cantemo.com/images/case-studies/m6/m6_logo_small.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>W9</title>
+<link>http://wownet.ro/str/0217.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0</link>
+<thumbnail>http://www.jeremstar.fr/wp-content/uploads/news/2014-07/1733_-130243_0_0.jpg</thumbnail>
+</item>
+
+<item>
+<title>6Ter HD</title>
+<link>http://wownet.ro/str/0229.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0</link>
+<thumbnail>http://img.groupem6.fr/05062760-photo-6ter.jpg</thumbnail>
+</item>
+
+<item>
+<title>Weo HD</title>
+<link>http://str81.creacast.com:80/weo/high/playlist.m3u8</link>
+<thumbnail>http://img.over-blog-kiwi.com/0/66/76/15/20160229/ob_f755ac_640px-logoweorvb-4e79c29.jpg</thumbnail>
+</item>
+
+<item>  
+<title>ARTE</title>
+<link>http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BFM TV</title>
+<link>http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/671319509052035073/p4YoQ3IN.png</thumbnail>
+</item>
+
+<item>
+<title>BFM Business</title>
+<link>http://bfmlive-i.akamaihd.net/hls/live/218341/876450612001/bfmbusiness/04.m3u8</link>
+<thumbnail>http://www.crowdfundingimmo.fr/blog/wp-content/uploads/2015/10/BFM.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tv 5 Monde</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8</link>
+<thumbnail>http://image1.tvdigital.de/files/station_logos/260.png</thumbnail>
+</item>
+
+<item>
+<title>France 24</title>
+<link>http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr</link>
+<thumbnail>http://img.20mn.fr/iOt_OX_LRniOQOd2dQmQVw/2048x1536-fit_logo-france-24.jpg</thumbnail>
+</item>
+
+<item>
+<title>EuroNews</title>
+<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png</thumbnail>
+</item>
+
+<item>
+<title>EUROSPORT 1 FR</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/eurosport1.png</thumbnail>
+</item>
+
+<item>
+<title>EUROSPORT 2</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/eurosport2.png</thumbnail>
+</item>
+
+<item>
+<title>i-TÃ©lÃ©</title>
+<link>http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8</link>
+<thumbnail>http://www.geoffroydidier.net/wp-content/uploads/2013/03/Untitled-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Alsace 20</title>
+<link>http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/chunklist_w242426453_b1536000.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/archive/6/67/20130126130920!Alsace_20_logo_2013.png</thumbnail>
+</item>
+
+<item>
+<title>La Chaine Normandie</title>
+<link>http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8</link>
+<thumbnail>http://www.judoclubgrandrouen.fr/wp-content/uploads/2014/05/Image-19-569x269.png</thumbnail>
+</item>
+
+<item>
+<title>Gong</title>
+<link>http://ec.playmedia.fr:1935/gong-base/live/playlist.m3u8</link>
+<thumbnail>http://idata.over-blog.com/3/94/96/52/GONG.jpg</thumbnail>
+</item>
+
+<item>
+<title>La Tele</title>
+<link>http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8</link>
+<thumbnail>http://whyopencomputing.ch/wp-content/uploads/2014/05/la_tele_logo.png</thumbnail>
+</item>
+
+<item>
+<title>TV Rennes</title>
+<link>http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes35mob.smil/playlist.m3u8</link>
+<thumbnail>http://bowlingpromotioncup.e-monsite.com/medias/images/tv-rennes-web.png</thumbnail>
+</item>
+
+<item>
+<title>OM5 TV</title>
+<link>http://ec.playmedia.fr/om5-tv/live/playlist.m3u8</link>
+<thumbnail>http://www.mondialtv.fr/wp-content/uploads/logo-om5tv.png</thumbnail>
+</item>
+
+<item>
+<title>Mirabelle TV</title>
+<link>http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8</link>
+<thumbnail>http://www.mirabelle.tv/design/all/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Vosges TÃ©lÃ©vision</title>
+<link>http://live.vosgestelevision.tv/live/vosgestv/ngrp:vosgestv_all/pls.m3u8</link>
+<thumbnail>http://www.scot-vosges-centrales.fr/images/page/upload/d6c211ef87bc450cfcd46662411e9b8b.jpg</thumbnail>
+</item>
+
+<item>
+<title>TÃ©bÃ©o</title>
+<link></link>
+<thumbnail>http://www.quimper-volley.com/elite/wp-content/uploads/2013/02/tebeo-tv-rennes-ty-tele-640x360.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVPI Bayonne</title>
+<link>http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/playlist.m3u8</link>
+<thumbnail>http://www.tvpi.fr/wp-content/themes/tvpi/images/logo-tvpi.jpg</thumbnail>
+</item>
+
+<item>
+<title>Enorme TV </title>
+<link>http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/8/86/Logo_Enorme_TV.png</thumbnail>
+</item>
+
+<item>
+<title>Nancy Web</title>
+<link>http://rtmp.infomaniak.ch/livecast/nancy-webtv/playlist.m3u8</link>
+<thumbnail>http://www.wiiz.tv/wp-content/uploads/2016/03/a3a4e454427a4162187de03e62cfcfbf_400x400.png</thumbnail>
+</item>
+
+<item>
+<title>World Fashion Channel</title>
+<link>http://btv-net.mediacdn.ru/TVB7/wfhdeu/track_0_3000/playlist.m3u8</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6AlSGcMR9g1JcTQKQ5c5tnIb3AxGu-gsIJQCPuamQZd410c5Q.png</thumbnail>
+</item>
+
+<item>
+<title>NRJ TV</title>
+<link>http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8</link>
+<thumbnail>http://ringier.ch/sites/default/files/etv_logo_rgb_red_gr.jpg</thumbnail>
+</item>
+
+<item>
+<title>M6 Music Club</title>
+<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6AlSGcMR9g1JcTQKQ5c5tnIb3AxGu-gsIJQCPuamQZd410c5Q.png</thumbnail>
+</item>
+
+<item>
+<title>RMC DÃ©couverte</title>
+<link>http://streaming-hub.com/stream/rmc.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png</thumbnail>
+</item>
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
 
-###############################################################################
-                           						#PORTUGAL#
-###############################################################################
-
-
-
-
-
-RTP 3=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.rtp.pt/play/direto/rtp3%26referer=http://www.rtp.pt/
-
-TVI24 (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVI24 (Link 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2403.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVI24 (Link 3)=http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
-
-CMTV (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-CMTV (Link 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2406.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-CMTV (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/cmtv%26referer=http://www.liveflashplayer.net/
-
-SIC Mulher (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2385.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SIC Mulher (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/sicmulher%26referer=http://ucaster.eu/
-
-TVI_FICCAO (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2382.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVI_FICCAO (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/tvificcao%26referer=http://ezcast.tv/
-
-TVIREAL (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVIREAL (Link 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2380.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVIREAL (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/casadossegredos%26referer=http://ucaster.eu/
-
-A BOLA TV (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-A BOLA TV (Link 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2404.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-A BOLA TV (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/abolatv%26referer=http://www.estadiofutebol.com/
-
-Porto Canal=http://213.13.26.11:1935/live/portocanal/sons_of_anarchy.m3u8
-
-SIC Radical (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2386.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SIC Radical (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/sicradical%26referer=http://ucaster.eu/
-
-CANAL Q (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/5523.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SPORT TV 1 PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SPORT TV 1 PT (Link 2)=plugin://plugin.video.f4mTester/?url=http://liveitpremium.gleeze.com:8000/live/marco/marco/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SPORT TV 1 PT (Link 3)=plugin://plugin.video.f4mTester/?url=http://liveitpremium.gleeze.com:8000/live/marco/marco/1896.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SPORT TV 1 PT (Sportsdevil)=rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge
-
-SPORT TV 2 PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/333.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SPORT TV 2 PT (Link 2)=plugin://plugin.video.f4mTester/?url=http://liveitpremium.gleeze.com:8000/live/marco/marco/5386.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SPORT TV 2 PT (Link 3)=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1237.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SPORT TV 2 PT (Sportsdevil)=rtmp://31.220.0.201/privatestream/he56t5r6?keys=QQfJ2QkV5FjgeFJEBoHScw&keyt=1472850809 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width=630&height=510
-
-SPORT TV 3 PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SPORT TV 3 PT (Link 2)=plugin://plugin.video.f4mTester/?url=http://liveitpremium.gleeze.com:8000/live/marco/marco/5387.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SPORT TV 3 PT (Link 3)=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/796.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SPORT TV 3 PT (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/sporttv3%26referer=http://ucaster.eu/
-
-SPORT TV 4 PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SPORT TV 4 PT (Link 2)=plugin://plugin.video.f4mTester/?url=http://liveitpremium.gleeze.com:8000/live/marco/marco/5388.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SPORT TV 4 PT (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cdn2.zuuk.org/sporttv4.php%26referer=http://cdn2.zuuk.org/
-
-SPORT TV 5 PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SPORT TV 5 PT (Link 2)=plugin://plugin.video.f4mTester/?url=http://liveitpremium.gleeze.com:8000/live/marco/marco/5389.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SPORT TV 5 PT (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://firstrowsports.ge/?watch/408917/5/watch-xonetv.html%26referer=http://firstrowsports.ge/
-
-Benfica TV (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Benfica TV (Link 2)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Benfica TV (Sportsdevil)=rtmp://31.220.40.60/privatestream/gergtrg?keys=XYx3cqbMChCPHLfMG6JYCQ&keyt=1470164765 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510
-
-Sport TV + (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/208.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SPORTINGTV (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SPORTINGTV (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/foxmovies%26referer=http://ezcast.tv/
-
-Braga TV=http://mycujoo10-lh.akamaihd.net/i/sk3348_1@320192/master.m3u8
-
-Eurosport PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Eurosport PT (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/eurosport%26referer=http://www.estadiofutebol.com/
-
-Eurosport 2 Xtra HD (LINK 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Eurosport 2 PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Eurosport 2 PT (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/eurosport2%26referer=http://www.estadiofutebol.com/
-
-Disney Channel PT=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2484.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Nicke PT (Link 1)==plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2487.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SIC K (Link 1)==plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2489.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Panda Biggs (Link 1)==plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2488.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Panda (Link 1)==plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2482.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Disney Junior PT (Link 1)==plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2485.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Jim Jam=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2486.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Baby TV=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2481.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Cartoon Network PT=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2483.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVCine 1 (LINK 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVCine 1 (LINK 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2454.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVCine 1 (LINK 3)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2453.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVCine 2 (LINK 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVCine 2 (LINK 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2456.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVCine 2 (LINK 3)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2455.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVCine 3 (LINK 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVCine 3 (LINK 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2458.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVCine 3 (LINK 3)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2457.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVCine 4 (LINK 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVCine 4 (LINK 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2460.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVCine 4 (LINK 3)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2459.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Cinemundo=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2467.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Hollywood (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2474.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Hollywood (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/hollywood%26referer=http://ucaster.eu/
-
-Fox Movies (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2473.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Mov (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2476.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-AMCHD PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/209.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-AMCHD PT (Link 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2461.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-AMCHD PT (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/embed/amc.php?width=650&height=480%26referer=http://www.liveonlinetv247.info/embed/amc.php?width=650&height=480
-
-TV Series=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2451.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-AXN PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-AXN PT (Link 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2462.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-AXN PT (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/axn%26referer=http://ucaster.eu/
-
-AXN Black (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2464.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-AXN White (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2466.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-AXN White (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/axnwhite%26referer=http://ucaster.eu/
-
-SyFy PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2478.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-FOX PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2468.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-FOX PT (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/fox%26referer=http://ezcast.tv/
-
-FOX Life (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2472.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-FOX Life (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/foxlife%26referer=http://www.estadiofutebol.com/
-
-FOX Crime (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2470.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-FOX Crime (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/foxcrime%26referer=http://ucaster.eu/
-
-FOX Comedy (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2469.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-MTV Portugal (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2512.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-MTV Portugal (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/mtv%26referer=http://ucaster.eu/
-
-E! PT=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2501.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SIC Caras=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/5524.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TLC PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2498.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-CBS Reality PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/5539.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-AE PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2502.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-24Kitchen PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2505.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Food Network PT=
-
-Discovery PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2491.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Discovery PT (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sporttvsonline.com/index.php?canal=discovery%26referer=http://ucaster.eu/
-
-Odisseia (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2497.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Odisseia (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sporttvsonline.com/index.php?canal=odisseia%26referer=http://ucaster.eu/
-
-HIST PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2494.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-HIST PT (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sporttvsonline.com/index.php?canal=historia%26referer=http://liveflashplayer.com/
-
-Nat Geo PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2495.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Nat Geo PT (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/nationalgeographic%26referer=http://www.estadiofutebol.com/
-
-NGC Wild PT (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2496.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-CACAPESCA=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2448.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Touros=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2447.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Motors TV PT=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.tv/motors-tv-uk-live-stream%26referer=http://cricfree.tv/
-
-ECONOMICOTVHD=http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
-
-SIC Internacional=
-
-RTP Internacional=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.rtp.pt/play/direto/rtpinternacional%26referer=http://www.rtp.pt/
-
-RTPACO=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.rtp.pt/play/direto/rtpacores%26referer=http://www.rtp.pt/
-
-RTP Africa=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.rtp.pt/play/direto/rtpafrica%26referer=http://www.rtp.pt/
-
-RTP Madeira=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.rtp.pt/play/direto/rtpmadeira%26referer=http://www.rtp.pt/
-
-RTP Memoria=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.rtp.pt/play/direto/rtpmemoria%26referer=http://www.rtp.pt/
-
-Euronews PT=rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
-
-TPA Internacional=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2447.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVC=http://213.13.26.13:1935/live/rtc_teste/playlist.m3u8
-
-TV Lisboa=http://213.13.26.11:1935/live/tvldireto/sons_of_anarchy.m3u8
-
-ARTE PT=http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/sons_of_anarchy.m3u8
-
-Fatima=http://213.13.26.11:1935/live/santuario.stream/sons_of_anarchy.m3u8
-
-PFC=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2432.ts2q&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TV Globo (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2394.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TV Record (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2398.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-CANCAONOVA=http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
-
-VH1 Europe=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2517.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-Trace TV=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2511.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-MCM TOP=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2510.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-AfroMusic Portugal=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2518.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-
-
-
-
-###############################################################################
-											#ALEMANHA#
-###############################################################################
-
-
-
-
-
-Das Erste (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6351.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMANY
-Das Erste (Vpn)=https://streams.wilmaa.com/m3u8/get?channelId=ard_hd
-
-ARD-alpha (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1516.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-ARD-alpha (Vpn)=https://streams.wilmaa.com/m3u8/get?channelId=ard_alpha
-
-ZDF (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/3246.ts &amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-ZDF (Vpn)=https://streams.wilmaa.com/m3u8/get?channelId=zdf_hd
-
-SAT1 (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6377.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-SAT1 (Vpn)=https://streams.wilmaa.com/m3u8/get?channelId=sat_1_hd
-SAT1 (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://a7af4c42c5a684ca822c2a79af0e5a90.m3u8%26referer=mpd://a7af4c42c5a684ca822c2a79af0e5a90.m3u8
-
-RTL (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6373.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-RTL (Vpn)=https://streams.wilmaa.com/m3u8/get?channelId=rtl_ch_hd
-RTL (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://efe01da942ed68b700b911f5a1b131a7.m3u8%26referer=mpd://efe01da942ed68b700b911f5a1b131a7.m3u8
-
-ProSieben (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6369.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-ProSieben (Vpn)=https://streams.wilmaa.com/m3u8/get?channelId=pro7_ch_hd
-ProSieben (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://f5b7e9d4afca2d7198ab069c6b814454.m3u8%26referer=mpd://f5b7e9d4afca2d7198ab069c6b814454.m3u8
-
-VOX (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6399.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-VOX (Vpn)=https://streams.wilmaa.com/m3u8/get?channelId=vox_hd
-VOX (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://ccda5ae0852a58ca19ec280be9db8ee5.m3u8%26referer=mpd://ccda5ae0852a58ca19ec280be9db8ee5.m3u8
-
-kabel eins (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/3248.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-kabel eins (Link 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1166.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-kabel eins (Vpn)=https://streams.wilmaa.com/m3u8/get?channelId=kabel_1_hd
-kabel eins (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://c6c1577fa8aab8655ab13b8db1ef8cfb.m3u8%26referer=mpd://c6c1577fa8aab8655ab13b8db1ef8cfb.m3u8
-
-sixx=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1153.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-sixx (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://298b488cf4205e03edc17afc8de9527b.m3u8%26referer=mpd://298b488cf4205e03edc17afc8de9527b.m3u8
-
-RTL II (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6374.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-RTL II (Vpn)=https://streams.wilmaa.com/m3u8/get?channelId=rtl_2_hd
-
-3sat (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/928.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMANY
-3sat (Vpn)=https://streams.wilmaa.com/m3u8/get?channelId=3_sat_hd
-
-DMAX (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/794.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-DMAX (Vpn)=https://streams.wilmaa.com/m3u8/get?channelId=dmax\
-DMAX (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://c6c040406a13028a9f02ab306e34b86a.m3u8%26referer=mpd://c6c040406a13028a9f02ab306e34b86a.m3u8
-
-ARTE DE (Link 1)=plugin://plugin.video.f4mTester/?url= http://tvonline.tvhd4k.com:19500/live/ge/ge/3220.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMANY
-ARTE DE (Vpn)=https://streams.wilmaa.com/m3u8/get?channelId=arte_de_hd
-ARTE DE (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://27aefa295a0bf58102b7f7c373d950bc.m3u8%26referer=mpd://27aefa295a0bf58102b7f7c373d950bc.m3u8
-###################
-
-SPORT1 DE (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1487.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-SPORT1 DE (Vpn)=https://streams.wilmaa.com/m3u8/get?channelId=sport_1
-SPORT1 DE (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://e5225eafe9137eb1ed44350c1a12a019.m3u8%26referer=mpd://e5225eafe9137eb1ed44350c1a12a019.m3u8
-
-Eurosport 1 DE (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/3247.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-Eurosport 1 DE (Vpn)=https://streams.wilmaa.com/m3u8/get?channelId=eurosport
-
-Sky Sport 1 DE (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6389.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-Sky Sport 1 (Sportsdevil)=DEplugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://f99a45c353064b8ab4f95574a93c9245.m3u8%26referer=mpd://f99a45c353064b8ab4f95574a93c9245.m3u8
-
-Sky Sport 2 DE (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6390.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-Sky Sport 2 DE (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://231e7d1de87cb6ac16992717d34c6683.m3u8%26referer=mpd://231e7d1de87cb6ac16992717d34c6683.m3u8
-
-Sky Sport Bundesliga 1 HD=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6392.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-Sky Sport Bundesliga 1 HD=plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/mark/mark/3314.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Sky Sport Bundesliga 2 HD=plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/mark/mark/3046.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Sky Sport News DE=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6393.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-SPORT1 US DE=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1485.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-##################
-
-Disney XD DE (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6356.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-Disney XD DE (Link 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/3235.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-
-Disney Channel DE (Oficial)=https://delivestream-lh.akamaihd.net/i/live_1@320996/master.m3u8
-Disney Channel DE (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://8e0671ea88041d9410d86a9f45e9e461.m3u8%26referer=mpd://8e0671ea88041d9410d86a9f45e9e461.m3u8
-
-Disney Cinemagic DE=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6354.ts&amp ;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Disney Junior DE=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6355.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-Disney Junior DE=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6355.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-KiKA (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-KiKA (Vpn)=https://streams.wilmaa.com/m3u8/get?channelId=kika_hd
-KiKA (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://7814b33686d5348d4511c75d331b3b45.m3u8%26referer=mpd://7814b33686d5348d4511c75d331b3b45.m3u8
-
-SUPER RTL (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/906.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-SUPER RTL (Vpn)=https://streams.wilmaa.com/m3u8/get?channelId=super_rtl_hd
-SUPER RTL (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://5375a143da899f4c318aa7518fc43278.m3u8%26referer=mpd://5375a143da899f4c318aa7518fc43278.m3u8
-##################
-
-KinoweltTV=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/2630.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Universal Channel=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6398.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMANY
-
-Sky Atlantic DE=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6379.ts &amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Sky Cinema+1=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6381.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Sky Krimi=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6388.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Sky Comedy=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6384.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Sky Cinema+24=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6382.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Sky Cinema (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6380.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-Sky Cinema (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://921a17733860f7f08fc434085cc18421.m3u8%26referer=mpd://921a17733860f7f08fc434085cc18421.m3u8
-
-Sky Hits=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6387.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Sky Action DE=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6383.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Sky Emotion=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6385.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-SKY SELECT HD=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1479.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-SKY SELECT 1=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6344.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-SKY SELECT 2=plugin://plugin.video.f4mTester/?http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6345.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-SKY SELECT 3=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6346.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-SKY SELECT 4=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6347.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-SKY SELECT 5=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6348.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-SKY SELECT 6=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1490.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-SKY SELECT 7=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1489.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-SKY SELECT 8=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1488.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-SKY SELECT 9=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1488.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-FOX DE=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6359.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-AXN DE=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/557.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-TNT Film=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/2624.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-TNT Serie=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/3222.ts &amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-TLC DE=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/565.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMANY
-
-MGM=plugin://plugin.video.f4mTester/?http://tvonline.tvhd4k.com:19500/live/ge/ge/6363.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Syfy DE (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6395.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-Syfy DE (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://646bfd6945f63f6d1fdc0b4e6b446b1a.m3u8%26referer=mpd://646bfd6945f63f6d1fdc0b4e6b446b1a.m3u8
-
-13th Street=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6329.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-###############
-
-HISTORY DE=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1486.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Nat Geo DE=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6368.ts &amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-NAT GEO WILD DE=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6367.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Discovery DE=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6353.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMANY
-
-PLANET=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1153.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMANY
-
-###############
-
-ANIXE=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1252.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMANY
-
-AE DE=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6350.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Jukebox=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6361.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMANY
-
-Classica=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/3242.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMANY
-
-SPIEGEL Geschichte=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1238.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMANY
-
-RTL Passion=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6372.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-RTL Crime=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6371.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-RTL NITRO (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/6375.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-RTL NITRO (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://63c32568297d3d493b484a35b9022951.m3u8%26referer=mpd://63c32568297d3d493b484a35b9022951.m3u8
-
-RTL Living=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/3227.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Romance TV=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1475.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Heimatkanal=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/2631.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-GoldStar TV=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1249.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMANY
-
-SAT1 Gold=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/186.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMANY
-
-SRF 1=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1472.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-Einsfestival=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1307.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMANY
-
-tagesschau24=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/566.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMANY
-
-ORF eins (Link 1)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/1421.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-ORF eins (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://757ee53b00d9d571902b1d8d2351bb01.m3u8%26referer=mpd://757ee53b00d9d571902b1d8d2351bb01.m3u8
-
-ORF 2=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/ge/ge/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV GERMAN TV
-
-
-
-
-
-
-
-###############################################################################
-											#FRANÇA#
-###############################################################################
-
-
-
-
-
-TF1=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1612.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-FRANCE 2=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1613.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-FRANCE 3=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1614.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-FRANCE 4=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1615.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-FRANCE 5=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1616.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-FRANCE O=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1617.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-M6=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1618.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-ARTE FR=plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-TMC=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1624.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-RTL9=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1630.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-NT1=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1628.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-TEVA=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1808.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-D8=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-D17=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/568.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-W9=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1627.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-NRJ 12=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1839.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-6TER=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1619.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-CANAL+ CINEMA=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-CANAL+=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1429.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-CANAL+ FAMILY=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-CANAL+ DECALE=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-CANAL+ SERIES=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1433.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-CINE+ FRISSON=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-CINE+ PREMIER=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1435.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-CINE+ FAMIZ=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-CINE+ CLASSIC=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-CINE PREMIER=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/554.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-OCS CITY=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/2190.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-OCS CHOC=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-OCS GEANTS=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/2191.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-OCS MAX=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1728.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-CINE+ EMOTION=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-13EME RUE=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1622.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-COMEDIE+=plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-PARIS PREMIERE=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1789.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-SyFy FR=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1428.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-E! FR=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/2262.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-SERIE CLUB=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1623.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-TV BREIZH=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1848.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-FRANCE 24=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/397.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-WEO=plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-BFM TV=plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-TIJI=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/614.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-PIWI=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-GULLI=plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-BOING=plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-HISTOIRE=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/597.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-TELETOON +1=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/2137.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-CANAL J=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/612.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-BOOMERANG FR=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1647.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-DISNEY XD FR=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/2208.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-DISNEY CHANNEL FR=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1852.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-DISNEY JUNIOR FR=plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-DISNEY CINEMAGIC FR=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1775.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-NICK FR=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/2139.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-CARTOON NETWORK FR=plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-Canal+ Sport=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-beIN SPORTS 1 FR=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-beIN SPORTS 2 FR=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-beIN SPORTS 3 FR=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-EUROSPORT FR=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/609.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-EUROSPORT 2 FR=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/608.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-FOOT+ 24=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1741.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-RTL TVI=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/1215.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-L'EQUIPE TV=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-EQUIDIA LIFE=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/610.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-PLANETE+=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/586.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-PLANETE+ CI=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1850.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-PLANETE+ AE=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1653.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-NAT GEO FR=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/598.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-NAT GEO WILD FR=plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-USHUAIA=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/593.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-DISCOVERY SCIENCE FR=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1651.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-VOYAGE=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/592.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-ANIMAUX=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-CHASSE ET PECHE=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-RMC DECOUVERTE=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1658.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-AB MOTEURS=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/2112.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-RTS Un=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-RTS Deux=plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/biro/biro/625.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-TV5 MONDE=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-CHERIE 25=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1631.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-M6 MUSIC FR=plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/basta/basta/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV FRANCE
-
-
-
-
-###############################################################################
-											#UK#
-###############################################################################
-
-
-
-
-BBC One=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/bbc-one%26referer=http://www.filmon.com/channel/bbc-one
-
-BBC Two=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/bbc-two%26referer=http://www.filmon.com/channel/bbc-two
-
-BBC3=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/bbc-three%26referer=http://www.filmon.com/channel/bbc-three
-
-BBC4=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/bbc-four%26referer=http://www.filmon.com/channel/bbc-four
-
-BBC 1 North Ireland=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/bbc-1-north-ireland%26referer=http://www.filmon.com/channel/bbc-1-north-ireland
-
-BBC 1 Scotland=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/bbc-1-scotland%26referer=http://www.filmon.com/channel/bbc-1-scotland
-
-BBC 1 Wales=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/bbc-1-wales%26referer=http://www.filmon.com/channel/bbc-1-wales
-
-ITV=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/itv1%26referer=http://www.filmon.com/channel/itv1
-
-ITV+1=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/itv-plus-1%26referer=http://www.filmon.com/channel/itv-plus-1
-
-ITV2=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/itv2%26referer=http://www.filmon.com/channel/itv2
-
-ITV2+1=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/itv2-plus-1%26referer=http://www.filmon.com/channel/itv2-plus-1
-
-ITV3=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/itv3%26referer=http://www.filmon.com/channel/itv3
-
-ITV3+1=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/itv3-plus-1%26referer=http://www.filmon.com/channel/itv3-plus-1
-
-ITV4=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/itv4%26referer=http://www.filmon.com/channel/itv4
-
-ITV4+1=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/itv4-plus-1%26referer=http://www.filmon.com/channel/itv4-plus-1
-
-ITVBe=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/itvbe%26referer=http://www.filmon.com/channel/itvbe
-
-Channel 4=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/channel-4%26referer=http://www.filmon.com/channel/channel-4
-
-Channel 5=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/channel-5%26referer=http://www.filmon.com/channel/channel-5
-
-Dave=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/dave%26referer=http://www.filmon.com/channel/dave
-
-E4=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/e4%26referer=http://www.filmon.com/channel/e4
-
-More4=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/more4%26referer=http://www.filmon.com/channel/more4
-
-CBS Reality=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/cbs-reality%26referer=http://www.filmon.com/channel/cbs-reality
-
-CBS Action UK=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/cbs-action%26referer=http://www.filmon.com/channel/cbs-action
-
-CBS Drama=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/cbs-drama%26referer=http://www.filmon.com/channel/cbs-drama
-
-Pick=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/pick-tv%26referer=http://www.filmon.com/channel/pick-tv
-
-QUEST=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/quest%26referer=http://www.filmon.com/channel/quest
-
-5USA=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/5usa%26referer=http://www.filmon.com/channel/5usa
-
-5Star=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/channel/5-star%26referer=http://www.filmon.com/channel/5-star
-
-
-
-RTE One=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1495.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-RTE Two=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1498.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky 1 UK=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1823.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky Living UK=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1771.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky Atlantic UK=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/2011.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Comedy Central UK=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1817.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Syfy UK=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1764.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Challenge=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/2223.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky 2 UK=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-E! UK=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1819.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky Arts1=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1772.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky Movies Premiere UK=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1681.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky showcase=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/2441.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky Action UK=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky Family UK=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1678.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky Movies Sci-fi/Horror=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1683.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Film4=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1766.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Horror channel=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/2267.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky Sports 1 UK (Link 1)=http://1.442244.info/uk_sky_sports_1/index.m3u8
-
-Sky Sports 1 UK (Link 2)=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/725.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky Sports 2 UK (Link 1)=http://1.442244.info/uk_sky_sports_2/index.m3u8
-
-Sky Sports 2 UK (Link 2)=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/726.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky Sports 3 UK (Link 1)=http://1.442244.info/uk_sky_sports_3/index.m3u8
-
-Sky Sports 3 UK (Link 2)=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/727.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky Sports 4 UK (Link 1)=http://1.442244.info/uk_sky_sports_4/index.m3u8
-
-Sky Sports 4 UK (Link 2)=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/728.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky Sports 5 UK (Link 1)=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/729.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky Sports 5 UK (Link 2)=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky Sports F1 UK (Link 1)=http://1.442244.info/uk_sky_sports_f1/index.m3u8
-
-Sky Sports F1 UK (Link 2)=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/724.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky Sports News UK=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1698.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-BT Sport 1=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-BT Sport 2=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/732.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Setanta Sports 1=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Liverpool FC TV=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/720.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-MUTV=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/2301.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Eurosport 1 UK=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Eurosport 2 UK=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/721.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Chelsea TV=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/723.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Racing UK=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/2316.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-Sky News UK=plugin://plugin.video.f4mTester/?url=http://mediaiptv.xyz:8000/live/Lewis/Lewis/1759.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV UK
-
-
-
-
-
-###############################################################################
-											#USA#
-###############################################################################
-
-
-
-
-
- TVO=plugin://plugin.video.f4mTester/?url=http://cableking-iptv.com:8000/live/mark123/mark123/14402.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-CBC CA=plugin://plugin.video.f4mTester/?url=http://go.teamexpat.ninja/live/jessica/jessica/35270.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-CTV CA=plugin://plugin.video.f4mTester/?url=http://go.teamexpat.ninja/live/jessica/jessica/44631.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-GLOBAL CA=plugin://plugin.video.f4mTester/?url=http://go.teamexpat.ninja/live/jessica/jessica/1831.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-City Tv CA (Link 1)=http://btflash-lh.akamaihd.net/i/BTTOFLASH_live@120219/master.m3u8
-
-City Tv CA (Link 2)=plugin://plugin.video.f4mTester/?url=http://go.teamexpat.ninja/live/jessica/jessica/45026.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-CP24 CA (Link 1)=plugin://plugin.video.f4mTester/?url=http://go.teamexpat.ninja/live/jessica/jessica/36615.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-CP24 CA (Link 2)=http://stream.ssh101.com:1935/live/TheKrazy0neLive/soa_link.m3u8
-
-WTHR=https://bcsecurelivehls-i.akamaihd.net/hls/live/261940/1942203455001/nat/master.m3u8
-
-CHCH=http://52.86.189.59:1935/live/news/soa_link.m3u8
-
-BRAVO CA (Link 1)=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/2732.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-BRAVO CA (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://afa880d42b94c19e5f644bdf24e76651.m3u8%26referer=mpd://afa880d42b94c19e5f644bdf24e76651.m3u8
-
-SPACE CA=plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/barrientos/barrientos/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Slice CA=plugin://plugin.video.f4mTester/?url=http://go.teamexpat.ninja/live/jessica/jessica/44944.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-History CA=http://link.theplatform.com/s/dtjsEC/chjdYJxKb44V
-
-H2 CA (Link 1)=plugin://plugin.video.f4mTester/?url=http://go.teamexpat.ninja/live/jessica/jessica/45064.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-H2 CA (Link 2)=plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19424.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-H2 CA (Link 3)=http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
-
-H2 CA (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://ca2bf3f6b7e18a508253e9521510a4b5.m3u8%26referer=mpd://ca2bf3f6b7e18a508253e9521510a4b5.m3u8
-
-Showcase CA=plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/barrientos/barrientos/467.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-HGTV CA (Link 1)=plugin://plugin.video.f4mTester/?url=http://go.teamexpat.ninja/live/jessica/jessica/45203.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-HGTV CA (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://7d9000c0967cc4919f07ecbe2736c95a.m3u8%26referer=mpd://7d9000c0967cc4919f07ecbe2736c95a.m3u8
-
-TLC CA (Link 1)=plugin://plugin.video.f4mTester/?url=http://go.teamexpat.ninja/live/jessica/jessica/40791.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-TLC CA (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://e12a8b6e18ee3d67dc8153f4f4713a40.m3u8%26referer=mpd://e12a8b6e18ee3d67dc8153f4f4713a40.m3u8
-
-Omni 1 CA=plugin://plugin.video.f4mTester/?url=http://cableking-iptv.com:8000/live/mark123/mark123/14404.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Spike TV CA=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/2099.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-BET CA=plugin://plugin.video.f4mTester/?url=http://go.teamexpat.ninja/live/jessica/jessica/44888.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-TV Land CA=plugin://plugin.video.f4mTester/?url=http://go.teamexpat.ninja/live/jessica/jessica/45229.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-ABC US (Link 1)=plugin://plugin.video.f4mTester/?url=http://iptvch.selfip.info/live/sayed/sayed/2090.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-ABC US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://ba354149f3c117ceb69529a1542b6281.m3u8%26referer=mpd://ba354149f3c117ceb69529a1542b6281.m3u8
-
-CBS US (Link 1)=plugin://plugin.video.f4mTester/?url=http://cableking-iptv.com:8000/live/mark123/mark123/14369.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-CBS US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://4d0fadca2686a2cdd4a4a6623212449c.m3u8%26referer=mpd://4d0fadca2686a2cdd4a4a6623212449c.m3u8
-
-CW US (Link 1)=plugin://plugin.video.f4mTester/?url=http://go.teamexpat.ninja/live/jessica/jessica/44604.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-CW US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://296e56c668bc8bd6b0044d3e4f034153.m3u8%26referer=mpd://296e56c668bc8bd6b0044d3e4f034153.m3u8
-
-NBC US (Link 1)=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/2116.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-NBC US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://3baf7db0d8f1d400816fb6166b297f46.m3u8%26referer=mpd://3baf7db0d8f1d400816fb6166b297f46.m3u8
-
-PBS US (Link 1)=plugin://plugin.video.f4mTester/?url=http://iptvch.selfip.info/live/sayed/sayed/1425.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-PBS US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://fe22365235b496368609515523bfb971.m3u8%26referer=mpd://fe22365235b496368609515523bfb971.m3u8
-
-AE US (Link 1)=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/2637.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-AE US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://ce425ca32dea0f37b22717ae989bcffb.m3u8%26referer=mpd://ce425ca32dea0f37b22717ae989bcffb.m3u8
-
-AMC US (Link 1)=plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19419.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-AMC US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://b06316b29b6c788ecf95287567cb2a3a.m3u8%26referer=mpd://b06316b29b6c788ecf95287567cb2a3a.m3u8
-
-Animal Planet US (Link 1)=plugin://plugin.video.f4mTester/?url=http://cableking-iptv.com:8000/live/mark123/mark123/14370.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Animal Planet US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://a0f8ddb8c8251a68f136648b32c0f62d.m3u8%26referer=mpd://a0f8ddb8c8251a68f136648b32c0f62d.m3u8
-
-YTV CA=plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/barrientos/barrientos/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Cartoon Network US (Link 1)=plugin://plugin.video.f4mTester/?url=http://go.teamexpat.ninja/live/jessica/jessica/44480.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Cartoon Network US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://720933e62452d65671c676a065c18192.m3u8%26referer=mpd://720933e62452d65671c676a065c18192.m3u8
-
-Lifetime (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://171879baa092ef14d5ec8f401aeaffcd.m3u8%26referer=mpd://171879baa092ef14d5ec8f401aeaffcd.m3u8
-
-E! US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://c73381d6543700790e949ee08157120f.m3u8%26referer=mpd://c73381d6543700790e949ee08157120f.m3u8
-
-FX (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8%26referer=mpd://d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8
-
-ABCFAM (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://676bc281cc47daab103d1629738a60fd.m3u8%26referer=mpd://676bc281cc47daab103d1629738a60fd.m3u8
-
-FOX US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://938230615eafe3e2adf33332d1be3940.m3u8%26referer=mpd://938230615eafe3e2adf33332d1be3940.m3u8
-
-CNBC US=plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/9484.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-CNN US=plugin://plugin.video.f4mTester/?url=http://137.74.94.161:8000/live/drew/drew/9476.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Comedy Central US (Link 1)=plugin://plugin.video.f4mTester/?url=http://go.teamexpat.ninja/live/jessica/jessica/44942.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Comedy Central US (Link 2)=http://216.31.255.235/hlsl/1/COMEDY/03.m3u8
-
-Comedy Central US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8%26referer=mpd://1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8
-
-Discovery Channel US (Link 1)=plugin://plugin.video.f4mTester/?url=http://cableking-iptv.com:8000/live/mark123/mark123/14379.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Discovery Channel US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://075d66993151c178df1ed9840202d983.m3u8%26referer=mpd://075d66993151c178df1ed9840202d983.m3u8
-
-Fox News Channel (Link 1)=plugin://plugin.video.f4mTester/?url=http://cableking-iptv.com:8000/live/mark123/mark123/14365.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Fox News Channel (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://877e1fd192b3a58577e4387971c215a7.m3u8%26referer=mpd://877e1fd192b3a58577e4387971c215a7.m3u8
-
-History US (Link 1)=plugin://plugin.video.f4mTester/?url=http://go.teamexpat.ninja/live/jessica/jessica/1495.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-History US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://d722293bb9bbf20cc112924ef000a225.m3u8%26referer=mpd://d722293bb9bbf20cc112924ef000a225.m3u8
-
-National Geographic US=plugin://plugin.video.f4mTester/?url=http://cableking-iptv.com:8000/live/mark123/mark123/14429.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-National Geographic US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://be2fa358e4f1c9a0ee833aa15f829f81.m3u8%26referer=mpd://be2fa358e4f1c9a0ee833aa15f829f81.m3u8
-
-NGeoWild (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://acf9249594df8395d62a4fee0dd484cb.m3u8%26referer=mpd://acf9249594df8395d62a4fee0dd484cb.m3u8
-
-Nickelodeon US (Link 1)=plugin://plugin.video.f4mTester/?url=http://cableking-iptv.com:8000/live/mark123/mark123/14362.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Nickelodeon US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://a55d7c24a00915235cdc6a6ddaaaf67b.m3u8%26referer=mpd://a55d7c24a00915235cdc6a6ddaaaf67b.m3u8
-
-Syfy US (Link 1)=plugin://plugin.video.f4mTester/?url=http://cableking-iptv.com:8000/live/mark123/mark123/14361.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Syfy US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://15bb1e6a7ebf945b85b834b2c84cf9f1.m3u8%26referer=mpd://15bb1e6a7ebf945b85b834b2c84cf9f1.m3u8
-
-TBS US (Link 1)=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/2729.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-TBS US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://d377ff63e9e229343418ba065acb643f.m3u8%26referer=mpd://d377ff63e9e229343418ba065acb643f.m3u8
-
-TNT US (Link 1)=plugin://plugin.video.f4mTester/?url=http://cableking-iptv.com:8000/live/mark123/mark123/14360.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-TNT US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://b5e39fb359975ce6a68be8a6935d4d7e.m3u8%26referer=mpd://b5e39fb359975ce6a68be8a6935d4d7e.m3u8
-
-USA US (Link 1)=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/2731.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-USA US (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://0e367435d4bc1a89ea7506cf0eadb3a7.m3u8%26referer=mpd://0e367435d4bc1a89ea7506cf0eadb3a7.m3u8
-
-Disney (Link 1)=plugin://plugin.video.f4mTester/?url=http://go.teamexpat.ninja/live/jessica/jessica/45282.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Disney (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://c8c584218a3b3036c001e7e440b63c28.m3u8%26referer=mpd://c8c584218a3b3036c001e7e440b63c28.m3u8
-
-Hallmark=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/2393.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-HBO (Link 1)=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/827.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-HBO (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://509e5f41146e278f9eab1ddaceb34515.m3u8%26referer=mpd://509e5f41146e278f9eab1ddaceb34515.m3u8
-
-HBO 2=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/2115.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Univision=plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/16799.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-The Shopping Channel=http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
-
-E US=rtmp://ewtn.mpl.miisolutions.net:1935/ewtn-live-8/_definst_?videoId=2621119413001&lineUpId=&pubId=1675170007001&playerId=2112648932001&affiliateId= playpath=450.mp4?videoId=2621119413001&lineUpId=&pubId=1675170007001&playerId=2112648932001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20150903.1327/federatedVideoUI/BrightcovePlayer.swf?uid=1445311745986 pageUrl=http://www.ewtn.com/multimedia/live_player.asp?satname=canenglp&telrad=t003&alerted=1&tabindex= live=1 timeout=15
-
-Salt Light=rtmp://saltandlighttv.streamguys.net/live/ playpath=sltviphone swfUrl=http://saltandlighttv.org/js/jwplayer7/jwplayer.flash.swf pageUrl=http://saltandlighttv.org/live live=1
-
-NBCSN (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://e4d6b46ca81b601fe8461b43f641488c.m3u8%26referer=mpd://e4d6b46ca81b601fe8461b43f641488c.m3u8
-
-Sports Net One (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://a2b655b0f54f8fdd0c5640acbf1378a3.m3u8%26referer=mpd://a2b655b0f54f8fdd0c5640acbf1378a3.m3u8
-
-Sports Net EST=plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/barrientos/barrientos/1207.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Sports Net Ontario (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://cc3c73333d405c31fef0b6247be099df.m3u8%26referer=mpd://cc3c73333d405c31fef0b6247be099df.m3u8
-
-Sports Net West=plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/barrientos/barrientos/1208.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Sports Net Pacifique=plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/barrientos/barrientos/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Sportsnet World (Link 1)=plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/barrientos/barrientos/1210.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-Sportsnet World (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://ac090b774d01536fce7dc4e4a08abf25.m3u8%26referer=mpd://ac090b774d01536fce7dc4e4a08abf25.m3u8
-
-TSN1 (Link 1)=plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/barrientos/barrientos/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-TSN1 (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://40beacf01f852160e0d3cf1d962449e6.m3u8%26referer=mpd://40beacf01f852160e0d3cf1d962449e6.m3u8
-
-TSN2 (Link 1)=plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/barrientos/barrientos/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-TSN2 (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://bc42f627a6254b12a10dd090a8c7ff42.m3u8%26referer=mpd://bc42f627a6254b12a10dd090a8c7ff42.m3u8
-
-TSN3 (Link 1)=plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/barrientos/barrientos/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-TSN3 (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://418e4380e1577624622d91b6a1997e5b.m3u8%26referer=mpd://418e4380e1577624622d91b6a1997e5b.m3u8
-
-TSN4 (Link 1)=plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/barrientos/barrientos/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-TSN4 (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://217ba763c8f90807fe76de76e36be045.m3u8%26referer=mpd://217ba763c8f90807fe76de76e36be045.m3u8
-
-TSN5 (Link 1)=plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/barrientos/barrientos/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV NORTH AMERICA
-
-TSN5 (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://feca97a90c0adc74a57a8a3c1e93a4df.m3u8%26referer=mpd://feca97a90c0adc74a57a8a3c1e93a4df.m3u8
-
-ESPN (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://7b0ef842a6a1233a8a86a8533063a1a1.m3u8%26referer=mpd://7b0ef842a6a1233a8a86a8533063a1a1.m3u8
-
-ESPN 2 (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://7a39b11b9af247053ebd637ff1ca9db8.m3u8%26referer=mpd://7a39b11b9af247053ebd637ff1ca9db8.m3u8
-
-ESPNews (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://9d2247985e7b08766720fcb65864c49c.m3u8%26referer=mpd://9d2247985e7b08766720fcb65864c49c.m3u8
-
-FS1 (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://c1ba19187bba4d273cdc877dc413564a.m3u8%26referer=mpd://c1ba19187bba4d273cdc877dc413564a.m3u8
-
-MLB (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://fdfa99e57d0b886df98fa16b8cefa2b8.m3u8%26referer=mpd://fdfa99e57d0b886df98fa16b8cefa2b8.m3u8
-
-NFL (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://877ad69c810ccc693b207cf11badc04a.m3u8%26referer=mpd://877ad69c810ccc693b207cf11badc04a.m3u8
-
-NBATV (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://ac36a3696ec781ba88e1469447723040.m3u8%26referer=mpd://ac36a3696ec781ba88e1469447723040.m3u8
-
-Golf (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://5eed0d397932b4241d4866728c3b7fcf.m3u8%26referer=mpd://5eed0d397932b4241d4866728c3b7fcf.m3u8
-
-BEINS1 (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://b307f22d624c42d3d6931847c0415ee3.m3u8%26referer=mpd://b307f22d624c42d3d6931847c0415ee3.m3u8
-
-WWE (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://cd61f0ea3b560a665ea813dab2505a2f.m3u8%26referer=mpd://cd61f0ea3b560a665ea813dab2505a2f.m3u8
-
-Poker Central=http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-
-
-
-
-
-###############################################################################
-											#ITALIA#
-###############################################################################
-
-
-
-
-
-Rai Uno=plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/brahim/brahim/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Rai Due=plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/brahim/brahim/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Rai Tre=plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/brahim/brahim/173.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Rai 4=plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/brahim/brahim/1163.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Rai 5=plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/brahim/brahim/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-La7=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky Uno=
-
-Sky Atlantic IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1419.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Fox IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1980.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Fox Life IT=
-
-Fox Crime IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1740.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky Arte IT=plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/brahim/brahim/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-AXN IT=plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/brahim/brahim/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Comedy Central IT=
-
-Cielo HD=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1126.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Fox Comedy HD=
-
-MTV IT=
-
-MAN-GA=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3126.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky 3D=
-
-La3=
-
-Sky Sport24 HD=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1770.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky Sport 1 IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1422.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky Sport 2 IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1421.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky Sport 3 IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3117.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Fox Sports IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3096.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky Sport F1 IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1981.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky Sport MotoGP IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1773.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Eurosport IT=
-
-Eurosport 2 IT=
-
-Sky Cinema Uno=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1983.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky Cinema Family IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3095.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Discovery Channel IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1991.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Nat Geo IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1743.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-History Channel IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1774.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Nat Geo Wild IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1982.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Gambero Rosso HD=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3135.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Animal Planet IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1955.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky TG24=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1078.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Fox Animation=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1845.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Cartoonito=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1963.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Disney Channel IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1756.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Super=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3143.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-K2=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3141.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-DMAX IT=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1961.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Giallo=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3124.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Juventus TV=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3098.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-SuperTennis HD=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1990.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Rai Sport 1=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1768.t
-
-Rai Sport 2=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1769.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Milan TV HD=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1777.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Inter Channel=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3097.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky Calcio 1 HD=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3099.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky Calcio 2 HD=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3100.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky Calcio 3 HD=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3111.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky Calcio 4 HD=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3112.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky Calcio 5 HD=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3113.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky Calcio 6 HD=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3114.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky Calcio 7 HD=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/3115.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Rai News=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Sky News=
-
-Primafila 1=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1424.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Primafila 2=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1425.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Primafila 3=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1435.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Primafila 4=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Primafila 5=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1433.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Primafila 6=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Primafila 7=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Primafila 8=plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/sousa/sousa/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV ITALIAN TV
-
-Primafila 9=
-
-Primafila 10=
-
-Primafila 11
-
-Primafila 12
-
-Primafila 13
-
-Primafila 14
-
-Primafila 15
-
-Primafila 16
-
-Primafila 17
-
-Primafila 18
-
-
-
-
-
-
-###############################################################################
-											#RADIO#
-###############################################################################
-
-ANTENA 1=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.rtp.pt/play/direto/antena1%26referer=http://www.rtp.pt/
-
-ANTENA 2=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.rtp.pt/play/direto/antena2%26referer=http://www.rtp.pt/
-
-ANTENA 3=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.rtp.pt/play/direto/antena3%26referer=http://www.rtp.pt/
-
-RDP INTERNACIONAL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.rtp.pt/play/direto/rdpinternacional%26referer=http://www.rtp.pt/
-
-MARCOENSE FM=http://185.11.164.106:9000
-
-RADIO MONTEMURO=http://centova.radios.pt:8573
-
-PAIVENSE FM=http://paivensefm.no-ip.info:8080
-
-NOVE3CINCO=http://centova.radios.pt:9522/stream
-
-MAIS KIZOMBA=http://109.71.41.250:8123
-
-WRL RADIO 7 - URBAN=http://streaming.radionomy.com/TopHip-HopSongs
-
-MEGA HERTZ - KIZOMBA=http://178.32.239.25:8085
-
-TSF=http://tsfdirecto.tsf.pt/tsfdirecto.mp3
-
-RADIO RENASCENCA=http://7739.live.streamtheworld.com/RADIO_RENASCENCA_SC
-
-MEGA HITS=http://7749.live.streamtheworld.com/MEGA_HITS_SC
-
-KISS FM ALBUFEIRA=http://213.239.218.99:7104/stream
-
-RFM=http://7709.live.streamtheworld.com/RFM_SC
-
-RFM CLUBBING=http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
-
-RFM OCEANO PACIFICO=http://7749.live.streamtheworld.com:3690/OCEANPACIFIC_SC
-
-80S RFM=http://7739.live.streamtheworld.com/GR80SRFM_SC
-
-COMERCIAL=rtmp://195.23.102.206/comerciallc/ playpath=comerciallc.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#radio-comercial
-
-SIM RADIO LISBOA=http://62.48.143.117/RADIO_SIM_SC
-
-NOVA ERA=http://stream.radio.com.pt:9478/stream
-
-94 FM=http://195.8.58.150:35022/;stream.nsv
-
-SUPER FM=http://94.23.76.235:9956
-
-HIPER FM=http://109.71.41.250:8158
-
-M80=rtmp://195.23.102.206/m80mp3/ playpath=m80mp3.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#radio-m80
-
-VODAFONE FM=rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?ts=1425470563156 live=1 pageUrl=http://www.vodafone.fm
-
-TOP 80 FM=http://live.top80.fm:8086
-
-TOTAL FM=http://94.126.173.23:8000/;stream/1
-
-ORBITAL=http://195.23.85.126:8401/1
-
-RLCB DANCE=http://rlcbdance.no-ip.org:8431
-
-AMALIA=http://stream.radio.com.pt:9496
-
-Despertar Estremoz=http://stream.vgsoftware.com.pt:8000/radiodespertar.m3u
-
-Douro Nacional=http://94.23.76.235:9996
-
-GOLO FM=http://176.9.88.190:9992
-
-Radio Atlântida=http://94.23.76.235:9926
-
-MyTopFm SAO MIGUEL=http://195.8.58.150:35006
-
-MyTopFm Terceira=http://195.8.58.150:35008
-
-Canal FM=http://centova.radio.com.pt:9466
-
-CIDADE FM=rtmp://195.23.102.208/cidadefmlc/ playpath=cidadefmlc.sdp swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radioonline.com.pt/#radio-cidade-fm
-
-RDP AFRICA=rtmp://195.245.168.29:1935/liveradio/ playpath=rdpafrica80a swfUrl=http://cdn.webrad.io/swf/soundmanager2_flash9.swf live=1 timeout=15 pageUrl=http://www.radioonline.com.pt
-
-TORRES NOVAS FM=http://centova.radios.pt:8475
-
-REGAEE RADIO 808=http://66.225.205.5:80
-
-RADIO TOP 40=http://31.12.64.204:8000/A-RADIO-TOP-40
-
-RUC=http://ruc2.cidadedecoimbra.com:8000
-
-CLUBE LAMEGO=rtmp://aacplus.stream10.net:1935/sfera playpath=7050 swfUrl=http://www.rclamego.pt/player/aacplayer.swf pageUrl=http://www.rclamego.pt/player/aacplayer.swf
-
-OXIGENIO=http://centova.radios.pt:9498
-
-ANTENA MINHO=http://centova.radios.pt:9464
-
-MARGINAL=http://centova.radios.pt:8499
