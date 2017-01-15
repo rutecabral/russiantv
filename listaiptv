@@ -1,6 +1,6 @@
 
 
-Server:"DEVIL LISTES" URL="http://bit.do/martinsmartins"; regex"PT"
+Server:"DEVIL LISTES" URL="http://portalipt.ddns.net:12000//get.php?username=pack.bntv@gmail.com&password=pack2017&type=m3u"; regex"PT"
 
 
 Server:"DEVIL LISTES" URL="http://bit.do/tvhd-dynu-666-iptv"; regex""
@@ -14,7 +14,7 @@ Server:"DEVIL LISTES" URL="http://bit.do/666-ES-BR"; regex""
 
 
 
-http:///get.php?username=&password=&type=m3u
+
 
 
 
