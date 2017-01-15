@@ -6,35 +6,7 @@
 
 
 
-RTP 1 (Link 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/5906.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
 
-RTP 1 (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.rtp.pt/play/direto/rtp1%26referer=http://www.rtp.pt/
-
-RTP 2 (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-RTP 2 (Link 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/5911.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-RTP 2 (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.rtp.pt/play/direto/rtp2%26referer=http://www.rtp.pt/
-
-SIC (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SIC (Link 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/5907.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SIC (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/sic%26referer=http://ucaster.eu/
-
-TVI (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVI (Link 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/5910.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-TVI (Link 3)=http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
-
-TVI (Sportsdevil)=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.estadiofutebol.com/gratis/tvi%26referer=http://ezcast.tv/
-
-SIC Noticias (Link 1)=plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SIC Noticias (Link 2)=plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/2402.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIVE TV PORTUGAL
-
-SIC Noticias (Link 3)=http://213.13.26.11:1935/live/sicnoticias/sons_of_anarchy.m3u8
 
 RTP 3=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.rtp.pt/play/direto/rtp3%26referer=http://www.rtp.pt/
 
