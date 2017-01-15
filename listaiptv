@@ -6,9 +6,9 @@ Server:"PT/WORLD  funcional" URL="http://bit.do/softiptv-666-iptv"; regex""
 
 Server:"ES/BR  funcional" URL="http://bit.do/666-ES-BR"; regex""
 
-Server:"UK teste funcional"http://37.187.175.177:8000/get.php?username=chaaben631&password=chaaben631&type=m3u"; regex" UK"
+Server:"UK teste funcional URL="http://37.187.175.177:8000/get.php?username=chaaben631&password=chaaben631&type=m3u"; regex" UK"
 
-Server:"teste  funcional"http://guekiptv.com:8000/get.php?username=atillaerol&password=i0g6Ef5g24&type=m3u"; regex" UK"
+Server:"teste  funcional" URL=http://guekiptv.com:8000/get.php?username=atillaerol&password=i0g6Ef5g24&type=m3u"; regex" UK"
 
 
 
