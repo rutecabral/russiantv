@@ -10,7 +10,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param4][/COLOR][COLOR skyblue] [makelist.param5][/COLOR] ([makelist.param6])  </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param3]+Arenavision</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=666+[makelist.param3]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -35,7 +35,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title>[COLOR orange][makelist.param1][/COLOR] [COLOR gray][makelist.param2][/COLOR] [COLOR mintcream][makelist.param4][/COLOR][COLOR gold] [makelist.param5][/COLOR]  </title>
-<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=Pluribus Unum P2P - Arenavision</link>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=666 P2P - Arenavision</link>
             <regex>
             <name>hash</name>
             <expres>this.loadPlayer\("(.*?)"</expres>
@@ -65,7 +65,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR lightslategray] (Channel [makelist.param4])[/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LiveTV+[makelist.param3]+Arenavision</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=666+[makelist.param3]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -94,7 +94,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR lightslategray] (Channel [makelist.param4])[/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=PluribusUnum+[makelist.param3]+Arenavision</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=666+[makelist.param3]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -120,7 +120,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR lightslategray] (Channel [makelist.param4])[/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=PluribusUnum+[makelist.param3]+Arenavision</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=666+[makelist.param3]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -147,7 +147,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR lightslategray] (Channel [makelist.param4])[/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=PluribusUnum+[makelist.param3]+Arenavision</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=666+[makelist.param3]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -175,7 +175,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR lightslategray] (Channel [makelist.param4])[/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=PluribusUnum+[makelist.param3]+Arenavision</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=666+[makelist.param3]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -204,7 +204,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR lightslategray] (Channel [makelist.param4])[/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=PluribusUnum+[makelist.param3]+Arenavision</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=666+[makelist.param3]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -233,7 +233,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR lightslategray] (Channel [makelist.param4])[/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LiveTV+[makelist.param3]+Arenavision</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=666+[makelist.param3]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -261,7 +261,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR lightslategray] (Channel [makelist.param4])[/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LiveTV+[makelist.param3]+Arenavision</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=666+[makelist.param3]+Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
