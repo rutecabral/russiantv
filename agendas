@@ -284,7 +284,7 @@
 <item>
 <title>[COLOR white][B]FOX SPORTS[/COLOR][/B]</title>
 <link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=55&amp;name=Foxsports&amp;url=sss</jsonrpc>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=11&amp;name=Foxsports&amp;url=sss</jsonrpc>
 <fanart>http://cdn2.hubspot.net/hub/360031/file-1957232534-jpg/study-schedule-for-ACT-SAT.jpg</fanart>
 <thumbnail>http://www.ipbox.com.br/images/logo_ipbox.png</thumbnail>
 </item>
