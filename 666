@@ -118,9 +118,9 @@
 </item>
 
 <item>
-<title>[B][COLOR white]RADIOS TODO MUNDO[/B][/COLOR]</title>
+<title>[B][COLOR red]RADIOS TODO MUNDO[/B][/COLOR]</title>
 <link>http://fui.me</link>
-<jsonrpc>plugin://plugin.audio.radio_de-master/?action=movieNavigator</jsonrpc>
+<jsonrpc>plugin://plugin.audio.radio_de-master/</jsonrpc>
 <thumbnail>http://s.hswstatic.com/gif/radio-image-2.jpg</thumbnail>
 <fanart>http://www.radioera.com/images/Zenith5S319.jpg</fanart>
 </item>
