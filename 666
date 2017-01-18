@@ -117,11 +117,16 @@
 <thumbnail>https://github.com/nikasnikas/russiantv/blob/master/logotipos1/MUSICA.png?raw=true</thumbnail>
 </item>
 
+<item>
+<title>[B][COLOR white]RADIOS TODO MUNDO[/B][/COLOR]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.audio.radio_de-master/?action=movieNavigator</jsonrpc>
+<thumbnail>http://s.hswstatic.com/gif/radio-image-2.jpg</thumbnail>
+<fanart>http://www.radioera.com/images/Zenith5S319.jpg</fanart>
+</item>
 
 
 
-
-plugin.audio.radio_de-master
 
 
 
